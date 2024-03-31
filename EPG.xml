@@ -68352,6 +68352,9 @@
 	<programme channel="黑莓动画" start="20240401031400 +0800" stop="20240401033800 +0800">
 		<title lang="zh">06_星辰变第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240401033800 +0800" stop="20240401035600 +0800">
+		<title lang="zh">05_全职法师第2季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -69051,6 +69054,9 @@
 	<programme channel="newtv超级综艺" start="20240401021900 +0800" stop="20240401033600 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240401034600 +0800" stop="20240401043600 +0800">
+		<title lang="zh">幸福账单</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -69090,6 +69096,9 @@
 	<programme channel="newtv超级电视剧" start="20240401031800 +0800" stop="20240401040300 +0800">
 		<title lang="zh">07_春光灿烂猪九妹</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240401040800 +0800" stop="20240401045100 +0800">
+		<title lang="zh">35_以父之名</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -69104,6 +69113,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240401024800 +0800" stop="20240401033400 +0800">
 		<title lang="zh">41_隋唐英雄3</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240401033400 +0800" stop="20240401042100 +0800">
+		<title lang="zh">42_隋唐英雄3</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -69153,6 +69165,9 @@
 	<programme channel="newtv军旅剧场" start="20240401025600 +0800" stop="20240401034100 +0800">
 		<title lang="zh">18_天啸</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240401034100 +0800" stop="20240401042700 +0800">
+		<title lang="zh">19_天啸</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -69167,6 +69182,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240401024900 +0800" stop="20240401033500 +0800">
 		<title lang="zh">21_钢的琴</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240401033500 +0800" stop="20240401042000 +0800">
+		<title lang="zh">22_钢的琴</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -69198,6 +69216,9 @@
 	<programme channel="newtv动作电影" start="20240401021200 +0800" stop="20240401033200 +0800">
 		<title lang="zh">绝世战魂</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240401033200 +0800" stop="20240401045800 +0800">
+		<title lang="zh">包公传奇之天长案</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -69225,6 +69246,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240401024800 +0800" stop="20240401033300 +0800">
 		<title lang="zh">40_新万家灯火</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240401033300 +0800" stop="20240401041800 +0800">
+		<title lang="zh">01_家有喜妇（DVD版）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -69248,6 +69272,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240401030800 +0800" stop="20240401033400 +0800">
 		<title lang="zh">岛内媒体曝光台军新型“抗炸机堡” 美媒披露以色列“全球追杀”计划</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240401033400 +0800" stop="20240401035800 +0800">
+		<title lang="zh">以色列在加沙地带扩大军事行动 朝鲜半岛将开启太空军备竞赛？</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -69299,6 +69326,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240401013200 +0800" stop="20240401040600 +0800">
 		<title lang="zh">开门大吉（2022）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240401040600 +0800" stop="20240401054800 +0800">
+		<title lang="zh">艺览天下（2022）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
