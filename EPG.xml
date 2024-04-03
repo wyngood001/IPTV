@@ -31641,6 +31641,9 @@
 	<programme channel="咪咕足球" start="20240404023000 +0800" stop="20240404050000 +0800">
 		<title lang="zh">英超 第31轮 阿森纳vs卢顿</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240404050000 +0800" stop="20240404065900 +0800">
+		<title lang="zh">2024赛季中甲第4轮全场回放：苏州东吴3:0佛山南狮（官方解说）</title>
+	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
@@ -67353,6 +67356,9 @@
 	<programme channel="黑莓电影" start="20240404032800 +0800" stop="20240404045700 +0800">
 		<title lang="zh">大上海夜枭</title>
 	</programme>
+	<programme channel="黑莓电影" start="20240404045700 +0800" stop="20240404070100 +0800">
+		<title lang="zh">失忆少女物语</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -68025,6 +68031,9 @@
 	<programme channel="newtv热播精选" start="20240404041400 +0800" stop="20240404050000 +0800">
 		<title lang="zh">20_青山不墨</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240404050000 +0800" stop="20240404054500 +0800">
+		<title lang="zh">21_青山不墨</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -68075,6 +68084,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240404040900 +0800" stop="20240404045700 +0800">
 		<title lang="zh">神秘的动物家庭</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240404045700 +0800" stop="20240404054300 +0800">
+		<title lang="zh">动物的外衣</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -68156,6 +68168,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240404044400 +0800" stop="20240404044800 +0800">
 		<title lang="zh">映山红-孙爱迪（舞蹈展示）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240404044800 +0800" stop="20240404053800 +0800">
+		<title lang="zh">诗人、儿童文学作家金波：人生的价值就是在思考（20240104）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
