@@ -31902,6 +31902,9 @@
 	<programme channel="咪咕综合体育" start="20240405000000 +0800" stop="20240405015400 +0800">
 		<title lang="zh">23/24赛季CBA常规赛第42轮全场回放：江苏vs青岛（刘沛元）（50帧原画）</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240405015400 +0800" stop="20240405033100 +0800">
+		<title lang="zh">2024斯诺克威尔士公开赛Day3回放：马克b7艾伦4-1斯佳辉（李照）</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -56895,6 +56898,9 @@
 	<programme channel="纯享4K" start="20240405011200 +0800" stop="20240405015200 +0800">
 		<title lang="zh">探索b7发现4K 大足石刻：石头上的世界 第3集 美的守望</title>
 	</programme>
+	<programme channel="纯享4K" start="20240405015200 +0800" stop="20240405023200 +0800">
+		<title lang="zh">探索b7发现4K 大足石刻：石头上的世界 第4集 造像里的密码</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -67788,6 +67794,9 @@
 	<programme channel="黑莓动画" start="20240405013800 +0800" stop="20240405014600 +0800">
 		<title lang="zh">36_我靠充值当武帝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240405015500 +0800" stop="20240405021800 +0800">
+		<title lang="zh">01_骸骨骑士大人奇幻世界冒险中</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -67796,6 +67805,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240405235600 +0800" stop="20240405014800 +0800">
 		<title lang="zh">天空上三公尺</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240405014800 +0800" stop="20240405032400 +0800">
+		<title lang="zh">异空危情</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -68460,11 +68472,17 @@
 	<programme channel="newtv炫舞未来" start="20240405013800 +0800" stop="20240405015200 +0800">
 		<title lang="zh">阿布霍的姑娘-毕刚（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240405015900 +0800" stop="20240405021300 +0800">
+		<title lang="zh">风雨彩虹铿锵玫瑰-毕刚（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
 	<programme channel="newtv精品综合" start="20240405003400 +0800" stop="20240405014700 +0800">
 		<title lang="zh">夺命寄生</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240405014700 +0800" stop="20240405025700 +0800">
+		<title lang="zh">大伙之家</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
