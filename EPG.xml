@@ -20856,101 +20856,146 @@
 	<channel id="上视纪实">
 		<display-name lang="zh">上视纪实</display-name>
 	</channel>
-	<programme channel="上视纪实" start="20240405000000 +0800" stop="20240405000900 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="上视纪实" start="20240405000000 +0800" stop="20240405002500 +0800">
+		<title lang="zh">动物救星－乡村兽医Ⅱ</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405000900 +0800" stop="20240405002000 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="上视纪实" start="20240405002500 +0800" stop="20240405011400 +0800">
+		<title lang="zh">当卢浮宫遇见紫禁城（5）</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405002000 +0800" stop="20240405012000 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="上视纪实" start="20240405011400 +0800" stop="20240405015100 +0800">
+		<title lang="zh">寻味·王家沙</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405012000 +0800" stop="20240405015300 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="上视纪实" start="20240405015100 +0800" stop="20240405024400 +0800">
+		<title lang="zh">理想照耀中国Ⅱ：刘志丹</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405015300 +0800" stop="20240405024800 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="上视纪实" start="20240405024400 +0800" stop="20240405025500 +0800">
+		<title lang="zh">国宝里的新疆Ⅱ：西延的长城</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405024800 +0800" stop="20240405030000 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="上视纪实" start="20240405025500 +0800" stop="20240405040300 +0800">
+		<title lang="zh">柴米油盐之上（4）</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405030000 +0800" stop="20240405040300 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="上视纪实" start="20240405040300 +0800" stop="20240405050400 +0800">
+		<title lang="zh">野地刺客：獠牙尖角</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405040300 +0800" stop="20240405050100 +0800">
-		<title lang="zh">探索</title>
+	<programme channel="上视纪实" start="20240405050400 +0800" stop="20240405060000 +0800">
+		<title lang="zh">动物救星－乡村兽医Ⅱ</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405050100 +0800" stop="20240405060000 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="上视纪实" start="20240405060000 +0800" stop="20240405070700 +0800">
+		<title lang="zh">柴米油盐之上（4）</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405060000 +0800" stop="20240405070000 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="上视纪实" start="20240405070700 +0800" stop="20240405074300 +0800">
+		<title lang="zh">寻味·王家沙</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405070000 +0800" stop="20240405073000 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="上视纪实" start="20240405074300 +0800" stop="20240405082800 +0800">
+		<title lang="zh">当卢浮宫遇见紫禁城（5）</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405073000 +0800" stop="20240405083200 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="上视纪实" start="20240405082800 +0800" stop="20240405083400 +0800">
+		<title lang="zh">十年逐梦路（8）：幸福梦想</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405083200 +0800" stop="20240405092700 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="上视纪实" start="20240405083400 +0800" stop="20240405092100 +0800">
+		<title lang="zh">动物救星－乡村兽医Ⅱ</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405092700 +0800" stop="20240405102600 +0800">
-		<title lang="zh">探索</title>
+	<programme channel="上视纪实" start="20240405092100 +0800" stop="20240405092700 +0800">
+		<title lang="zh">十年逐梦路（7）：无悔青春－麦小登</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405102600 +0800" stop="20240405112100 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="上视纪实" start="20240405092700 +0800" stop="20240405101400 +0800">
+		<title lang="zh">野地刺客：獠牙尖角</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405112100 +0800" stop="20240405113000 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="上视纪实" start="20240405101400 +0800" stop="20240405101700 +0800">
+		<title lang="zh">十年逐梦路（7）：无悔青春－苏翊鸣</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405113000 +0800" stop="20240405123000 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="上视纪实" start="20240405101700 +0800" stop="20240405101900 +0800">
+		<title lang="zh">武夷山：丹山碧水的秘境</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405123000 +0800" stop="20240405130000 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="上视纪实" start="20240405101900 +0800" stop="20240405111500 +0800">
+		<title lang="zh">理想照耀中国Ⅱ：刘志丹</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405130000 +0800" stop="20240405135500 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="上视纪实" start="20240405111500 +0800" stop="20240405112200 +0800">
+		<title lang="zh">国宝里的新疆Ⅱ：西延的长城</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405135500 +0800" stop="20240405150000 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="上视纪实" start="20240405112200 +0800" stop="20240405112800 +0800">
+		<title lang="zh">十年逐梦路（5）：和谐共生－韩新林</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405150000 +0800" stop="20240405160300 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="上视纪实" start="20240405112800 +0800" stop="20240405122600 +0800">
+		<title lang="zh">柴米油盐之上（4）</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405160300 +0800" stop="20240405170400 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="上视纪实" start="20240405122600 +0800" stop="20240405122800 +0800">
+		<title lang="zh">建筑系列：邬达克故居</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405170400 +0800" stop="20240405180000 +0800">
-		<title lang="zh">探索</title>
+	<programme channel="上视纪实" start="20240405122800 +0800" stop="20240405125500 +0800">
+		<title lang="zh">中国考古报道（4）</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405180000 +0800" stop="20240405190000 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="上视纪实" start="20240405125500 +0800" stop="20240405125700 +0800">
+		<title lang="zh">建筑系列：漫步思南路</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405190000 +0800" stop="20240405193200 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="上视纪实" start="20240405125700 +0800" stop="20240405130100 +0800">
+		<title lang="zh">永远的行走（1）：徒步彩云之南</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405193200 +0800" stop="20240405200000 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="上视纪实" start="20240405130100 +0800" stop="20240405134500 +0800">
+		<title lang="zh">澳大利亚致命怪物：北方的噩梦</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405200000 +0800" stop="20240405205100 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="上视纪实" start="20240405134500 +0800" stop="20240405134700 +0800">
+		<title lang="zh">永远的行走（2）：邂逅好客中国</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405205100 +0800" stop="20240405210000 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="上视纪实" start="20240405134700 +0800" stop="20240405134900 +0800">
+		<title lang="zh">建筑系列：邬达克故居</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405210000 +0800" stop="20240405214600 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="上视纪实" start="20240405134900 +0800" stop="20240405143400 +0800">
+		<title lang="zh">当卢浮宫遇见紫禁城、传家本事</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405214600 +0800" stop="20240405220000 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="上视纪实" start="20240405143400 +0800" stop="20240405143600 +0800">
+		<title lang="zh">建筑系列：河滨大楼</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405220000 +0800" stop="20240405223000 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="上视纪实" start="20240405143600 +0800" stop="20240405144200 +0800">
+		<title lang="zh">永远的行走：穿越古道今昔</title>
 	</programme>
-	<programme channel="上视纪实" start="20240405223000 +0800" stop="20240405231800 +0800">
-		<title lang="zh">探索</title>
+	<programme channel="上视纪实" start="20240405144200 +0800" stop="20240405153100 +0800">
+		<title lang="zh">天下徽商（9）</title>
+	</programme>
+	<programme channel="上视纪实" start="20240405153100 +0800" stop="20240405154300 +0800">
+		<title lang="zh">国宝里的新疆Ⅱ：官印下的好日子</title>
+	</programme>
+	<programme channel="上视纪实" start="20240405154300 +0800" stop="20240405163700 +0800">
+		<title lang="zh">幸福的模样Ⅱ（3）：绘梦</title>
+	</programme>
+	<programme channel="上视纪实" start="20240405163700 +0800" stop="20240405172700 +0800">
+		<title lang="zh">抢救垦荒族：引开洪流</title>
+	</programme>
+	<programme channel="上视纪实" start="20240405172700 +0800" stop="20240405180000 +0800">
+		<title lang="zh">中国考古报道（4）</title>
+	</programme>
+	<programme channel="上视纪实" start="20240405180000 +0800" stop="20240405184500 +0800">
+		<title lang="zh">鲨鱼不挑食</title>
+	</programme>
+	<programme channel="上视纪实" start="20240405184500 +0800" stop="20240405190000 +0800">
+		<title lang="zh">超级装（503）</title>
+	</programme>
+	<programme channel="上视纪实" start="20240405190000 +0800" stop="20240405195500 +0800">
+		<title lang="zh">当卢浮宫遇见紫禁城、传家本事</title>
+	</programme>
+	<programme channel="上视纪实" start="20240405195500 +0800" stop="20240405200000 +0800">
+		<title lang="zh">志在上海（5）</title>
+	</programme>
+	<programme channel="上视纪实" start="20240405200000 +0800" stop="20240405205000 +0800">
+		<title lang="zh">理想照耀中国Ⅱ：许包野</title>
+	</programme>
+	<programme channel="上视纪实" start="20240405205000 +0800" stop="20240405210000 +0800">
+		<title lang="zh">时禾岁丰</title>
+	</programme>
+	<programme channel="上视纪实" start="20240405210000 +0800" stop="20240405220000 +0800">
+		<title lang="zh">武夷山·我们的国家公园（1）</title>
+	</programme>
+	<programme channel="上视纪实" start="20240405220000 +0800" stop="20240405221500 +0800">
+		<title lang="zh">超级装（478）</title>
+	</programme>
+	<programme channel="上视纪实" start="20240405221500 +0800" stop="20240405224500 +0800">
+		<title lang="zh">中国考古报道（5）</title>
+	</programme>
+	<programme channel="上视纪实" start="20240405224500 +0800" stop="20240405233600 +0800">
+		<title lang="zh">野地刺客：尖嘴利爪</title>
+	</programme>
+	<programme channel="上视纪实" start="20240405233600 +0800" stop="20240405235900 +0800">
+		<title lang="zh">鲨鱼不挑食</title>
 	</programme>
 	<channel id="世界地理">
 		<display-name lang="zh">世界地理</display-name>
@@ -61419,6 +61464,9 @@
 	<programme channel="纯享4K" start="20240405060100 +0800" stop="20240405063100 +0800">
 		<title lang="zh">村庄故事4K 寻根右龙</title>
 	</programme>
+	<programme channel="纯享4K" start="20240405063100 +0800" stop="20240405070100 +0800">
+		<title lang="zh">村庄故事4K 山庄玉露香</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -73902,6 +73950,9 @@
 	<programme channel="newtv动作电影" start="20240405044900 +0800" stop="20240405061600 +0800">
 		<title lang="zh">南宋猎人之匹马中原</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240405061600 +0800" stop="20240405074300 +0800">
+		<title lang="zh">炸脖龙</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -74007,6 +74058,9 @@
 	<programme channel="newtv军事评论" start="20240405060300 +0800" stop="20240405062500 +0800">
 		<title lang="zh">垂直起降固定翼无人机新动态</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240405062500 +0800" stop="20240405064600 +0800">
+		<title lang="zh">拯救“光辉”飞行员的弹射座椅</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -74096,6 +74150,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240405043700 +0800" stop="20240405061900 +0800">
 		<title lang="zh">艺览天下（2022）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240405061900 +0800" stop="20240405074800 +0800">
+		<title lang="zh">综艺喜乐汇（2021）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
