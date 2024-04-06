@@ -53370,6 +53370,9 @@
 	<programme channel="纯享4K" start="20240407030000 +0800" stop="20240407034900 +0800">
 		<title lang="zh">大数据时代4K 第4集 商业之变</title>
 	</programme>
+	<programme channel="纯享4K" start="20240407034900 +0800" stop="20240407043100 +0800">
+		<title lang="zh">远方的家4K 长沙贡玛国家级自然保护区 长沙贡玛：探秘“最美高原湿地”</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -64650,6 +64653,9 @@
 	<programme channel="黑莓动画" start="20240407032700 +0800" stop="20240407034500 +0800">
 		<title lang="zh">05_全职法师第1季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240407034500 +0800" stop="20240407040300 +0800">
+		<title lang="zh">06_全职法师第1季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -65142,6 +65148,9 @@
 	<programme channel="newtv超级体育" start="20240407023600 +0800" stop="20240407040000 +0800">
 		<title lang="zh">实况录像-2023/2024欧洲冠军联赛 1/8决赛第一回合 波尔图-阿森纳</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240407040000 +0800" stop="20240407060000 +0800">
+		<title lang="zh">2024年澳大利亚网球公开赛- 男单决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -65172,6 +65181,9 @@
 	<programme channel="newtv超级电视剧" start="20240407031600 +0800" stop="20240407035700 +0800">
 		<title lang="zh">10_我和我的三个姐姐</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240407040200 +0800" stop="20240407044300 +0800">
+		<title lang="zh">28_跨过鸭绿江</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -65189,6 +65201,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240407025900 +0800" stop="20240407034400 +0800">
 		<title lang="zh">11_旗袍美探</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240407034400 +0800" stop="20240407042800 +0800">
+		<title lang="zh">12_旗袍美探</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -65265,6 +65280,9 @@
 	<programme channel="newtv家庭剧场" start="20240407030600 +0800" stop="20240407035100 +0800">
 		<title lang="zh">15_儿女情更长</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240407035100 +0800" stop="20240407043600 +0800">
+		<title lang="zh">21_像兄妹一样手拉手</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -65273,6 +65291,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240407025200 +0800" stop="20240407033700 +0800">
 		<title lang="zh">33_青山不墨</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240407033700 +0800" stop="20240407042300 +0800">
+		<title lang="zh">34_青山不墨</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -65310,6 +65331,9 @@
 	<programme channel="newtv怡伴健康" start="20240407024800 +0800" stop="20240407033500 +0800">
 		<title lang="zh">12_极品妈妈</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240407033500 +0800" stop="20240407040100 +0800">
+		<title lang="zh">城市生态揽胜——花园之秋</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -65321,6 +65345,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240407025100 +0800" stop="20240407033600 +0800">
 		<title lang="zh">36_家有喜妇（DVD版）</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240407033600 +0800" stop="20240407042100 +0800">
+		<title lang="zh">37_家有喜妇（DVD版）</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -65351,6 +65378,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240407032800 +0800" stop="20240407035000 +0800">
 		<title lang="zh">中国航天员（八）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240407035000 +0800" stop="20240407041200 +0800">
+		<title lang="zh">中国航天员（九）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -65390,6 +65420,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240407023100 +0800" stop="20240407035600 +0800">
 		<title lang="zh">鲨卷风4</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240407035600 +0800" stop="20240407053200 +0800">
+		<title lang="zh">侠僧探案传奇之大夜叉</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
