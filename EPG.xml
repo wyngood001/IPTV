@@ -53271,6 +53271,9 @@
 	<programme channel="纯享4K" start="20240407002600 +0800" stop="20240407005600 +0800">
 		<title lang="zh">记住乡愁4K第七季 第二十四集 九江——九水汇一城（上）</title>
 	</programme>
+	<programme channel="纯享4K" start="20240407005600 +0800" stop="20240407012600 +0800">
+		<title lang="zh">记住乡愁4K第七季 第二十五集 九江——九水汇一城（下）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -64938,11 +64941,17 @@
 	<programme channel="newtv精品大剧" start="20240407000400 +0800" stop="20240407004700 +0800">
 		<title lang="zh">07_旗袍美探</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240407004700 +0800" stop="20240407013000 +0800">
+		<title lang="zh">08_旗袍美探</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
 	<programme channel="newtv精品纪录" start="20240407001000 +0800" stop="20240407005900 +0800">
 		<title lang="zh">04_春风化雨</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240407005900 +0800" stop="20240407012600 +0800">
+		<title lang="zh">特级英雄 黄继光</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -64961,6 +64970,9 @@
 	</channel>
 	<programme channel="newtv家庭剧场" start="20240407000400 +0800" stop="20240407005000 +0800">
 		<title lang="zh">11_儿女情更长</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240407005000 +0800" stop="20240407013500 +0800">
+		<title lang="zh">12_儿女情更长</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -65066,6 +65078,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240407003200 +0800" stop="20240407005400 +0800">
 		<title lang="zh">最美新时代革命军人 潘朝/刘光明</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240407005400 +0800" stop="20240407011600 +0800">
+		<title lang="zh">最美新时代革命军人 孙金龙/袁伟</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
