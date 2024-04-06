@@ -28590,6 +28590,9 @@
 	<programme channel="咪咕足球" start="20240407003000 +0800" stop="20240407023000 +0800">
 		<title lang="zh">23/24赛季德甲第15轮全场回放：拜仁慕尼黑3:0斯图加特（胡小凡,张力,孙蕊）（50帧原画）</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240407023000 +0800" stop="20240407053000 +0800">
+		<title lang="zh">法甲 第28轮 巴黎圣日耳曼vs克莱蒙</title>
+	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
@@ -65199,6 +65202,9 @@
 	<programme channel="newtv家庭剧场" start="20240407013500 +0800" stop="20240407022000 +0800">
 		<title lang="zh">13_儿女情更长</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240407022000 +0800" stop="20240407030600 +0800">
+		<title lang="zh">14_儿女情更长</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -65258,6 +65264,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240407020000 +0800" stop="20240407022200 +0800">
 		<title lang="zh">中国航天员（四）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240407022200 +0800" stop="20240407024400 +0800">
+		<title lang="zh">中国航天员（五）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
