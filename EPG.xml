@@ -60585,6 +60585,9 @@
 	<programme channel="黑莓动画" start="20240408034000 +0800" stop="20240408035900 +0800">
 		<title lang="zh">07_全职法师第1季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240408035900 +0800" stop="20240408041500 +0800">
+		<title lang="zh">08_全职法师第1季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -61008,6 +61011,9 @@
 	<programme channel="newtv超级体育" start="20240408023800 +0800" stop="20240408040000 +0800">
 		<title lang="zh">实况录像-2023/2024欧洲冠军联赛1/8决赛第二回合 拜仁慕尼黑—拉齐奥</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240408040000 +0800" stop="20240408060000 +0800">
+		<title lang="zh">2024年世界女子冰壶锦标赛-半决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -61041,6 +61047,9 @@
 	<programme channel="newtv超级电视剧" start="20240408032100 +0800" stop="20240408040300 +0800">
 		<title lang="zh">16_我和我的三个姐姐</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240408040300 +0800" stop="20240408040700 +0800">
+		<title lang="zh">星推荐</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -61055,6 +61064,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240408030800 +0800" stop="20240408035300 +0800">
 		<title lang="zh">16_旗袍美探</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240408035300 +0800" stop="20240408043800 +0800">
+		<title lang="zh">17_旗袍美探</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -61112,6 +61124,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240408030300 +0800" stop="20240408034900 +0800">
 		<title lang="zh">30_解放大西南</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240408034900 +0800" stop="20240408043400 +0800">
+		<title lang="zh">11_锁定美军特使</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -61259,6 +61274,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240408034000 +0800" stop="20240408040100 +0800">
 		<title lang="zh">宝贝对不起-毕刚（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240408040100 +0800" stop="20240408040400 +0800">
+		<title lang="zh">风雨彩虹铿锵玫瑰-毕刚（舞蹈展示）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
