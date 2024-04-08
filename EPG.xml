@@ -93,6 +93,9 @@
 	<programme channel="4K综艺" start="20240408170800 +0800" stop="20240408181700 +0800">
 		<title lang="zh">儿行千里20170910</title>
 	</programme>
+	<programme channel="4K综艺" start="20240408181700 +0800" stop="20240408191900 +0800">
+		<title lang="zh">儿行千里20170917</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -40014,41 +40017,185 @@
 	<channel id="山东新闻">
 		<display-name lang="zh">山东新闻</display-name>
 	</channel>
-	<programme channel="山东新闻" start="20240408000000 +0800" stop="20240408020000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="山东新闻" start="20240408001300 +0800" stop="20240408005300 +0800">
+		<title lang="zh">闪电大视野</title>
 	</programme>
-	<programme channel="山东新闻" start="20240408020000 +0800" stop="20240408040000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="山东新闻" start="20240408005300 +0800" stop="20240408012300 +0800">
+		<title lang="zh">理响中国</title>
 	</programme>
-	<programme channel="山东新闻" start="20240408040000 +0800" stop="20240408060000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="山东新闻" start="20240408012300 +0800" stop="20240408013900 +0800">
+		<title lang="zh">体育新闻</title>
 	</programme>
-	<programme channel="山东新闻" start="20240408060000 +0800" stop="20240408080000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="山东新闻" start="20240408013900 +0800" stop="20240408020300 +0800">
+		<title lang="zh">健康山东</title>
 	</programme>
-	<programme channel="山东新闻" start="20240408080000 +0800" stop="20240408100100 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="山东新闻" start="20240408020300 +0800" stop="20240408024300 +0800">
+		<title lang="zh">闪电大视野</title>
 	</programme>
-	<programme channel="山东新闻" start="20240408100100 +0800" stop="20240408120000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="山东新闻" start="20240408024300 +0800" stop="20240408031300 +0800">
+		<title lang="zh">理响中国</title>
 	</programme>
-	<programme channel="山东新闻" start="20240408120000 +0800" stop="20240408140000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="山东新闻" start="20240408031300 +0800" stop="20240408032900 +0800">
+		<title lang="zh">体育新闻</title>
 	</programme>
-	<programme channel="山东新闻" start="20240408140000 +0800" stop="20240408160000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="山东新闻" start="20240408032900 +0800" stop="20240408035300 +0800">
+		<title lang="zh">健康山东</title>
 	</programme>
-	<programme channel="山东新闻" start="20240408160000 +0800" stop="20240408190000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="山东新闻" start="20240408035300 +0800" stop="20240408043300 +0800">
+		<title lang="zh">闪电大视野</title>
 	</programme>
-	<programme channel="山东新闻" start="20240408190000 +0800" stop="20240408200000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="山东新闻" start="20240408043300 +0800" stop="20240408050300 +0800">
+		<title lang="zh">理响中国</title>
 	</programme>
-	<programme channel="山东新闻" start="20240408200000 +0800" stop="20240408220000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="山东新闻" start="20240408050300 +0800" stop="20240408052900 +0800">
+		<title lang="zh">健康山东</title>
 	</programme>
-	<programme channel="山东新闻" start="20240408220000 +0800" stop="20240408235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="山东新闻" start="20240408052900 +0800" stop="20240408054500 +0800">
+		<title lang="zh">体育新闻</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408054500 +0800" stop="20240408062500 +0800">
+		<title lang="zh">闪电大视野</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408062500 +0800" stop="20240408063000 +0800">
+		<title lang="zh">齐鲁先锋</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408063000 +0800" stop="20240408065600 +0800">
+		<title lang="zh">健康山东</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408065600 +0800" stop="20240408073200 +0800">
+		<title lang="zh">早安山东</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408073200 +0800" stop="20240408080700 +0800">
+		<title lang="zh">早安山东</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408080700 +0800" stop="20240408083200 +0800">
+		<title lang="zh">山东新闻联播</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408083200 +0800" stop="20240408091200 +0800">
+		<title lang="zh">名医课堂</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408091200 +0800" stop="20240408095300 +0800">
+		<title lang="zh">闪电大视野</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408095300 +0800" stop="20240408100000 +0800">
+		<title lang="zh">齐鲁先锋</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408100000 +0800" stop="20240408103100 +0800">
+		<title lang="zh">闪电直播间</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408103100 +0800" stop="20240408105500 +0800">
+		<title lang="zh">健康山东</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408105500 +0800" stop="20240408111200 +0800">
+		<title lang="zh">体育新闻</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408111200 +0800" stop="20240408113000 +0800">
+		<title lang="zh">精致威海-威海高新纵横</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408113000 +0800" stop="20240408123100 +0800">
+		<title lang="zh">新闻午班车</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408123100 +0800" stop="20240408123700 +0800">
+		<title lang="zh">山东省海洋预报</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408123700 +0800" stop="20240408125800 +0800">
+		<title lang="zh">品牌山东</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408125800 +0800" stop="20240408132200 +0800">
+		<title lang="zh">大抗战-21 南京保卫战</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408132200 +0800" stop="20240408134800 +0800">
+		<title lang="zh">大抗战-22 南京大屠杀</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408134800 +0800" stop="20240408140600 +0800">
+		<title lang="zh">体育新闻</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408140600 +0800" stop="20240408144700 +0800">
+		<title lang="zh">名医课堂</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408144700 +0800" stop="20240408145300 +0800">
+		<title lang="zh">光耀齐鲁（新闻频道80集）-54 王一民</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408145300 +0800" stop="20240408150000 +0800">
+		<title lang="zh">光耀齐鲁（新闻频道80集）-55 沂蒙六姐妹</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408150000 +0800" stop="20240408153000 +0800">
+		<title lang="zh">闪电直播间</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408153000 +0800" stop="20240408161000 +0800">
+		<title lang="zh">名医课堂</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408161000 +0800" stop="20240408162600 +0800">
+		<title lang="zh">应急在线</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408162600 +0800" stop="20240408165000 +0800">
+		<title lang="zh">健康山东</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408165000 +0800" stop="20240408165500 +0800">
+		<title lang="zh">齐鲁先锋</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408165500 +0800" stop="20240408172400 +0800">
+		<title lang="zh">记住乡愁八</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408172400 +0800" stop="20240408174500 +0800">
+		<title lang="zh">五洲四海山东人</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408174500 +0800" stop="20240408180000 +0800">
+		<title lang="zh">共产党员</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408180000 +0800" stop="20240408183000 +0800">
+		<title lang="zh">健康山东</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408183000 +0800" stop="20240408185800 +0800">
+		<title lang="zh">山东新闻联播</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408185800 +0800" stop="20240408193000 +0800">
+		<title lang="zh">记住乡愁七</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408193000 +0800" stop="20240408201500 +0800">
+		<title lang="zh">闪电大视野</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408201500 +0800" stop="20240408205000 +0800">
+		<title lang="zh">理响中国</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408205000 +0800" stop="20240408205700 +0800">
+		<title lang="zh">齐鲁先锋</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408205700 +0800" stop="20240408210000 +0800">
+		<title lang="zh">山东省海洋预报</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408210000 +0800" stop="20240408211400 +0800">
+		<title lang="zh">晚间新闻</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408211400 +0800" stop="20240408213400 +0800">
+		<title lang="zh">健康山东特别节目-健康掌门人</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408213400 +0800" stop="20240408214300 +0800">
+		<title lang="zh">齐鲁先锋</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408214300 +0800" stop="20240408220000 +0800">
+		<title lang="zh">美丽山东</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408220000 +0800" stop="20240408222500 +0800">
+		<title lang="zh">山东新闻联播</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408222500 +0800" stop="20240408224000 +0800">
+		<title lang="zh">精致威海-威海高新纵横</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408224000 +0800" stop="20240408225600 +0800">
+		<title lang="zh">体育新闻</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408225600 +0800" stop="20240408230100 +0800">
+		<title lang="zh">齐鲁先锋</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408230100 +0800" stop="20240408232400 +0800">
+		<title lang="zh">大抗战—23 徐州会战</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408232400 +0800" stop="20240408234800 +0800">
+		<title lang="zh">大抗战-24 武汉会战之战前态势</title>
+	</programme>
+	<programme channel="山东新闻" start="20240408234800 +0800" stop="20240408235900 +0800">
+		<title lang="zh">健康山东</title>
 	</programme>
 	<channel id="山东生活">
 		<display-name lang="zh">山东生活</display-name>
@@ -55044,7 +55191,10 @@
 	<programme channel="海南公共" start="20240408040000 +0800" stop="20240408050000 +0800">
 		<title lang="zh">精彩节目</title>
 	</programme>
-	<programme channel="海南公共" start="20240408050000 +0800" stop="20240408070000 +0800">
+	<programme channel="海南公共" start="20240408050000 +0800" stop="20240408060000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="海南公共" start="20240408060000 +0800" stop="20240408070000 +0800">
 		<title lang="zh">精彩节目</title>
 	</programme>
 	<programme channel="海南公共" start="20240408070000 +0800" stop="20240408080000 +0800">
@@ -55077,10 +55227,7 @@
 	<programme channel="海南公共" start="20240408160000 +0800" stop="20240408170000 +0800">
 		<title lang="zh">精彩节目</title>
 	</programme>
-	<programme channel="海南公共" start="20240408170000 +0800" stop="20240408180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="海南公共" start="20240408180000 +0800" stop="20240408190000 +0800">
+	<programme channel="海南公共" start="20240408170000 +0800" stop="20240408190000 +0800">
 		<title lang="zh">精彩节目</title>
 	</programme>
 	<programme channel="海南公共" start="20240408190000 +0800" stop="20240408200000 +0800">
@@ -55260,7 +55407,10 @@
 	<programme channel="海南文旅" start="20240408040000 +0800" stop="20240408050000 +0800">
 		<title lang="zh">精彩节目</title>
 	</programme>
-	<programme channel="海南文旅" start="20240408050000 +0800" stop="20240408070000 +0800">
+	<programme channel="海南文旅" start="20240408050000 +0800" stop="20240408060000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="海南文旅" start="20240408060000 +0800" stop="20240408070000 +0800">
 		<title lang="zh">精彩节目</title>
 	</programme>
 	<programme channel="海南文旅" start="20240408070000 +0800" stop="20240408080000 +0800">
@@ -55293,10 +55443,7 @@
 	<programme channel="海南文旅" start="20240408160000 +0800" stop="20240408170000 +0800">
 		<title lang="zh">精彩节目</title>
 	</programme>
-	<programme channel="海南文旅" start="20240408170000 +0800" stop="20240408180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="海南文旅" start="20240408180000 +0800" stop="20240408190000 +0800">
+	<programme channel="海南文旅" start="20240408170000 +0800" stop="20240408190000 +0800">
 		<title lang="zh">精彩节目</title>
 	</programme>
 	<programme channel="海南文旅" start="20240408190000 +0800" stop="20240408200000 +0800">
@@ -55404,7 +55551,10 @@
 	<programme channel="海南自贸" start="20240408040000 +0800" stop="20240408050000 +0800">
 		<title lang="zh">精彩节目</title>
 	</programme>
-	<programme channel="海南自贸" start="20240408050000 +0800" stop="20240408070000 +0800">
+	<programme channel="海南自贸" start="20240408050000 +0800" stop="20240408060000 +0800">
+		<title lang="zh">精彩节目</title>
+	</programme>
+	<programme channel="海南自贸" start="20240408060000 +0800" stop="20240408070000 +0800">
 		<title lang="zh">精彩节目</title>
 	</programme>
 	<programme channel="海南自贸" start="20240408070000 +0800" stop="20240408080000 +0800">
@@ -55437,10 +55587,7 @@
 	<programme channel="海南自贸" start="20240408160000 +0800" stop="20240408170000 +0800">
 		<title lang="zh">精彩节目</title>
 	</programme>
-	<programme channel="海南自贸" start="20240408170000 +0800" stop="20240408180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="海南自贸" start="20240408180000 +0800" stop="20240408190000 +0800">
+	<programme channel="海南自贸" start="20240408170000 +0800" stop="20240408190000 +0800">
 		<title lang="zh">精彩节目</title>
 	</programme>
 	<programme channel="海南自贸" start="20240408190000 +0800" stop="20240408200000 +0800">
@@ -75288,6 +75435,9 @@
 	<programme channel="黑莓动画" start="20240408180000 +0800" stop="20240408182200 +0800">
 		<title lang="zh">动物兄弟第一季2</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240408182200 +0800" stop="20240408183600 +0800">
+		<title lang="zh">01_龙战士星源</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -76581,6 +76731,9 @@
 	<programme channel="newtv超级体育" start="20240408180000 +0800" stop="20240408183500 +0800">
 		<title lang="zh">体育新闻</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240408183500 +0800" stop="20240408200000 +0800">
+		<title lang="zh">天下足球</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -76793,6 +76946,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240408180200 +0800" stop="20240408182200 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240408182200 +0800" stop="20240408192400 +0800">
+		<title lang="zh">08_繁城之下</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -77268,6 +77424,9 @@
 	<programme channel="newtv爱情喜剧" start="20240408174400 +0800" stop="20240408182600 +0800">
 		<title lang="zh">27_小娘惹</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240408182600 +0800" stop="20240408190700 +0800">
+		<title lang="zh">28_小娘惹</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -77405,6 +77564,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240408175000 +0800" stop="20240408182900 +0800">
 		<title lang="zh">第六场 天津津门荣耀VS天津决战风云（第二局）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240408182900 +0800" stop="20240408184900 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -77570,6 +77732,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240408175500 +0800" stop="20240408182000 +0800">
 		<title lang="zh">侵蚀欧洲 搅动亚太 “美式霸权”穿梭套利收割全球</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240408182000 +0800" stop="20240408184600 +0800">
+		<title lang="zh">台当局计划成立“自主紧急应变队” 澳增投百亿扩建海军</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -77745,6 +77910,9 @@
 	<programme channel="newtv精品综合" start="20240408173400 +0800" stop="20240408182000 +0800">
 		<title lang="zh">08_风云天地（DVD版）</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240408182000 +0800" stop="20240408192900 +0800">
+		<title lang="zh">半熟恋人第2季</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -77825,6 +77993,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240408164200 +0800" stop="20240408183500 +0800">
 		<title lang="zh">环球综艺秀（2023）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240408183500 +0800" stop="20240408202400 +0800">
+		<title lang="zh">德云斗笑社 第2季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
