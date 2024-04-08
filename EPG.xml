@@ -99,6 +99,9 @@
 	<programme channel="4K综艺" start="20240408191900 +0800" stop="20240408205700 +0800">
 		<title lang="zh">妻子的浪漫旅行第三季20191106</title>
 	</programme>
+	<programme channel="4K综艺" start="20240408205700 +0800" stop="20240408224500 +0800">
+		<title lang="zh">妻子的浪漫旅行第三季20191113</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -63681,6 +63684,9 @@
 	<programme channel="纯享4K" start="20240408202900 +0800" stop="20240408205900 +0800">
 		<title lang="zh">味道4K 原味乡间b7沂水篇</title>
 	</programme>
+	<programme channel="纯享4K" start="20240408205900 +0800" stop="20240408212900 +0800">
+		<title lang="zh">味道4K 原味乡间b7舒城篇</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -75480,6 +75486,9 @@
 	<programme channel="黑莓动画" start="20240408203100 +0800" stop="20240408205500 +0800">
 		<title lang="zh">23_德凯奥特曼 普通话版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240408205500 +0800" stop="20240408212000 +0800">
+		<title lang="zh">24_德凯奥特曼 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -76734,6 +76743,9 @@
 	<programme channel="newtv超级综艺" start="20240408193000 +0800" stop="20240408205400 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240408205400 +0800" stop="20240408215500 +0800">
+		<title lang="zh">我爱满堂彩-满堂喝彩</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -76838,6 +76850,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240408194400 +0800" stop="20240408205800 +0800">
 		<title lang="zh">电影《维和冲锋：绝境求生》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240408205800 +0800" stop="20240408222300 +0800">
+		<title lang="zh">电影《街区斗士》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -77021,6 +77036,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240408200900 +0800" stop="20240408205500 +0800">
 		<title lang="zh">14_暖暖的幸福</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240408205500 +0800" stop="20240408211500 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -77490,6 +77508,9 @@
 	<programme channel="newtv热播精选" start="20240408201100 +0800" stop="20240408205300 +0800">
 		<title lang="zh">10_结爱b7千岁大人的初恋</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240408205300 +0800" stop="20240408213100 +0800">
+		<title lang="zh">11_结爱b7千岁大人的初恋</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -77802,6 +77823,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240408200800 +0800" stop="20240408205500 +0800">
 		<title lang="zh">10_繁花（沪语版）</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240408205500 +0800" stop="20240408214300 +0800">
+		<title lang="zh">11_繁花（沪语版）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -77912,6 +77936,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240408202400 +0800" stop="20240408204900 +0800">
 		<title lang="zh">俄首发击毁“海马斯”视频 Sora或助美军布局生成式AI</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240408204900 +0800" stop="20240408211500 +0800">
+		<title lang="zh">美对伊朗目标展开大规模空袭 英欲派航母“迎战”胡塞武装</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -78104,6 +78131,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240408201400 +0800" stop="20240408205900 +0800">
 		<title lang="zh">22_烟火人家</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240408205900 +0800" stop="20240408214500 +0800">
+		<title lang="zh">23_烟火人家</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
