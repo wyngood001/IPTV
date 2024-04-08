@@ -74886,6 +74886,9 @@
 	<programme channel="黑莓动画" start="20240408101600 +0800" stop="20240408102900 +0800">
 		<title lang="zh">02_百变校巴2</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240408102900 +0800" stop="20240408105200 +0800">
+		<title lang="zh">汪汪队立大功第3季01</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -76206,6 +76209,9 @@
 	<programme channel="newtv超级电视剧" start="20240408094900 +0800" stop="20240408103100 +0800">
 		<title lang="zh">25_回家的路有多远</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240408103100 +0800" stop="20240408111200 +0800">
+		<title lang="zh">26_回家的路有多远</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -76349,6 +76355,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240408094400 +0800" stop="20240408103100 +0800">
 		<title lang="zh">37_燕云台</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240408103100 +0800" stop="20240408111700 +0800">
+		<title lang="zh">38_燕云台</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -76631,6 +76640,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240408094200 +0800" stop="20240408102900 +0800">
 		<title lang="zh">64_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240408102900 +0800" stop="20240408111500 +0800">
+		<title lang="zh">65_那年花开月正圆</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -76940,6 +76952,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240408093900 +0800" stop="20240408102400 +0800">
 		<title lang="zh">11_长安少年行</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240408102400 +0800" stop="20240408111100 +0800">
+		<title lang="zh">12_长安少年行</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
