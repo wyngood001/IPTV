@@ -63696,6 +63696,9 @@
 	<programme channel="纯享4K" start="20240408215900 +0800" stop="20240408222800 +0800">
 		<title lang="zh">村庄故事4K 田舍延祥（下）</title>
 	</programme>
+	<programme channel="纯享4K" start="20240408222800 +0800" stop="20240408232800 +0800">
+		<title lang="zh">乐享汇4K “飞扬的节拍”演唱会</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -76881,6 +76884,9 @@
 	<programme channel="newtv超级电影" start="20240408205800 +0800" stop="20240408222300 +0800">
 		<title lang="zh">电影《街区斗士》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240408222300 +0800" stop="20240408000900 +0800">
+		<title lang="zh">电影《终极尖兵》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -77207,6 +77213,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240408214600 +0800" stop="20240408222400 +0800">
 		<title lang="zh">千城百味（四十一）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240408222400 +0800" stop="20240408230300 +0800">
+		<title lang="zh">千城百味（四十二）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -77580,6 +77589,9 @@
 	<programme channel="newtv热播精选" start="20240408213100 +0800" stop="20240408221600 +0800">
 		<title lang="zh">12_结爱b7千岁大人的初恋</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240408221600 +0800" stop="20240408230200 +0800">
+		<title lang="zh">13_结爱b7千岁大人的初恋</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -77826,6 +77838,9 @@
 	<programme channel="newtv怡伴健康" start="20240408220000 +0800" stop="20240408222000 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240408222000 +0800" stop="20240408230400 +0800">
+		<title lang="zh">第七场 北京东炸团VS天津决战风云（第二局）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -78036,6 +78051,9 @@
 	<programme channel="newtv军事评论" start="20240408220500 +0800" stop="20240408223000 +0800">
 		<title lang="zh">3D打印 纳米技术 航天科技 军事技术“进化论”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240408223000 +0800" stop="20240408225200 +0800">
+		<title lang="zh">守护同行的温暖</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -78150,6 +78168,9 @@
 	<programme channel="newtv炫舞未来" start="20240408220400 +0800" stop="20240408221700 +0800">
 		<title lang="zh">荷塘月色-孙爱迪</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240408222900 +0800" stop="20240408223300 +0800">
+		<title lang="zh">我要去西藏-毕刚（舞蹈展示）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -78239,6 +78260,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240408214500 +0800" stop="20240408223000 +0800">
 		<title lang="zh">24_烟火人家</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240408223000 +0800" stop="20240408231600 +0800">
+		<title lang="zh">25_烟火人家</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
