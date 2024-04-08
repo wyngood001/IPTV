@@ -65583,6 +65583,9 @@
 	<programme channel="纯享4K" start="20240409051700 +0800" stop="20240409054700 +0800">
 		<title lang="zh">味道4K 原味乡间b7英德篇（1）</title>
 	</programme>
+	<programme channel="纯享4K" start="20240409054700 +0800" stop="20240409061600 +0800">
+		<title lang="zh">味道4K 原味乡间b7英德篇（2）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -78501,6 +78504,9 @@
 	<programme channel="黑莓动画" start="20240409052700 +0800" stop="20240409055200 +0800">
 		<title lang="zh">38_入间同学入魔了</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240409055200 +0800" stop="20240409061700 +0800">
+		<title lang="zh">31_雷欧奥特曼 重制版 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -79170,6 +79176,9 @@
 	<programme channel="newtv超级体育" start="20240409040000 +0800" stop="20240409060000 +0800">
 		<title lang="zh">2024年世界女子冰壶锦标赛-决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240409060000 +0800" stop="20240409073000 +0800">
+		<title lang="zh">实况录像-2023/2024中国男子篮球职业联赛常规赛 第48轮 北京北汽—广东华南虎</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -79209,6 +79218,9 @@
 	<programme channel="newtv超级电视剧" start="20240409044800 +0800" stop="20240409053000 +0800">
 		<title lang="zh">39_跨过鸭绿江</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240409053000 +0800" stop="20240409061300 +0800">
+		<title lang="zh">40_跨过鸭绿江</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -79232,6 +79244,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240409050400 +0800" stop="20240409054900 +0800">
 		<title lang="zh">36_问心</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240409054900 +0800" stop="20240409063500 +0800">
+		<title lang="zh">37_问心</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -79257,6 +79272,9 @@
 	<programme channel="newtv精品纪录" start="20240409044200 +0800" stop="20240409053100 +0800">
 		<title lang="zh">01_要塞危急</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240409053100 +0800" stop="20240409062100 +0800">
+		<title lang="zh">02_梦断甲午</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -79281,6 +79299,9 @@
 	<programme channel="newtv古装剧场" start="20240409050000 +0800" stop="20240409054600 +0800">
 		<title lang="zh">09_大秦帝国之纵横</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240409054600 +0800" stop="20240409063100 +0800">
+		<title lang="zh">10_大秦帝国之纵横</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -79304,6 +79325,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240409050700 +0800" stop="20240409055200 +0800">
 		<title lang="zh">17_锁定美军特使</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240409055200 +0800" stop="20240409063800 +0800">
+		<title lang="zh">18_锁定美军特使</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -79350,6 +79374,9 @@
 	<programme channel="newtv热播精选" start="20240409050400 +0800" stop="20240409054600 +0800">
 		<title lang="zh">12_黄土高天</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240409054600 +0800" stop="20240409062700 +0800">
+		<title lang="zh">13_黄土高天</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -79364,6 +79391,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240409045100 +0800" stop="20240409053800 +0800">
 		<title lang="zh">13_极品妈妈</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240409053800 +0800" stop="20240409062400 +0800">
+		<title lang="zh">14_极品妈妈</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -79413,6 +79443,9 @@
 	<programme channel="newtv怡伴健康" start="20240409052800 +0800" stop="20240409055500 +0800">
 		<title lang="zh">海岛里的野生世界（下）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240409055500 +0800" stop="20240409075600 +0800">
+		<title lang="zh">京剧《屈原》</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -79434,6 +79467,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240409051300 +0800" stop="20240409055900 +0800">
 		<title lang="zh">09_钢的琴</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240409055900 +0800" stop="20240409064400 +0800">
+		<title lang="zh">10_钢的琴</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -79454,6 +79490,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240409044400 +0800" stop="20240409053700 +0800">
 		<title lang="zh">守护共同的家园——老兵的动物奇缘</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240409053700 +0800" stop="20240409063100 +0800">
+		<title lang="zh">向海图强铸军魂——纪念人民海军成立74周年</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -79484,6 +79523,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240409053100 +0800" stop="20240409053500 +0800">
 		<title lang="zh">赞歌-乌兰图雅（舞蹈展示）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240409054400 +0800" stop="20240409054800 +0800">
+		<title lang="zh">点赞新时代-饶子龙（舞蹈展示）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240409055000 +0800" stop="20240409060400 +0800">
+		<title lang="zh">风雨彩虹铿锵玫瑰-毕刚（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -79541,6 +79586,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20240409040200 +0800" stop="20240409054000 +0800">
 		<title lang="zh">2023-24赛季德甲第25轮：莱比锡VS达姆施塔特</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240409054000 +0800" stop="20240409072200 +0800">
+		<title lang="zh">2023-24赛季法甲联赛第23轮：巴黎圣日耳曼VS雷恩</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
