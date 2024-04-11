@@ -61713,6 +61713,9 @@
 	<programme channel="纯享4K" start="20240411093900 +0800" stop="20240411101900 +0800">
 		<title lang="zh">探索b7发现4K 黑土地和她的朋友们（2）希望的田野</title>
 	</programme>
+	<programme channel="纯享4K" start="20240411101900 +0800" stop="20240411110800 +0800">
+		<title lang="zh">大数据时代4K 第3集 决策之智</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -74079,6 +74082,9 @@
 	<programme channel="黑莓动画" start="20240411100400 +0800" stop="20240411101700 +0800">
 		<title lang="zh">07_百变校巴2</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240411103100 +0800" stop="20240411105400 +0800">
+		<title lang="zh">汪汪队立大功第3季07</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -75558,6 +75564,9 @@
 	<programme channel="newtv精品纪录" start="20240411094900 +0800" stop="20240411102100 +0800">
 		<title lang="zh">第4集：子胥</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240411102100 +0800" stop="20240411110900 +0800">
+		<title lang="zh">06_野性的世界</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -75603,6 +75612,9 @@
 	<programme channel="newtv古装剧场" start="20240411094200 +0800" stop="20240411102700 +0800">
 		<title lang="zh">05_凤游龙门</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240411102700 +0800" stop="20240411111200 +0800">
+		<title lang="zh">06_凤游龙门</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -75644,6 +75656,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240411094100 +0800" stop="20240411102600 +0800">
 		<title lang="zh">31_大汉口</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240411102600 +0800" stop="20240411111200 +0800">
+		<title lang="zh">32_大汉口</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -75831,6 +75846,9 @@
 	<programme channel="newtv怡伴健康" start="20240411093300 +0800" stop="20240411101800 +0800">
 		<title lang="zh">01_刀锋乱世情</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240411101800 +0800" stop="20240411105900 +0800">
+		<title lang="zh">生活圈</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -75872,6 +75890,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240411094300 +0800" stop="20240411102800 +0800">
 		<title lang="zh">05_小棉袄</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240411102800 +0800" stop="20240411111400 +0800">
+		<title lang="zh">06_小棉袄</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -76067,6 +76088,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240411091100 +0800" stop="20240411102800 +0800">
 		<title lang="zh">狄仁杰之骷髅将军</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240411102800 +0800" stop="20240411113300 +0800">
+		<title lang="zh">四目先生</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
