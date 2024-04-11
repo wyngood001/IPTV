@@ -2952,11 +2952,11 @@
 	<programme channel="CCTV4" start="20240411091000 +0800" stop="20240411103000 +0800">
 		<title lang="zh">甲辰年（2024）黄帝故里拜祖大典-1</title>
 	</programme>
-	<programme channel="CCTV4" start="20240411103000 +0800" stop="20240411113000 +0800">
+	<programme channel="CCTV4" start="20240411103000 +0800" stop="20240411114500 +0800">
 		<title lang="zh">2024年国新办发布会-24</title>
 	</programme>
-	<programme channel="CCTV4" start="20240411113000 +0800" stop="20240411120000 +0800">
-		<title lang="zh">海峡两岸-2024-101</title>
+	<programme channel="CCTV4" start="20240411114500 +0800" stop="20240411120000 +0800">
+		<title lang="zh">记住乡愁2018片段展播-25</title>
 	</programme>
 	<programme channel="CCTV4" start="20240411120000 +0800" stop="20240411130300 +0800">
 		<title lang="zh">中国新闻</title>
@@ -3318,11 +3318,14 @@
 	<programme channel="CCTV4美洲" start="20240411091000 +0800" stop="20240411103000 +0800">
 		<title lang="zh">甲辰年（2024）黄帝故里拜祖大典-1</title>
 	</programme>
-	<programme channel="CCTV4美洲" start="20240411103000 +0800" stop="20240411113000 +0800">
+	<programme channel="CCTV4美洲" start="20240411103000 +0800" stop="20240411114000 +0800">
 		<title lang="zh">2024年国新办发布会-24</title>
 	</programme>
-	<programme channel="CCTV4美洲" start="20240411113000 +0800" stop="20240411120000 +0800">
-		<title lang="zh">国家记忆-2024-8</title>
+	<programme channel="CCTV4美洲" start="20240411114000 +0800" stop="20240411115000 +0800">
+		<title lang="zh">记住乡愁2018片段展播-10</title>
+	</programme>
+	<programme channel="CCTV4美洲" start="20240411115000 +0800" stop="20240411120000 +0800">
+		<title lang="zh">记住乡愁2018片段展播-11</title>
 	</programme>
 	<programme channel="CCTV4美洲" start="20240411120000 +0800" stop="20240411130000 +0800">
 		<title lang="zh">中国新闻</title>
@@ -75573,6 +75576,9 @@
 	<programme channel="newtv超级体育" start="20240411150100 +0800" stop="20240411163100 +0800">
 		<title lang="zh">实况录像-2023/2024赛季中国男子篮球职业联赛 季后赛 12进8</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240411163100 +0800" stop="20240411180000 +0800">
+		<title lang="zh">实况录像-2023/2024欧洲冠军联赛1/4决赛第一回合 马德里竞技-多特蒙德</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -76655,6 +76661,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240411144300 +0800" stop="20240411162100 +0800">
 		<title lang="zh">黄金100秒（2023）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240411162100 +0800" stop="20240411184100 +0800">
+		<title lang="zh">舞台2023</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
