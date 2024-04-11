@@ -46974,6 +46974,9 @@
 	<programme channel="newtv超级电影" start="20240412015200 +0800" stop="20240412031900 +0800">
 		<title lang="zh">武痴</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240412031900 +0800" stop="20240412035400 +0800">
+		<title lang="zh">致命空间(上)</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -46988,6 +46991,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240412023800 +0800" stop="20240412032000 +0800">
 		<title lang="zh">37_我和我的三个姐姐</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240412032000 +0800" stop="20240412040400 +0800">
+		<title lang="zh">38_我和我的三个姐姐</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -47046,6 +47052,9 @@
 	<programme channel="newtv古装剧场" start="20240412024500 +0800" stop="20240412032600 +0800">
 		<title lang="zh">15_解忧公主</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240412032600 +0800" stop="20240412041300 +0800">
+		<title lang="zh">23_大秦帝国之纵横</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -47078,6 +47087,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240412024200 +0800" stop="20240412032700 +0800">
 		<title lang="zh">39_儿女情更长</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240412032700 +0800" stop="20240412041300 +0800">
+		<title lang="zh">40_儿女情更长</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -47169,6 +47181,9 @@
 	<programme channel="newtv军事评论" start="20240412030800 +0800" stop="20240412032900 +0800">
 		<title lang="zh">首战被毁的美“艾布拉姆斯”坦克</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240412032900 +0800" stop="20240412035100 +0800">
+		<title lang="zh">俄乌冲突二周年观察 导弹攻防升级战</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -47202,6 +47217,9 @@
 	<programme channel="newtv精品综合" start="20240412015300 +0800" stop="20240412032100 +0800">
 		<title lang="zh">朋友请吃饭</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240412032100 +0800" stop="20240412040700 +0800">
+		<title lang="zh">10_冷风暴</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -47210,6 +47228,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240412015000 +0800" stop="20240412032000 +0800">
 		<title lang="zh">夜半梳头</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240412032000 +0800" stop="20240412044500 +0800">
+		<title lang="zh">南宋诡事之鬼樊楼</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
