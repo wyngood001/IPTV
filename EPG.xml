@@ -16971,6 +16971,48 @@
 	<programme channel="四川经济" start="20240412232000 +0800" stop="20240412235900 +0800">
 		<title lang="zh">麻辣烫</title>
 	</programme>
+	<channel id="国会频道1">
+		<display-name lang="zh">国会频道1</display-name>
+	</channel>
+	<programme channel="国会频道1" start="20240412035200 +0800" stop="20240412045200 +0800">
+		<title lang="zh">經濟委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240412045200 +0800" stop="20240412083600 +0800">
+		<title lang="zh">經濟委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240412083600 +0800" stop="20240412084700 +0800">
+		<title lang="zh">經濟委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240412084700 +0800" stop="20240412090000 +0800">
+		<title lang="zh">週五會議預報</title>
+	</programme>
+	<programme channel="国会频道1" start="20240412090000 +0800" stop="20240412180000 +0800">
+		<title lang="zh">立法院會議直播</title>
+	</programme>
+	<programme channel="国会频道1" start="20240412180000 +0800" stop="20240412235900 +0800">
+		<title lang="zh">當日立法院會議轉播</title>
+	</programme>
+	<channel id="国会频道2">
+		<display-name lang="zh">国会频道2</display-name>
+	</channel>
+	<programme channel="国会频道2" start="20240412021400 +0800" stop="20240412051400 +0800">
+		<title lang="zh">司法及法制委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240412051400 +0800" stop="20240412054500 +0800">
+		<title lang="zh">司法及法制委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240412054500 +0800" stop="20240412084700 +0800">
+		<title lang="zh">教育及文化委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240412084700 +0800" stop="20240412090000 +0800">
+		<title lang="zh">週五會議預報</title>
+	</programme>
+	<programme channel="国会频道2" start="20240412090000 +0800" stop="20240412180000 +0800">
+		<title lang="zh">立法院會議直播</title>
+	</programme>
+	<programme channel="国会频道2" start="20240412180000 +0800" stop="20240412235900 +0800">
+		<title lang="zh">當日立法院會議轉播</title>
+	</programme>
 	<channel id="国学">
 		<display-name lang="zh">国学</display-name>
 	</channel>
@@ -38178,6 +38220,9 @@
 	<programme channel="纯享4K" start="20240412042300 +0800" stop="20240412050500 +0800">
 		<title lang="zh">远方的家4K 长江行 生态之城——上海</title>
 	</programme>
+	<programme channel="纯享4K" start="20240412051500 +0800" stop="20240412054500 +0800">
+		<title lang="zh">味道4K 下饭菜b7绵阳篇</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -47004,6 +47049,9 @@
 	<programme channel="黑莓动画" start="20240412045000 +0800" stop="20240412051400 +0800">
 		<title lang="zh">43_入间同学入魔了</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240412051400 +0800" stop="20240412053900 +0800">
+		<title lang="zh">44_入间同学入魔了</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -47562,6 +47610,9 @@
 	<programme channel="newtv热播精选" start="20240412042900 +0800" stop="20240412051000 +0800">
 		<title lang="zh">27_黄土高天</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240412051000 +0800" stop="20240412055200 +0800">
+		<title lang="zh">28_黄土高天</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -47636,6 +47687,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240412042900 +0800" stop="20240412051500 +0800">
 		<title lang="zh">26_钢的琴</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240412051500 +0800" stop="20240412060100 +0800">
+		<title lang="zh">27_钢的琴</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -47831,6 +47885,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240412044200 +0800" stop="20240412050500 +0800">
 		<title lang="zh">男子武术散打</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240412050500 +0800" stop="20240412055400 +0800">
+		<title lang="zh">中量级世界拳王统一战：阿里姆哈努利VS瓜尔蒂耶里</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
