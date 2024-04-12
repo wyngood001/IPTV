@@ -99,6 +99,9 @@
 	<programme channel="4K综艺" start="20240412194300 +0800" stop="20240412210700 +0800">
 		<title lang="zh">小小的追球20200226</title>
 	</programme>
+	<programme channel="4K综艺" start="20240412210700 +0800" stop="20240412214500 +0800">
+		<title lang="zh">我最爱的女人们20190726</title>
+	</programme>
 	<channel id="ALJAZEERA">
 		<display-name lang="zh">ALJAZEERA</display-name>
 	</channel>
@@ -1197,10 +1200,7 @@
 	<programme channel="BTV生活" start="20240412064000 +0800" stop="20240412070000 +0800">
 		<title lang="zh">生活这一刻看点</title>
 	</programme>
-	<programme channel="BTV生活" start="20240412070000 +0800" stop="20240412080100 +0800">
-		<title lang="zh">选择</title>
-	</programme>
-	<programme channel="BTV生活" start="20240412080100 +0800" stop="20240412083200 +0800">
+	<programme channel="BTV�80100 +0800" stop="20240412083200 +0800">
 		<title lang="zh">生活+家装攻略</title>
 	</programme>
 	<programme channel="BTV生活" start="20240412083200 +0800" stop="20240412090400 +0800">
