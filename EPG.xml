@@ -63999,6 +63999,9 @@
 	<programme channel="黑莓动画" start="20240412101000 +0800" stop="20240412102300 +0800">
 		<title lang="zh">10_百变校巴7</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240412102300 +0800" stop="20240412104600 +0800">
+		<title lang="zh">汪汪队立大功第3季09</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -65133,6 +65136,9 @@
 	<programme channel="newtv超级综艺" start="20240412091500 +0800" stop="20240412103100 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240412103100 +0800" stop="20240412114800 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -65156,6 +65162,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20240412090100 +0800" stop="20240412103100 +0800">
 		<title lang="zh">实况录像-2023/2024欧洲冠军联赛1/4决赛第一回合 皇家马德里-曼城</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240412103100 +0800" stop="20240412120000 +0800">
+		<title lang="zh">实况录像-2023/2024赛季中国男子篮球职业联赛 季后赛 12进8</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -65331,6 +65340,9 @@
 	<programme channel="newtv精品纪录" start="20240412100300 +0800" stop="20240412102800 +0800">
 		<title lang="zh">01_多样</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240412102800 +0800" stop="20240412105300 +0800">
+		<title lang="zh">02_野性</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -65375,6 +65387,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240412094100 +0800" stop="20240412102600 +0800">
 		<title lang="zh">10_凤游龙门</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240412102600 +0800" stop="20240412111100 +0800">
+		<title lang="zh">11_凤游龙门</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -65741,6 +65756,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240412100200 +0800" stop="20240412102300 +0800">
 		<title lang="zh">二战经典战例b7特种战（下）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240412102300 +0800" stop="20240412105000 +0800">
+		<title lang="zh">靶场铸剑</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
