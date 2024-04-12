@@ -71148,6 +71148,9 @@
 	<programme channel="newtv军旅剧场" start="20240412193600 +0800" stop="20240412202100 +0800">
 		<title lang="zh">23_冷风暴</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240412202100 +0800" stop="20240412210700 +0800">
+		<title lang="zh">24_冷风暴</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -71523,6 +71526,9 @@
 	<programme channel="newtv怡伴健康" start="20240412194900 +0800" stop="20240412202300 +0800">
 		<title lang="zh">第四场 山西清徐学栋VS天津狼图腾（第四局）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240412202300 +0800" stop="20240412210200 +0800">
+		<title lang="zh">第四场 山西清徐学栋VS天津狼图腾（第五局）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -71750,6 +71756,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240412195100 +0800" stop="20240412201600 +0800">
 		<title lang="zh">战位上的美食</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240412201600 +0800" stop="20240412204200 +0800">
+		<title lang="zh">军营大厨的拿手菜</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -71999,6 +72008,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240412185500 +0800" stop="20240412202500 +0800">
 		<title lang="zh">无人机</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240412202500 +0800" stop="20240412211300 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
