@@ -51075,6 +51075,9 @@
 	<programme channel="黑莓动画" start="20240414052300 +0800" stop="20240414054800 +0800">
 		<title lang="zh">04_入间同学入魔了</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240414054800 +0800" stop="20240414061300 +0800">
+		<title lang="zh">41_雷欧奥特曼 重制版 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -51438,6 +51441,9 @@
 	<programme channel="newtv超级综艺" start="20240414043500 +0800" stop="20240414060500 +0800">
 		<title lang="zh">首届青年京剧演员大会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240414060500 +0800" stop="20240414074900 +0800">
+		<title lang="zh">国家宝藏 第三季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -51452,6 +51458,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20240414040000 +0800" stop="20240414060000 +0800">
 		<title lang="zh">2024年世界男子冰壶锦标赛- 金牌赛</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240414060000 +0800" stop="20240414073000 +0800">
+		<title lang="zh">实况录像-2023/2024中国男子篮球职业联赛常规赛第51轮</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -51654,6 +51663,9 @@
 	<programme channel="newtv热播精选" start="20240414050800 +0800" stop="20240414054900 +0800">
 		<title lang="zh">37_黄土高天</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240414054900 +0800" stop="20240414063300 +0800">
+		<title lang="zh">38_黄土高天</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -51720,6 +51732,9 @@
 	<programme channel="newtv怡伴健康" start="20240414052400 +0800" stop="20240414055100 +0800">
 		<title lang="zh">修复栖息地——猞猁归来（下）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240414055100 +0800" stop="20240414075600 +0800">
+		<title lang="zh">京剧《棋盘山》</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -51740,6 +51755,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240414050600 +0800" stop="20240414055100 +0800">
 		<title lang="zh">03_守婚如玉</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240414055100 +0800" stop="20240414063600 +0800">
+		<title lang="zh">04_守婚如玉</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -51813,6 +51831,9 @@
 	<programme channel="newtv炫舞未来" start="20240414050100 +0800" stop="20240414055100 +0800">
 		<title lang="zh">诗人、儿童文学作家金波：人生的价值就是在思考（20240104）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240414060000 +0800" stop="20240414060400 +0800">
+		<title lang="zh">幸福中国糖-毕刚（舞蹈展示）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -51857,6 +51878,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240414031400 +0800" stop="20240414054800 +0800">
 		<title lang="zh">开门大吉（2022）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240414054800 +0800" stop="20240414072700 +0800">
+		<title lang="zh">正大综艺（2023）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
