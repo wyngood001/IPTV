@@ -57984,6 +57984,9 @@
 	<programme channel="黑莓动画" start="20240418003400 +0800" stop="20240418005800 +0800">
 		<title lang="zh">23_一人之下第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240418005800 +0800" stop="20240418012400 +0800">
+		<title lang="zh">24_一人之下第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -58514,6 +58517,9 @@
 	</channel>
 	<programme channel="newtv古装剧场" start="20240418001400 +0800" stop="20240418005500 +0800">
 		<title lang="zh">41_解忧公主</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240418005500 +0800" stop="20240418013900 +0800">
+		<title lang="zh">42_解忧公主</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
