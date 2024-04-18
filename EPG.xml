@@ -62079,6 +62079,9 @@
 	<programme channel="newtv超级电影" start="20240419004700 +0800" stop="20240419022500 +0800">
 		<title lang="zh">神算子蒋敬</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240419022500 +0800" stop="20240419041400 +0800">
+		<title lang="zh">德吉的诉讼</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -62093,6 +62096,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240419022100 +0800" stop="20240419022500 +0800">
 		<title lang="zh">星推荐</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240419022500 +0800" stop="20240419031000 +0800">
+		<title lang="zh">18_乡村爱情8：浪漫曲（下）</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
