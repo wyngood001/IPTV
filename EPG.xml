@@ -61341,6 +61341,15 @@
 	<programme channel="黑莓动画" start="20240419003100 +0800" stop="20240419005200 +0800">
 		<title lang="zh">01_一人之下第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240419005200 +0800" stop="20240419011400 +0800">
+		<title lang="zh">02_一人之下第二季</title>
+	</programme>
+	<channel id="黑莓电影">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel>
+	<programme channel="黑莓电影" start="20240419003200 +0800" stop="20240419022300 +0800">
+		<title lang="zh">长寿商会</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -61824,6 +61833,9 @@
 	<programme channel="newtv超级综艺" start="20240419001000 +0800" stop="20240419005500 +0800">
 		<title lang="zh">13_向往的生活</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240419005500 +0800" stop="20240419014100 +0800">
+		<title lang="zh">14_向往的生活</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -61869,11 +61881,17 @@
 	<programme channel="newtv超级电影" start="20240419002600 +0800" stop="20240419004700 +0800">
 		<title lang="zh">今日影评</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240419004700 +0800" stop="20240419022500 +0800">
+		<title lang="zh">神算子蒋敬</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
 	<programme channel="newtv超级电视剧" start="20240419000500 +0800" stop="20240419005000 +0800">
 		<title lang="zh">15_乡村爱情8：浪漫曲（下）</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240419005000 +0800" stop="20240419013500 +0800">
+		<title lang="zh">16_乡村爱情8：浪漫曲（下）</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
