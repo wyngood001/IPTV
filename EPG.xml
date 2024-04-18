@@ -25530,6 +25530,9 @@
 	<programme channel="咪咕综合体育" start="20240419020700 +0800" stop="20240419045900 +0800">
 		<title lang="zh">23/24赛季CBA季后赛12进8G1全场回放：上海vs北京（小太阳、王冠证、李天宇、陈正昊）（50帧原画）</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240419045900 +0800" stop="20240419074900 +0800">
+		<title lang="zh">2024第十二届中式台球国际大师赛全球总决赛Day12回放：李克10-19唐春晓</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -61977,6 +61980,9 @@
 	<programme channel="黑莓动画" start="20240419043000 +0800" stop="20240419045200 +0800">
 		<title lang="zh">12_马达加斯加企鹅第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240419045200 +0800" stop="20240419051700 +0800">
+		<title lang="zh">13_入间同学入魔了</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -62565,6 +62571,9 @@
 	<programme channel="newtv精品大剧" start="20240419041300 +0800" stop="20240419045800 +0800">
 		<title lang="zh">14_天狼星行动</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240419045800 +0800" stop="20240419054000 +0800">
+		<title lang="zh">01_独生子女的婆婆妈妈</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -62661,6 +62670,9 @@
 	<programme channel="newtv家庭剧场" start="20240419040500 +0800" stop="20240419045000 +0800">
 		<title lang="zh">07_双喜盈门</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240419045000 +0800" stop="20240419053500 +0800">
+		<title lang="zh">08_双喜盈门</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -62756,6 +62768,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240419043300 +0800" stop="20240419045500 +0800">
 		<title lang="zh">战场新秀巡飞弹</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240419045500 +0800" stop="20240419051700 +0800">
+		<title lang="zh">拯救“光辉”飞行员的弹射座椅</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
