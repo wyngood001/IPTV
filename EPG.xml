@@ -30783,6 +30783,9 @@
 	<programme channel="咪咕足球" start="20240419074700 +0800" stop="20240419100800 +0800">
 		<title lang="zh">23/24赛季意甲第32轮全场回放：国际米兰2:2卡利亚里（刘腾、贺宇）（50帧原画）</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240419100800 +0800" stop="20240419122000 +0800">
+		<title lang="zh">23/24赛季西甲第31轮全场回放：皇家马略卡0:1皇家马德里（刘畅、孙雷）（50帧原画）</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -64723,10 +64726,7 @@
 		<display-name lang="zh">纯享4K</display-name>
 	</channel>
 	<programme channel="纯享4K" start="20240419000300 +0800" stop="20240419003300 +0800">
-		<title lang="zh">记住乡愁4K第七季 第四十八集 长汀——客家首府 红军故乡（上）</title>
-	</programme>
-	<programme channel="纯享4K" start="20240419003300 +0800" stop="20240419010300 +0800">
-		<title lang="zh">记住乡愁4K第七季 第四十九集 长汀——客家首府 红军故乡（下）</title>
+		<title lang="zh">记住乡愁4K第七季 第四十八集 长汀——�）</title>
 	</programme>
 	<programme channel="纯享4K" start="20240419010300 +0800" stop="20240419014300 +0800">
 		<title lang="zh">探索b7发现4K 探秘云梦古墓（3）</title>
