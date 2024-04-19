@@ -59403,6 +59403,9 @@
 	<programme channel="黑莓动画" start="20240420014000 +0800" stop="20240420014900 +0800">
 		<title lang="zh">21_我靠充值当武帝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240420014900 +0800" stop="20240420021300 +0800">
+		<title lang="zh">07_骸骨骑士大人奇幻世界冒险中</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -59871,6 +59874,9 @@
 	<programme channel="newtv超级综艺" start="20240420010400 +0800" stop="20240420015000 +0800">
 		<title lang="zh">18_向往的生活</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240420015000 +0800" stop="20240420032100 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59940,6 +59946,9 @@
 	<programme channel="newtv军旅剧场" start="20240420011100 +0800" stop="20240420015200 +0800">
 		<title lang="zh">05_黎明前的抉择</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240420015200 +0800" stop="20240420023300 +0800">
+		<title lang="zh">06_黎明前的抉择</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -59979,6 +59988,9 @@
 	<programme channel="newtv怡伴健康" start="20240420010700 +0800" stop="20240420015200 +0800">
 		<title lang="zh">21_铁腕行动</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240420015200 +0800" stop="20240420023700 +0800">
+		<title lang="zh">22_铁腕行动</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -59999,6 +60011,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240420013400 +0800" stop="20240420015000 +0800">
 		<title lang="zh">半壶纱-李莹</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240420015000 +0800" stop="20240420020400 +0800">
+		<title lang="zh">张灯结彩-饶子龙</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -60068,6 +60083,9 @@
 	</channel>
 	<programme channel="newtv中国功夫" start="20240420003100 +0800" stop="20240420015500 +0800">
 		<title lang="zh">独孤天下之异瞳</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240420015500 +0800" stop="20240420031900 +0800">
+		<title lang="zh">雪鹰领主</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
