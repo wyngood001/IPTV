@@ -24771,6 +24771,9 @@
 	<programme channel="咪咕足球" start="20240420024000 +0800" stop="20240420050000 +0800">
 		<title lang="zh">意甲第33轮  卡利亚里vs尤文图斯</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240420050000 +0800" stop="20240420065900 +0800">
+		<title lang="zh">23/24赛季德甲第29轮全场回放：美因茨4:1霍芬海姆（刘洪新）</title>
+	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
@@ -59928,6 +59931,9 @@
 	<programme channel="黑莓动画" start="20240420042400 +0800" stop="20240420044700 +0800">
 		<title lang="zh">14_马达加斯加企鹅第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240420044700 +0800" stop="20240420051100 +0800">
+		<title lang="zh">15_入间同学入魔了</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -60612,6 +60618,9 @@
 	<programme channel="newtv爱情喜剧" start="20240420040600 +0800" stop="20240420045100 +0800">
 		<title lang="zh">39_女医明妃传</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240420045100 +0800" stop="20240420053600 +0800">
+		<title lang="zh">40_女医明妃传</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -60681,6 +60690,9 @@
 	<programme channel="newtv军事评论" start="20240420043400 +0800" stop="20240420045500 +0800">
 		<title lang="zh">电子对抗如何改变战场态势</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240420045500 +0800" stop="20240420051600 +0800">
+		<title lang="zh">缝缝补补的美军野战防空</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -60701,6 +60713,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240420034100 +0800" stop="20240420045800 +0800">
 		<title lang="zh">黏人男嘉宾希望能黏住合拍的另一半（20240409）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240420045800 +0800" stop="20240420051500 +0800">
+		<title lang="zh">映山红-李萍</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -60800,6 +60815,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240420031900 +0800" stop="20240420044800 +0800">
 		<title lang="zh">古剑奇谭之伏魔纪</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240420044800 +0800" stop="20240420062000 +0800">
+		<title lang="zh">全运会武术套路比赛：男子太极拳</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
