@@ -30786,6 +30786,9 @@
 	<programme channel="咪咕综合体育" start="20240419151500 +0800" stop="20240419154600 +0800">
 		<title lang="zh">2024WTT仁川冠军赛女单1/8决赛回放：王艺迪3-1伊丽莎贝塔b7萨马拉（周泽昊）</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240419154600 +0800" stop="20240419180600 +0800">
+		<title lang="zh">23/24赛季CBA常规赛第52轮全场回放：上海vs浙江（李天宇、陈正昊）（50帧原画）</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -76647,6 +76650,9 @@
 	<programme channel="黑莓动画" start="20240419152800 +0800" stop="20240419153100 +0800">
 		<title lang="zh">腕龙的弱点是害怕蝎子 僵博士差点得逞心奇爆龙战车</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240419153500 +0800" stop="20240419155900 +0800">
+		<title lang="zh">49_诚实的孩子</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -78126,6 +78132,9 @@
 	<programme channel="newtv超级电视剧" start="20240419153400 +0800" stop="20240419153900 +0800">
 		<title lang="zh">星推荐</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240419153900 +0800" stop="20240419162400 +0800">
+		<title lang="zh">01_正是青春璀璨时</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -78345,6 +78354,9 @@
 	<programme channel="newtv古装剧场" start="20240419144900 +0800" stop="20240419153600 +0800">
 		<title lang="zh">11_玉骨遥</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240419153600 +0800" stop="20240419162100 +0800">
+		<title lang="zh">12_玉骨遥</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -78407,6 +78419,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240419144400 +0800" stop="20240419153300 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240419153300 +0800" stop="20240419162100 +0800">
+		<title lang="zh">13_烽火孤儿</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -78935,6 +78950,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240419152400 +0800" stop="20240419153600 +0800">
 		<title lang="zh">漫步人生路-孙爱迪</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240419153600 +0800" stop="20240419162500 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
