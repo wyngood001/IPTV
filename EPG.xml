@@ -99,6 +99,9 @@
 	<programme channel="4K综艺" start="20240420181700 +0800" stop="20240420195600 +0800">
 		<title lang="zh">我最爱的女人们20190531</title>
 	</programme>
+	<programme channel="4K综艺" start="20240420195600 +0800" stop="20240420210900 +0800">
+		<title lang="zh">我最爱的女人们20190601</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -72636,6 +72639,9 @@
 	<programme channel="黑莓动画" start="20240420194200 +0800" stop="20240420195300 +0800">
 		<title lang="zh">26_舒克贝塔地下之谜</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240420195800 +0800" stop="20240420200400 +0800">
+		<title lang="zh">14_小猪佩奇第9季中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -72674,6 +72680,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240420180800 +0800" stop="20240420194700 +0800">
 		<title lang="zh">第十四个目标</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240420194700 +0800" stop="20240420214700 +0800">
+		<title lang="zh">非诚勿扰3</title>
 	</programme>
 	<channel id="黑龙江公共农业">
 		<display-name lang="zh">黑龙江公共农业</display-name>
@@ -74214,6 +74223,9 @@
 	<programme channel="newtv精品大剧" start="20240420193100 +0800" stop="20240420200100 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240420200100 +0800" stop="20240420204000 +0800">
+		<title lang="zh">08_猎冰</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -74481,6 +74493,9 @@
 	<programme channel="newtv军旅剧场" start="20240420191000 +0800" stop="20240420195500 +0800">
 		<title lang="zh">05_南侨机工英雄传</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240420195500 +0800" stop="20240420204000 +0800">
+		<title lang="zh">06_南侨机工英雄传</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -74703,6 +74718,9 @@
 	<programme channel="newtv爱情喜剧" start="20240420181700 +0800" stop="20240420195300 +0800">
 		<title lang="zh">政治之爱</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240420195300 +0800" stop="20240420203000 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -74843,6 +74861,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240420191700 +0800" stop="20240420194700 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240420194700 +0800" stop="20240420202800 +0800">
+		<title lang="zh">海南四海VS湖南星火燎原a0第一局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -75152,6 +75173,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240420183000 +0800" stop="20240420194700 +0800">
 		<title lang="zh">选手裴宸唐山话说唱 致敬赵丽蓉经典作品（20240406）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240420194700 +0800" stop="20240420203600 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
