@@ -60354,6 +60354,9 @@
 	<programme channel="纯享4K" start="20240420110800 +0800" stop="20240420115800 +0800">
 		<title lang="zh">大太平洋4K 第四集 饕餮</title>
 	</programme>
+	<programme channel="纯享4K" start="20240420115800 +0800" stop="20240420120300 +0800">
+		<title lang="zh">如果国宝会说话4K 殷墟嵌绿松石甲骨</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -72162,6 +72165,9 @@
 	<programme channel="黑莓动画" start="20240420114200 +0800" stop="20240420115400 +0800">
 		<title lang="zh">百变布鲁可第4季第4集</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240420115400 +0800" stop="20240420120700 +0800">
+		<title lang="zh">03_超级飞侠第15季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -73458,6 +73464,9 @@
 	<programme channel="newtv超级体育" start="20240420093000 +0800" stop="20240420120000 +0800">
 		<title lang="zh">2023/2024赛季美国职业篮球联赛-附加赛2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240420120000 +0800" stop="20240420123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -73538,6 +73547,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240420111400 +0800" stop="20240420120000 +0800">
 		<title lang="zh">41_陈情令</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240420120000 +0800" stop="20240420120500 +0800">
+		<title lang="zh">星推荐</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -73652,6 +73664,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240420112600 +0800" stop="20240420115000 +0800">
 		<title lang="zh">02_鳗鱼的故事</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240420115000 +0800" stop="20240420121500 +0800">
+		<title lang="zh">03_鳗鱼的故事</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -73878,6 +73893,9 @@
 	<programme channel="newtv爱情喜剧" start="20240420101800 +0800" stop="20240420115900 +0800">
 		<title lang="zh">人人都说我爱你</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240420115900 +0800" stop="20240420124600 +0800">
+		<title lang="zh">32_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -74076,6 +74094,9 @@
 	<programme channel="newtv军事评论" start="20240420113500 +0800" stop="20240420120000 +0800">
 		<title lang="zh">菲船只非法侵闯黄岩岛 乌军撤离乌东部重镇 美国炒作俄拟在太空部署核武</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240420120000 +0800" stop="20240420122500 +0800">
+		<title lang="zh">台100吨级海巡艇抵太平岛 美日安保同盟迎最大规模升级</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -74186,6 +74207,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240420111400 +0800" stop="20240420120000 +0800">
 		<title lang="zh">42_扶摇</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240420120000 +0800" stop="20240420123700 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
