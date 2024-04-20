@@ -52359,6 +52359,9 @@
 	<programme channel="纯享4K" start="20240421053600 +0800" stop="20240421055100 +0800">
 		<title lang="zh">跑马溜溜的云上4K 第2集</title>
 	</programme>
+	<programme channel="纯享4K" start="20240421055100 +0800" stop="20240421062100 +0800">
+		<title lang="zh">味道4K 我的家乡菜b7蒙阴篇（下）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -62634,6 +62637,9 @@
 	<programme channel="黑莓动画" start="20240421052600 +0800" stop="20240421055000 +0800">
 		<title lang="zh">02_入间同学入魔了</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240421055000 +0800" stop="20240421061600 +0800">
+		<title lang="zh">01_雷欧奥特曼 重制版 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -63129,6 +63135,9 @@
 	<programme channel="newtv超级体育" start="20240421040000 +0800" stop="20240421060000 +0800">
 		<title lang="zh">2024年世界男子冰壶锦标赛- 金牌赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240421060000 +0800" stop="20240421073000 +0800">
+		<title lang="zh">实况录像-2023/2024赛季中国男子篮球职业联赛 季后赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -63255,6 +63264,9 @@
 	<programme channel="newtv古装剧场" start="20240421050100 +0800" stop="20240421054700 +0800">
 		<title lang="zh">19_天和局</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240421054700 +0800" stop="20240421063400 +0800">
+		<title lang="zh">20_天和局</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -63281,6 +63293,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240421050500 +0800" stop="20240421055000 +0800">
 		<title lang="zh">16_黄河在咆哮</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240421055000 +0800" stop="20240421063600 +0800">
+		<title lang="zh">17_黄河在咆哮</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -63344,6 +63359,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240421050900 +0800" stop="20240421055400 +0800">
 		<title lang="zh">46_女医明妃传</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240421055400 +0800" stop="20240421064100 +0800">
+		<title lang="zh">47_女医明妃传</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -63473,6 +63491,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240421054600 +0800" stop="20240421054800 +0800">
 		<title lang="zh">小小爱河</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240421055100 +0800" stop="20240421064100 +0800">
+		<title lang="zh">京剧主持来挑战 相互切磋路更宽（20220308）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
