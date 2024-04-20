@@ -73563,6 +73563,9 @@
 	<programme channel="newtv精品大剧" start="20240420101100 +0800" stop="20240420105200 +0800">
 		<title lang="zh">39_老酒馆</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240420105200 +0800" stop="20240420114100 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -73706,6 +73709,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240420100100 +0800" stop="20240420104900 +0800">
 		<title lang="zh">43_绝地枪王二松花江上的枪声（DVD版）</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240420104900 +0800" stop="20240420113400 +0800">
+		<title lang="zh">01_大漠苍狼</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -73851,6 +73857,9 @@
 	<programme channel="newtv动作电影" start="20240420094100 +0800" stop="20240420105000 +0800">
 		<title lang="zh">飞鸿笑传</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240420105000 +0800" stop="20240420121700 +0800">
+		<title lang="zh">超级风暴</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -73898,6 +73907,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240420100800 +0800" stop="20240420105000 +0800">
 		<title lang="zh">生活圈</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240420105000 +0800" stop="20240420111800 +0800">
+		<title lang="zh">巨额黄金丢失之谜</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
