@@ -57267,6 +57267,9 @@
 	<programme channel="纯享4K" start="20240422110100 +0800" stop="20240422115300 +0800">
 		<title lang="zh">乘火车看中国4K 第四集 成吉思汗之路</title>
 	</programme>
+	<programme channel="纯享4K" start="20240422115300 +0800" stop="20240422123500 +0800">
+		<title lang="zh">远方的家4K 长沙贡玛国家级自然保护区 长沙贡玛：探秘“最美高原湿地”</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -67227,6 +67230,9 @@
 	<programme channel="黑莓动画" start="20240422114500 +0800" stop="20240422115800 +0800">
 		<title lang="zh">03_超级飞侠第15季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240422115800 +0800" stop="20240422121100 +0800">
+		<title lang="zh">04_超级飞侠第15季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -67734,6 +67740,9 @@
 	<programme channel="newtv超级体育" start="20240422103100 +0800" stop="20240422120000 +0800">
 		<title lang="zh">实况录像-2023/2024赛季中国男子篮球职业联赛 季后赛 1/4决赛 4</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240422120000 +0800" stop="20240422123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -67757,6 +67766,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240422102300 +0800" stop="20240422120500 +0800">
 		<title lang="zh">铁飞侠</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240422120500 +0800" stop="20240422121100 +0800">
+		<title lang="zh">音乐电影欣赏</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -68148,6 +68160,9 @@
 	<programme channel="newtv爱情喜剧" start="20240422110600 +0800" stop="20240422115000 +0800">
 		<title lang="zh">42_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240422115000 +0800" stop="20240422123500 +0800">
+		<title lang="zh">43_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -68340,6 +68355,9 @@
 	<programme channel="newtv军事评论" start="20240422113100 +0800" stop="20240422115700 +0800">
 		<title lang="zh">战友啊战友 2024清明祭 第三集</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240422115700 +0800" stop="20240422122200 +0800">
+		<title lang="zh">战友啊战友 2024清明祭 第四集</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -68459,6 +68477,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240422111000 +0800" stop="20240422115500 +0800">
 		<title lang="zh">52_扶摇</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240422115500 +0800" stop="20240422123200 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -68615,6 +68636,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240422110600 +0800" stop="20240422115400 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240422115400 +0800" stop="20240422131800 +0800">
+		<title lang="zh">侠僧探案传奇之白马镖局</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
