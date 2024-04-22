@@ -67866,6 +67866,9 @@
 	<programme channel="newtv超级电影" start="20240422133100 +0800" stop="20240422144900 +0800">
 		<title lang="zh">电影《降龙罗汉》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240422144900 +0800" stop="20240422161600 +0800">
+		<title lang="zh">电影《一路不消停》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -67931,6 +67934,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240422141900 +0800" stop="20240422150000 +0800">
 		<title lang="zh">27_破冰行动</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240422150000 +0800" stop="20240422154200 +0800">
+		<title lang="zh">28_破冰行动</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
