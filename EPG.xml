@@ -57747,6 +57747,9 @@
 	<programme channel="纯享4K" start="20240422223400 +0800" stop="20240422225800 +0800">
 		<title lang="zh">了不起的冬天4K 第3集 捏一把汗的飞行</title>
 	</programme>
+	<programme channel="纯享4K" start="20240422225800 +0800" stop="20240422232200 +0800">
+		<title lang="zh">了不起的冬天4K 第4集 有“范儿”</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -67833,6 +67836,9 @@
 	<programme channel="黑莓动画" start="20240422222900 +0800" stop="20240422225300 +0800">
 		<title lang="zh">04_咒术回战</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240422225300 +0800" stop="20240422231600 +0800">
+		<title lang="zh">03_大理寺日志</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -68418,6 +68424,9 @@
 	<programme channel="newtv超级体育" start="20240422205500 +0800" stop="20240422230000 +0800">
 		<title lang="zh">2024卡塔尔U23亚洲杯-小组赛B组(阿联酋队—中国队)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240422230000 +0800" stop="20240422232500 +0800">
+		<title lang="zh">实况录像-2024年国际体联体操世界杯 多哈站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -68777,6 +68786,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240422220400 +0800" stop="20240422225300 +0800">
 		<title lang="zh">01_自然的馈赠</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240422225300 +0800" stop="20240422231800 +0800">
+		<title lang="zh">第五集 枪</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -69152,6 +69164,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240422215600 +0800" stop="20240422230000 +0800">
 		<title lang="zh">半熟恋人第2季</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240422230000 +0800" stop="20240422234900 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -69726,6 +69741,9 @@
 	<programme channel="newtv炫舞未来" start="20240422224500 +0800" stop="20240422225300 +0800">
 		<title lang="zh">《广场舞》 羊羊得意（附教学）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240422225300 +0800" stop="20240422230400 +0800">
+		<title lang="zh">《广场舞》 赞赞赞（附教学）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -69812,6 +69830,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240422220300 +0800" stop="20240422224900 +0800">
 		<title lang="zh">04_很想很想你</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240422224900 +0800" stop="20240422002200 +0800">
+		<title lang="zh">超时空救兵</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -70076,6 +70097,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240422210400 +0800" stop="20240422225800 +0800">
 		<title lang="zh">武动乾坤：涅槃神石</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240422225800 +0800" stop="20240422001800 +0800">
+		<title lang="zh">锦衣之下之血滴子</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
