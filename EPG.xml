@@ -66,6 +66,9 @@
 	<programme channel="4K综艺" start="20240425045400 +0800" stop="20240425055500 +0800">
 		<title lang="zh">小小的追球20200205</title>
 	</programme>
+	<programme channel="4K综艺" start="20240425055500 +0800" stop="20240425070200 +0800">
+		<title lang="zh">小小的追球20200211</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -63639,6 +63642,9 @@
 	<programme channel="newtv超级综艺" start="20240425045700 +0800" stop="20240425055600 +0800">
 		<title lang="zh">乐龄唱响</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240425055600 +0800" stop="20240425073000 +0800">
+		<title lang="zh">经典咏流传b7正青春</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -63653,6 +63659,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20240425040000 +0800" stop="20240425060000 +0800">
 		<title lang="zh">2024年世界女子冰壶锦标赛-决赛</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240425060000 +0800" stop="20240425073000 +0800">
+		<title lang="zh">实况录像-2023/2024赛季中国男子篮球职业联赛 季后赛</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -63810,6 +63819,9 @@
 	<programme channel="newtv军旅剧场" start="20240425051300 +0800" stop="20240425055900 +0800">
 		<title lang="zh">36_黄河在咆哮</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240425055900 +0800" stop="20240425064500 +0800">
+		<title lang="zh">37_黄河在咆哮</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -63854,6 +63866,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240425051200 +0800" stop="20240425055800 +0800">
 		<title lang="zh">18_梦中的那片海</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240425055800 +0800" stop="20240425064400 +0800">
+		<title lang="zh">19_梦中的那片海</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -63963,6 +63978,9 @@
 	<programme channel="newtv军事评论" start="20240425053200 +0800" stop="20240425055800 +0800">
 		<title lang="zh">以军地面部队突入加沙 美报告鼓吹做好“与中俄同时开战”准备</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240425055800 +0800" stop="20240425062300 +0800">
+		<title lang="zh">以军宣布转入全面进攻 美军欲派第二艘航母 巴以冲突引韩国焦虑</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -63996,6 +64014,9 @@
 	<programme channel="newtv炫舞未来" start="20240425054500 +0800" stop="20240425054700 +0800">
 		<title lang="zh">我和我的祖国-尚岩（舞蹈展示）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240425054700 +0800" stop="20240425070400 +0800">
+		<title lang="zh">刘振宇演唱《繁花》热曲《偷心》 唱出了多少男女的回忆（20240408）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -64013,6 +64034,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240425051100 +0800" stop="20240425055700 +0800">
 		<title lang="zh">31_黄河在咆哮</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240425055700 +0800" stop="20240425064300 +0800">
+		<title lang="zh">32_黄河在咆哮</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
