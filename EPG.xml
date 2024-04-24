@@ -60252,6 +60252,9 @@
 	<programme channel="黑莓动画" start="20240425014500 +0800" stop="20240425015400 +0800">
 		<title lang="zh">12_我靠充值当武帝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240425015400 +0800" stop="20240425021800 +0800">
+		<title lang="zh">09_骸骨骑士大人奇幻世界冒险中</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -60735,6 +60738,9 @@
 	<programme channel="newtv超级综艺" start="20240425011900 +0800" stop="20240425020500 +0800">
 		<title lang="zh">03_烟火人家</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240425020500 +0800" stop="20240425034000 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60761,6 +60767,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240425010800 +0800" stop="20240425015400 +0800">
 		<title lang="zh">20_乡村爱情9（上）</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240425015400 +0800" stop="20240425024000 +0800">
+		<title lang="zh">21_乡村爱情9（上）</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60791,6 +60800,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240425010600 +0800" stop="20240425015200 +0800">
 		<title lang="zh">35_独步天下</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240425015200 +0800" stop="20240425023700 +0800">
+		<title lang="zh">36_独步天下</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -60843,6 +60855,9 @@
 	<programme channel="newtv怡伴健康" start="20240425010600 +0800" stop="20240425015200 +0800">
 		<title lang="zh">12_香格里拉</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240425015200 +0800" stop="20240425023700 +0800">
+		<title lang="zh">13_香格里拉</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -60863,6 +60878,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240425013600 +0800" stop="20240425015500 +0800">
 		<title lang="zh">01_美丽新疆-李萍（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240425015500 +0800" stop="20240425021200 +0800">
+		<title lang="zh">桃花笑-毕刚（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
