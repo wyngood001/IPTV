@@ -26802,6 +26802,9 @@
 	<programme channel="咪咕综合体育" start="20240426011800 +0800" stop="20240426020000 +0800">
 		<title lang="zh">2024WTT新加坡大满贯女单半决赛回放：陈幸同0-4王艺迪（小马哥）</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240426020000 +0800" stop="20240426024900 +0800">
+		<title lang="zh">2024WTT新加坡大满贯男单1/4决赛回放：邱党1-4王楚钦（周冠达、马特）</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -61035,6 +61038,9 @@
 	<programme channel="黑莓动画" start="20240426014300 +0800" stop="20240426015200 +0800">
 		<title lang="zh">15_我靠充值当武帝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240426015200 +0800" stop="20240426021500 +0800">
+		<title lang="zh">11_骸骨骑士大人奇幻世界冒险中</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -61536,6 +61542,9 @@
 	<programme channel="newtv超级电影" start="20240426002300 +0800" stop="20240426020000 +0800">
 		<title lang="zh">旱地忽律朱贵</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240426020000 +0800" stop="20240426033100 +0800">
+		<title lang="zh">利刃破冰</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -61545,6 +61554,9 @@
 	<programme channel="newtv超级电视剧" start="20240426011900 +0800" stop="20240426020400 +0800">
 		<title lang="zh">26_乡村爱情9（上）</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240426020400 +0800" stop="20240426025000 +0800">
+		<title lang="zh">27_乡村爱情9（上）</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -61553,6 +61565,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240426011500 +0800" stop="20240426015400 +0800">
 		<title lang="zh">11_只想今生一起走</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240426015400 +0800" stop="20240426023400 +0800">
+		<title lang="zh">12_只想今生一起走</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -61565,6 +61580,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240426012200 +0800" stop="20240426015100 +0800">
 		<title lang="zh">第四集 大艺法古</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240426015100 +0800" stop="20240426021600 +0800">
+		<title lang="zh">04_守护</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -61611,6 +61629,9 @@
 	<programme channel="newtv爱情喜剧" start="20240426003200 +0800" stop="20240426015400 +0800">
 		<title lang="zh">女访客</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240426015400 +0800" stop="20240426032700 +0800">
+		<title lang="zh">津门奇案之艳遇</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -61646,6 +61667,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240426012900 +0800" stop="20240426014800 +0800">
 		<title lang="zh">01_美丽新疆-李萍（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240426014800 +0800" stop="20240426020500 +0800">
+		<title lang="zh">桃花笑-毕刚（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
