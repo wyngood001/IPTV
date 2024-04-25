@@ -69912,6 +69912,9 @@
 	<programme channel="黑莓动画" start="20240425223000 +0800" stop="20240425225400 +0800">
 		<title lang="zh">10_咒术回战</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240425225400 +0800" stop="20240425231300 +0800">
+		<title lang="zh">09_大理寺日志</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -70734,6 +70737,9 @@
 	<programme channel="newtv超级电视剧" start="20240425221000 +0800" stop="20240425225700 +0800">
 		<title lang="zh">21_繁花（沪语版）</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240425225700 +0800" stop="20240425230200 +0800">
+		<title lang="zh">星推荐</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -71043,6 +71049,9 @@
 	<programme channel="newtv古装剧场" start="20240425221200 +0800" stop="20240425225200 +0800">
 		<title lang="zh">06_民国恩仇录</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240425225200 +0800" stop="20240425233200 +0800">
+		<title lang="zh">07_民国恩仇录</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -71328,6 +71337,9 @@
 	<programme channel="newtv热播精选" start="20240425215300 +0800" stop="20240425224900 +0800">
 		<title lang="zh">半熟恋人第2季</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240425224900 +0800" stop="20240425233400 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -71568,6 +71580,9 @@
 	<programme channel="newtv怡伴健康" start="20240425221200 +0800" stop="20240425225200 +0800">
 		<title lang="zh">第二场 重庆XTvs天津兄弟连 第4局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240425225200 +0800" stop="20240425233300 +0800">
+		<title lang="zh">第三场 北京东炸团vs河北巧战群雄 第1局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -71763,6 +71778,9 @@
 	<programme channel="newtv军事评论" start="20240425223000 +0800" stop="20240425225200 +0800">
 		<title lang="zh">北极战争b7战火中的极地</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240425225200 +0800" stop="20240425231400 +0800">
+		<title lang="zh">7北极战争b7战火中的极地</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -71888,6 +71906,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240425223300 +0800" stop="20240425225100 +0800">
 		<title lang="zh">微风细雨-孙爱迪</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240425225900 +0800" stop="20240425001200 +0800">
+		<title lang="zh">朱迅动情演唱《枉凝眉》 再现红楼名场面（20220310）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
