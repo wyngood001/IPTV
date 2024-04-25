@@ -64701,6 +64701,9 @@
 	<programme channel="newtv超级体育" start="20240426040000 +0800" stop="20240426060000 +0800">
 		<title lang="zh">2024年世界男子冰壶锦标赛- 半决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240426060000 +0800" stop="20240426073000 +0800">
+		<title lang="zh">实况录像-2023/2024赛季中国男子篮球职业联赛 季后赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -64803,6 +64806,9 @@
 	<programme channel="newtv精品纪录" start="20240426051800 +0800" stop="20240426055500 +0800">
 		<title lang="zh">春秋战国记 22 传奇宣太后</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240426055500 +0800" stop="20240426064500 +0800">
+		<title lang="zh">第四集：农耕春秋——画说农桑 岩语密码</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -64857,6 +64863,9 @@
 	<programme channel="newtv军旅剧场" start="20240426051400 +0800" stop="20240426055800 +0800">
 		<title lang="zh">03_狐影</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240426055800 +0800" stop="20240426064200 +0800">
+		<title lang="zh">04_狐影</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -64881,6 +64890,9 @@
 	<programme channel="newtv家庭剧场" start="20240426050700 +0800" stop="20240426054700 +0800">
 		<title lang="zh">02_闪耀的她</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240426054700 +0800" stop="20240426062800 +0800">
+		<title lang="zh">03_闪耀的她</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -64898,6 +64910,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240426050400 +0800" stop="20240426055000 +0800">
 		<title lang="zh">23_梦中的那片海</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240426055000 +0800" stop="20240426063700 +0800">
+		<title lang="zh">24_梦中的那片海</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -64964,6 +64979,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240426052200 +0800" stop="20240426054900 +0800">
 		<title lang="zh">海岸原生态——和谐家园（下）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240426054900 +0800" stop="20240426061600 +0800">
+		<title lang="zh">沙洲之上</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -65093,6 +65111,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20240426041600 +0800" stop="20240426055600 +0800">
 		<title lang="zh">2023-24赛季欧冠1/8决赛首回合：埃因霍温VS多特蒙德</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240426055600 +0800" stop="20240426073300 +0800">
+		<title lang="zh">2023-24赛季欧冠1/8决赛首回合：国际米兰VS马德里竞技</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
