@@ -70602,6 +70602,9 @@
 	<programme channel="黑莓动画" start="20240426163200 +0800" stop="20240426164800 +0800">
 		<title lang="zh">12_机器人大混战</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240426165900 +0800" stop="20240426170500 +0800">
+		<title lang="zh">11_娜斯佳和小伙伴的奇妙冒险</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71642,6 +71645,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240426160800 +0800" stop="20240426165600 +0800">
 		<title lang="zh">07_红色娘子军</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240426165600 +0800" stop="20240426174300 +0800">
+		<title lang="zh">08_红色娘子军</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
