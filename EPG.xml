@@ -71487,6 +71487,9 @@
 	<programme channel="newtv超级电视剧" start="20240426192900 +0800" stop="20240426200200 +0800">
 		<title lang="zh">08_鬼吹灯之精绝古城</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240426200200 +0800" stop="20240426203600 +0800">
+		<title lang="zh">09_鬼吹灯之精绝古城</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -71669,6 +71672,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240426194700 +0800" stop="20240426200400 +0800">
 		<title lang="zh">第3集：大同刀削面</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240426200400 +0800" stop="20240426203000 +0800">
+		<title lang="zh">03_牛羊繁盛</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -72065,6 +72071,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240426192100 +0800" stop="20240426201000 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240426201000 +0800" stop="20240426205700 +0800">
+		<title lang="zh">15_乡村爱情10（上）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -72587,6 +72596,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240426183200 +0800" stop="20240426201400 +0800">
 		<title lang="zh">艾尔酒吧</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240426201400 +0800" stop="20240426210300 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
