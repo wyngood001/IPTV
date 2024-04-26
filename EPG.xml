@@ -75,6 +75,9 @@
 	<programme channel="4K综艺" start="20240426100900 +0800" stop="20240426105900 +0800">
 		<title lang="zh">小小的追球20191211</title>
 	</programme>
+	<programme channel="4K综艺" start="20240426105900 +0800" stop="20240426115400 +0800">
+		<title lang="zh">真心大冒险20180407</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -58998,6 +59001,9 @@
 	<programme channel="纯享4K" start="20240426100600 +0800" stop="20240426105500 +0800">
 		<title lang="zh">大数据时代4K 第1集 数据时代</title>
 	</programme>
+	<programme channel="纯享4K" start="20240426105500 +0800" stop="20240426114400 +0800">
+		<title lang="zh">大数据时代4K 第2集 转型之路</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -70410,6 +70416,9 @@
 	<programme channel="黑莓动画" start="20240426103300 +0800" stop="20240426105600 +0800">
 		<title lang="zh">汪汪队立大功第3季12</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240426105600 +0800" stop="20240426110900 +0800">
+		<title lang="zh">11_钶龙战记</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71073,6 +71082,9 @@
 	<programme channel="newtv超级电视剧" start="20240426101700 +0800" stop="20240426110200 +0800">
 		<title lang="zh">19_梦华录</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240426110200 +0800" stop="20240426114900 +0800">
+		<title lang="zh">20_梦华录</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -71268,6 +71280,9 @@
 	<programme channel="newtv军旅剧场" start="20240426101400 +0800" stop="20240426105100 +0800">
 		<title lang="zh">01_怒江之战</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240426105100 +0800" stop="20240426113600 +0800">
+		<title lang="zh">16_对与决</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -71312,6 +71327,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240426101000 +0800" stop="20240426105600 +0800">
 		<title lang="zh">19_幸福来敲门</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240426105600 +0800" stop="20240426114300 +0800">
+		<title lang="zh">11_三十而已</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -71690,6 +71708,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240426093100 +0800" stop="20240426110400 +0800">
 		<title lang="zh">山水间的家（第二季)</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240426110400 +0800" stop="20240426125700 +0800">
+		<title lang="zh">新游记</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
