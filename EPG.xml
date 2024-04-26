@@ -72,6 +72,9 @@
 	<programme channel="4K综艺" start="20240426085300 +0800" stop="20240426100900 +0800">
 		<title lang="zh">小小的追球20191210</title>
 	</programme>
+	<programme channel="4K综艺" start="20240426100900 +0800" stop="20240426105900 +0800">
+		<title lang="zh">小小的追球20191211</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -58989,6 +58992,9 @@
 	<programme channel="纯享4K" start="20240426093900 +0800" stop="20240426100600 +0800">
 		<title lang="zh">丛林星球4K 丛林幽灵</title>
 	</programme>
+	<programme channel="纯享4K" start="20240426100600 +0800" stop="20240426105500 +0800">
+		<title lang="zh">大数据时代4K 第1集 数据时代</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -70395,6 +70401,9 @@
 	<programme channel="黑莓动画" start="20240426095600 +0800" stop="20240426100900 +0800">
 		<title lang="zh">12_百变校巴7</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240426100900 +0800" stop="20240426103300 +0800">
+		<title lang="zh">汪汪队立大功第3季11</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71049,6 +71058,9 @@
 	<programme channel="newtv超级电视剧" start="20240426093100 +0800" stop="20240426101700 +0800">
 		<title lang="zh">18_梦华录</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240426101700 +0800" stop="20240426110200 +0800">
+		<title lang="zh">19_梦华录</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -71232,6 +71244,9 @@
 	<programme channel="newtv军旅剧场" start="20240426093000 +0800" stop="20240426101400 +0800">
 		<title lang="zh">30_大漠苍狼</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240426101400 +0800" stop="20240426105100 +0800">
+		<title lang="zh">01_怒江之战</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -71273,6 +71288,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240426092400 +0800" stop="20240426101000 +0800">
 		<title lang="zh">18_幸福来敲门</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240426101000 +0800" stop="20240426105600 +0800">
+		<title lang="zh">19_幸福来敲门</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -71364,6 +71382,9 @@
 	<programme channel="newtv动作电影" start="20240426081400 +0800" stop="20240426100400 +0800">
 		<title lang="zh">对抗</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240426100400 +0800" stop="20240426113400 +0800">
+		<title lang="zh">邪恶小队</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -71408,6 +71429,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240426092200 +0800" stop="20240426100300 +0800">
 		<title lang="zh">02_谜道</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240426100300 +0800" stop="20240426104500 +0800">
+		<title lang="zh">生活圈</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -71600,6 +71624,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240426083300 +0800" stop="20240426100500 +0800">
 		<title lang="zh">金斯湾</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240426100500 +0800" stop="20240426114000 +0800">
+		<title lang="zh">凄灵室</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
