@@ -71046,6 +71046,9 @@
 	<programme channel="黑莓动画" start="20240427163600 +0800" stop="20240427165200 +0800">
 		<title lang="zh">14_天雷滚滚</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240427165800 +0800" stop="20240427170300 +0800">
+		<title lang="zh">13_万圣节纸杯蛋糕</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -72273,6 +72276,9 @@
 	<programme channel="newtv动作电影" start="20240427151700 +0800" stop="20240427165700 +0800">
 		<title lang="zh">绝色营救</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240427165700 +0800" stop="20240427182700 +0800">
+		<title lang="zh">落难神偷</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -72422,6 +72428,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240427161300 +0800" stop="20240427165800 +0800">
 		<title lang="zh">02_花谢花飞花满天</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240427165800 +0800" stop="20240427174200 +0800">
+		<title lang="zh">准岳母让男友婚前送房，美女疑心男友劈腿同事</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -72677,6 +72686,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240427152700 +0800" stop="20240427165300 +0800">
 		<title lang="zh">危思禁入</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240427165300 +0800" stop="20240427174200 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
