@@ -71871,6 +71871,9 @@
 	<programme channel="newtv精品纪录" start="20240427151200 +0800" stop="20240427155700 +0800">
 		<title lang="zh">01_麦田怪圈</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240427155700 +0800" stop="20240427164500 +0800">
+		<title lang="zh">第二集 绝技</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -72002,6 +72005,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240427150300 +0800" stop="20240427155200 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240427155200 +0800" stop="20240427163900 +0800">
+		<title lang="zh">10_红色娘子军</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -72294,6 +72300,9 @@
 	<programme channel="newtv怡伴健康" start="20240427152800 +0800" stop="20240427155500 +0800">
 		<title lang="zh">多疑的再婚女人</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240427155500 +0800" stop="20240427162200 +0800">
+		<title lang="zh">纠结的身后事</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -72501,6 +72510,9 @@
 	<programme channel="newtv炫舞未来" start="20240427154000 +0800" stop="20240427155600 +0800">
 		<title lang="zh">中国吉祥-毕刚（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240427155600 +0800" stop="20240427161100 +0800">
+		<title lang="zh">踏着歌声来见你-応子（完整教学）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -72560,6 +72572,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240427151200 +0800" stop="20240427160000 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240427160000 +0800" stop="20240427164500 +0800">
+		<title lang="zh">27_追爱家族</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
