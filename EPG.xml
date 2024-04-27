@@ -71295,6 +71295,9 @@
 	<programme channel="黑莓动画" start="20240427214600 +0800" stop="20240427215900 +0800">
 		<title lang="zh">26_踢踢和奇奇之魔力课堂 第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240427215900 +0800" stop="20240427221300 +0800">
+		<title lang="zh">27_踢踢和奇奇之魔力课堂 第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71883,6 +71886,9 @@
 	<programme channel="newtv超级综艺" start="20240427205200 +0800" stop="20240427215500 +0800">
 		<title lang="zh">非常6+1</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240427215500 +0800" stop="20240427230200 +0800">
+		<title lang="zh">国家宝藏系列专题节目</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -72087,6 +72093,9 @@
 	<programme channel="newtv超级电视剧" start="20240427210600 +0800" stop="20240427215300 +0800">
 		<title lang="zh">24_繁花（沪语版）</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240427215300 +0800" stop="20240427223900 +0800">
+		<title lang="zh">25_繁花（沪语版）</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -72176,6 +72185,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240427212400 +0800" stop="20240427215400 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240427215400 +0800" stop="20240427224100 +0800">
+		<title lang="zh">22_昙花梦</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -72281,6 +72293,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240427205500 +0800" stop="20240427215200 +0800">
 		<title lang="zh">走进老区看新貌：宁夏</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240427215200 +0800" stop="20240427221700 +0800">
+		<title lang="zh">01_土生土长</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -73064,6 +73079,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240427213600 +0800" stop="20240427215800 +0800">
 		<title lang="zh">二战大轰炸b7无边界轰炸（上）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240427215800 +0800" stop="20240427221900 +0800">
+		<title lang="zh">二战大轰炸b7无边界轰炸（下）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
