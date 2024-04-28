@@ -71238,6 +71238,9 @@
 	<programme channel="黑莓动画" start="20240428102300 +0800" stop="20240428104600 +0800">
 		<title lang="zh">汪汪队立大功第3季16</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240428110000 +0800" stop="20240428111300 +0800">
+		<title lang="zh">16_钶龙战记</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -72023,6 +72026,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240428101000 +0800" stop="20240428105600 +0800">
 		<title lang="zh">60_隋唐英雄3</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240428105600 +0800" stop="20240428114200 +0800">
+		<title lang="zh">61_隋唐英雄3</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
