@@ -59706,6 +59706,9 @@
 	<programme channel="纯享4K" start="20240428222100 +0800" stop="20240428225100 +0800">
 		<title lang="zh">美丽中国说4K 高山精灵</title>
 	</programme>
+	<programme channel="纯享4K" start="20240428225100 +0800" stop="20240428235100 +0800">
+		<title lang="zh">乐享汇4K “新的唱响”演唱会（十三）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -71544,6 +71547,9 @@
 	<programme channel="黑莓动画" start="20240428222800 +0800" stop="20240428225200 +0800">
 		<title lang="zh">16_咒术回战</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240428225200 +0800" stop="20240428231500 +0800">
+		<title lang="zh">03_大理寺日志</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -72339,6 +72345,9 @@
 	<programme channel="newtv超级电视剧" start="20240428220700 +0800" stop="20240428225400 +0800">
 		<title lang="zh">27_繁花（沪语版）</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240428225800 +0800" stop="20240428234400 +0800">
+		<title lang="zh">05_独孤天下</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -72434,6 +72443,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240428220400 +0800" stop="20240428225100 +0800">
 		<title lang="zh">26_昙花梦</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240428225100 +0800" stop="20240428233800 +0800">
+		<title lang="zh">27_昙花梦</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -72644,6 +72656,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240428221200 +0800" stop="20240428225200 +0800">
 		<title lang="zh">21_民国恩仇录</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240428225200 +0800" stop="20240428233200 +0800">
+		<title lang="zh">22_民国恩仇录</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -72923,6 +72938,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240428214500 +0800" stop="20240428230000 +0800">
 		<title lang="zh">半熟恋人第2季</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240428230000 +0800" stop="20240428234800 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -73377,6 +73395,9 @@
 	<programme channel="newtv军事评论" start="20240428223100 +0800" stop="20240428225300 +0800">
 		<title lang="zh">二战的爆发（三）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240428225300 +0800" stop="20240428231500 +0800">
+		<title lang="zh">二战的爆发（四）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -73499,6 +73520,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240428224500 +0800" stop="20240428225400 +0800">
 		<title lang="zh">龙的传人-乌兰图雅</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240428225400 +0800" stop="20240428230100 +0800">
+		<title lang="zh">酒歌-乌兰图雅</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -73850,6 +73874,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240428213400 +0800" stop="20240428225300 +0800">
 		<title lang="zh">狄仁杰之焚天异火</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240428225300 +0800" stop="20240428001700 +0800">
+		<title lang="zh">长生志</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
