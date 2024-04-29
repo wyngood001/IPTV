@@ -72984,6 +72984,9 @@
 	<programme channel="newtv军旅剧场" start="20240430021500 +0800" stop="20240430030000 +0800">
 		<title lang="zh">22_军人荣誉之铁血雄心</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240430030000 +0800" stop="20240430034500 +0800">
+		<title lang="zh">23_军人荣誉之铁血雄心</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -72995,6 +72998,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240430015900 +0800" stop="20240430024600 +0800">
 		<title lang="zh">02_安家</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240430024600 +0800" stop="20240430033000 +0800">
+		<title lang="zh">03_安家</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -73067,6 +73073,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240430023500 +0800" stop="20240430025500 +0800">
 		<title lang="zh">声律启蒙-孙爱迪</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240430025500 +0800" stop="20240430032200 +0800">
+		<title lang="zh">01_暖心人</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -73151,6 +73160,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240430013000 +0800" stop="20240430025600 +0800">
 		<title lang="zh">真假铁马骝</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240430025600 +0800" stop="20240430042000 +0800">
+		<title lang="zh">飞鱼服</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
