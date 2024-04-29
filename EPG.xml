@@ -67218,6 +67218,9 @@
 	<programme channel="黑莓动画" start="20240429201500 +0800" stop="20240429204000 +0800">
 		<title lang="zh">18_德凯奥特曼 普通话版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240429204000 +0800" stop="20240429210400 +0800">
+		<title lang="zh">19_德凯奥特曼 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -68310,6 +68313,9 @@
 	<programme channel="newtv军旅剧场" start="20240429194700 +0800" stop="20240429203200 +0800">
 		<title lang="zh">24_南侨机工英雄传</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240429203200 +0800" stop="20240429210200 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -68393,6 +68399,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240429195300 +0800" stop="20240429203900 +0800">
 		<title lang="zh">28_父辈的荣耀</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240429203900 +0800" stop="20240429212600 +0800">
+		<title lang="zh">35_故乡，别来无恙</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -68537,6 +68546,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240429194700 +0800" stop="20240429203200 +0800">
 		<title lang="zh">29_乡村爱情10（上）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240429203200 +0800" stop="20240429211800 +0800">
+		<title lang="zh">30_乡村爱情10（上）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -69042,6 +69054,9 @@
 	<programme channel="newtv精品综合" start="20240429194900 +0800" stop="20240429203500 +0800">
 		<title lang="zh">29_很想很想你</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240429203500 +0800" stop="20240429212100 +0800">
+		<title lang="zh">30_很想很想你</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -69128,6 +69143,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240429195800 +0800" stop="20240429204600 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240429204600 +0800" stop="20240429225700 +0800">
+		<title lang="zh">炙爱之战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -69281,6 +69299,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240429195300 +0800" stop="20240429203900 +0800">
 		<title lang="zh">39_天龙八部</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240429203900 +0800" stop="20240429212400 +0800">
+		<title lang="zh">40_天龙八部</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
