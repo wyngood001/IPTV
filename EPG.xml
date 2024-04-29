@@ -111,6 +111,9 @@
 	<programme channel="4K综艺" start="20240429194600 +0800" stop="20240429205200 +0800">
 		<title lang="zh">儿行千里20171008</title>
 	</programme>
+	<programme channel="4K综艺" start="20240429205200 +0800" stop="20240429220200 +0800">
+		<title lang="zh">儿行千里20171015</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -57111,6 +57114,9 @@
 	<programme channel="纯享4K" start="20240429200800 +0800" stop="20240429204900 +0800">
 		<title lang="zh">远方的家4K 长江行 共创家园 筑梦上海</title>
 	</programme>
+	<programme channel="纯享4K" start="20240429210000 +0800" stop="20240429214900 +0800">
+		<title lang="zh">曹雪芹与红楼梦4K 第5集 凡鸟偏从末世来</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -67749,6 +67755,9 @@
 	<programme channel="newtv超级综艺" start="20240429193000 +0800" stop="20240429205400 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240429205400 +0800" stop="20240429215100 +0800">
+		<title lang="zh">幸福账单</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -67937,6 +67946,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240429202000 +0800" stop="20240429205400 +0800">
 		<title lang="zh">18_鬼吹灯之精绝古城</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240429205800 +0800" stop="20240429214600 +0800">
+		<title lang="zh">28_繁花（沪语版）</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -68138,6 +68150,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240429203000 +0800" stop="20240429205600 +0800">
 		<title lang="zh">10_仓廪殷实</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240429205600 +0800" stop="20240429215100 +0800">
+		<title lang="zh">走进老区看新貌：广西</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -68592,6 +68607,9 @@
 	<programme channel="newtv动作电影" start="20240429185400 +0800" stop="20240429204700 +0800">
 		<title lang="zh">武动乾坤：涅槃神石</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240429204700 +0800" stop="20240429211700 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -68693,6 +68711,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240429202100 +0800" stop="20240429210000 +0800">
 		<title lang="zh">第七场 天津兄弟连vs北京东炸团 第4局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240429210000 +0800" stop="20240429213000 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -68874,6 +68895,9 @@
 	<programme channel="newtv军事评论" start="20240429202300 +0800" stop="20240429205300 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240429205300 +0800" stop="20240429211900 +0800">
+		<title lang="zh">极限对抗</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -68984,6 +69008,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240429201000 +0800" stop="20240429210000 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240429210000 +0800" stop="20240429215000 +0800">
+		<title lang="zh">舞蹈老师魏佳丽邀请主持人一起舞蹈连连跳（20221128）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -69104,6 +69131,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240429200100 +0800" stop="20240429204900 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240429204900 +0800" stop="20240429221300 +0800">
+		<title lang="zh">火线追凶2之夺命书院</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
