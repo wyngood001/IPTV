@@ -54930,6 +54930,9 @@
 	<programme channel="纯享4K" start="20240504050600 +0800" stop="20240504055800 +0800">
 		<title lang="zh">乘火车看中国4K 第四集 成吉思汗之路</title>
 	</programme>
+	<programme channel="纯享4K" start="20240504055800 +0800" stop="20240504062800 +0800">
+		<title lang="zh">味道4K 原味乡间b7定南篇（上）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -65625,6 +65628,9 @@
 	<programme channel="黑莓动画" start="20240504053300 +0800" stop="20240504055800 +0800">
 		<title lang="zh">27_雷欧奥特曼 重制版 普通话版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240504055800 +0800" stop="20240504062500 +0800">
+		<title lang="zh">28_雷欧奥特曼 重制版 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -66120,6 +66126,9 @@
 	<programme channel="newtv超级体育" start="20240504040000 +0800" stop="20240504060000 +0800">
 		<title lang="zh">2024年世界女子冰壶锦标赛-铜牌赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240504060000 +0800" stop="20240504073000 +0800">
+		<title lang="zh">实况录像-2023/2024赛季中国男子篮球职业联赛 季后赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -66363,6 +66372,9 @@
 	<programme channel="newtv动作电影" start="20240504044500 +0800" stop="20240504054700 +0800">
 		<title lang="zh">蛇形行动</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240504054700 +0800" stop="20240504071400 +0800">
+		<title lang="zh">长安侠影之剑客风云</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -66392,6 +66404,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240504052600 +0800" stop="20240504055300 +0800">
 		<title lang="zh">共生之道——相守在灌丛中（下）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240504055300 +0800" stop="20240504082300 +0800">
+		<title lang="zh">越剧《孟丽君》</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -66479,6 +66494,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240504053600 +0800" stop="20240504055100 +0800">
 		<title lang="zh">夜雨寄北-李萍</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240504060000 +0800" stop="20240504061900 +0800">
+		<title lang="zh">玫瑰恋情-李莹</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -66605,6 +66623,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240504053000 +0800" stop="20240504055900 +0800">
 		<title lang="zh">世界拳王争霸赛：加西亚VS席尔瓦</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240504055900 +0800" stop="20240504064700 +0800">
+		<title lang="zh">次轻量级拳王争霸赛 福斯特VS赫尔南德兹</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
