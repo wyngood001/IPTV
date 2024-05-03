@@ -27333,6 +27333,9 @@
 	<programme channel="咪咕综合体育" start="20240504000000 +0800" stop="20240504035300 +0800">
 		<title lang="zh">动感地带b7中国街舞联赛校园赛北部大区晋级赛全场回放</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240504035300 +0800" stop="20240504054000 +0800">
+		<title lang="zh">23/24赛季中国男子排球超级联赛9-14名决赛全场回放：四川五粮春3-1湖北黄石东楚（朱贝儿）</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -62751,6 +62754,9 @@
 	<programme channel="黑莓动画" start="20240504033900 +0800" stop="20240504035900 +0800">
 		<title lang="zh">04_全职法师第1季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240504035900 +0800" stop="20240504042200 +0800">
+		<title lang="zh">01_马达加斯加企鹅第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -63285,6 +63291,9 @@
 	<programme channel="newtv精品大剧" start="20240504030700 +0800" stop="20240504035300 +0800">
 		<title lang="zh">30_娘家的故事之爱的抉择</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240504035300 +0800" stop="20240504043900 +0800">
+		<title lang="zh">31_娘家的故事之爱的抉择</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -63330,6 +63339,9 @@
 	<programme channel="newtv古装剧场" start="20240504030900 +0800" stop="20240504035300 +0800">
 		<title lang="zh">02_且听凤鸣</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240504035300 +0800" stop="20240504043900 +0800">
+		<title lang="zh">03_京城四少</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -63369,6 +63381,9 @@
 	<programme channel="newtv家庭剧场" start="20240504031300 +0800" stop="20240504035800 +0800">
 		<title lang="zh">08_追爱家族</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240504035800 +0800" stop="20240504044300 +0800">
+		<title lang="zh">09_追爱家族</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -63377,6 +63392,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240504030200 +0800" stop="20240504034800 +0800">
 		<title lang="zh">21_爱的幸福闪耀</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240504034800 +0800" stop="20240504043400 +0800">
+		<title lang="zh">22_爱的幸福闪耀</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -63468,6 +63486,9 @@
 	<programme channel="newtv炫舞未来" start="20240504032600 +0800" stop="20240504035100 +0800">
 		<title lang="zh">06_帝俊b7瞧这一家子</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240504035500 +0800" stop="20240504041100 +0800">
+		<title lang="zh">护花使者-毕刚（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -63479,6 +63500,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240504030000 +0800" stop="20240504034800 +0800">
 		<title lang="zh">01_红色娘子军</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240504034800 +0800" stop="20240504043500 +0800">
+		<title lang="zh">02_红色娘子军</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
