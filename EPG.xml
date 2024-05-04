@@ -72333,6 +72333,9 @@
 	<programme channel="黑莓动画" start="20240504102800 +0800" stop="20240504105100 +0800">
 		<title lang="zh">汪汪队立大功第3季01</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240504105100 +0800" stop="20240504111400 +0800">
+		<title lang="zh">汪汪队立大功第3季02</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -72353,6 +72356,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240504085400 +0800" stop="20240504104700 +0800">
 		<title lang="zh">相棒剧场版</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240504104700 +0800" stop="20240504122900 +0800">
+		<title lang="zh">攻壳机动队</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -73068,6 +73074,9 @@
 	<programme channel="newtv精品纪录" start="20240504100100 +0800" stop="20240504104900 +0800">
 		<title lang="zh">02_困难重重</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240504104900 +0800" stop="20240504111900 +0800">
+		<title lang="zh">07_风味实验室 第2季</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -73211,6 +73220,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240504100100 +0800" stop="20240504104600 +0800">
 		<title lang="zh">23_向往的生活</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240504104600 +0800" stop="20240504113200 +0800">
+		<title lang="zh">08_我们的婚姻</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -73361,6 +73373,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240504101200 +0800" stop="20240504105300 +0800">
 		<title lang="zh">生活圈</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240504105300 +0800" stop="20240504112100 +0800">
+		<title lang="zh">难兄难弟</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
