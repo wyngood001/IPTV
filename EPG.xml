@@ -60558,6 +60558,9 @@
 	<programme channel="纯享4K" start="20240504094200 +0800" stop="20240504101200 +0800">
 		<title lang="zh">信仰的感召4K 铁肩道义 李大钊</title>
 	</programme>
+	<programme channel="纯享4K" start="20240504101200 +0800" stop="20240504104200 +0800">
+		<title lang="zh">村庄故事4K 山水岩龙（上）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -72318,6 +72321,9 @@
 	<programme channel="黑莓动画" start="20240504100100 +0800" stop="20240504101400 +0800">
 		<title lang="zh">01_百变校巴8</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240504101400 +0800" stop="20240504102800 +0800">
+		<title lang="zh">02_百变校巴8</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -72897,6 +72903,9 @@
 	<programme channel="newtv超级电影" start="20240504083100 +0800" stop="20240504101500 +0800">
 		<title lang="zh">冰雪奇缘 2</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240504102100 +0800" stop="20240504120100 +0800">
+		<title lang="zh">骆驼客3-弓魂传</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -72941,6 +72950,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240504093000 +0800" stop="20240504101500 +0800">
 		<title lang="zh">01_破冰行动</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240504101500 +0800" stop="20240504105700 +0800">
+		<title lang="zh">02_破冰行动</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -73316,6 +73328,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240504092900 +0800" stop="20240504101200 +0800">
 		<title lang="zh">18_谜道</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240504101200 +0800" stop="20240504105300 +0800">
+		<title lang="zh">生活圈</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
