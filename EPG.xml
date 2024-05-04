@@ -62718,17 +62718,26 @@
 	<programme channel="newtv古装剧场" start="20240505001400 +0800" stop="20240505010100 +0800">
 		<title lang="zh">03_且听凤鸣</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240505010100 +0800" stop="20240505014400 +0800">
+		<title lang="zh">04_且听凤鸣</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
 	<programme channel="newtv军旅剧场" start="20240505000700 +0800" stop="20240505004800 +0800">
 		<title lang="zh">18_黎明前的抉择</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240505004800 +0800" stop="20240505012900 +0800">
+		<title lang="zh">19_黎明前的抉择</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
 	<programme channel="newtv家庭剧场" start="20240505000600 +0800" stop="20240505005000 +0800">
 		<title lang="zh">21_安家</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240505005000 +0800" stop="20240505013600 +0800">
+		<title lang="zh">22_安家</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
