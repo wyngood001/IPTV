@@ -62460,6 +62460,9 @@
 	<programme channel="黑莓动画" start="20240505033800 +0800" stop="20240505035600 +0800">
 		<title lang="zh">05_全职法师第1季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240505035600 +0800" stop="20240505041400 +0800">
+		<title lang="zh">06_全职法师第1季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -62943,6 +62946,9 @@
 	<programme channel="newtv超级体育" start="20240505023600 +0800" stop="20240505040000 +0800">
 		<title lang="zh">实况录像-2023/2024欧洲冠军联赛 半决赛第一回合</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240505040000 +0800" stop="20240505060000 +0800">
+		<title lang="zh">2024年世界女子冰壶锦标赛-决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -63033,6 +63039,9 @@
 	<programme channel="newtv古装剧场" start="20240505031200 +0800" stop="20240505035600 +0800">
 		<title lang="zh">07_且听凤鸣</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240505035600 +0800" stop="20240505044200 +0800">
+		<title lang="zh">08_京城四少</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -63071,6 +63080,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240505030700 +0800" stop="20240505035200 +0800">
 		<title lang="zh">13_追爱家族</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240505035200 +0800" stop="20240505043700 +0800">
+		<title lang="zh">14_追爱家族</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -63177,6 +63189,9 @@
 	<programme channel="newtv炫舞未来" start="20240505032800 +0800" stop="20240505035300 +0800">
 		<title lang="zh">03_伏羲b7探索通天之路</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240505035700 +0800" stop="20240505041300 +0800">
+		<title lang="zh">护花使者-毕刚（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -63198,6 +63213,9 @@
 	<programme channel="newtv惊悚悬疑" start="20240505024400 +0800" stop="20240505035700 +0800">
 		<title lang="zh">张震讲故事之洗脸女生的传说</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240505035700 +0800" stop="20240505052100 +0800">
+		<title lang="zh">鲨卷风4</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -63206,6 +63224,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240505022600 +0800" stop="20240505040200 +0800">
 		<title lang="zh">你正常吗 第3季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240505040200 +0800" stop="20240505070100 +0800">
+		<title lang="zh">经典咏流传 第三季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
