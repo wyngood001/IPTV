@@ -72312,6 +72312,9 @@
 	<programme channel="黑莓动画" start="20240505183700 +0800" stop="20240505185100 +0800">
 		<title lang="zh">03_咖宝车神第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240505185100 +0800" stop="20240505190500 +0800">
+		<title lang="zh">04_咖宝车神第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -73059,6 +73062,9 @@
 	<programme channel="newtv超级电视剧" start="20240505183300 +0800" stop="20240505190700 +0800">
 		<title lang="zh">12_鬼吹灯之黄皮子坟</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240505190700 +0800" stop="20240505194000 +0800">
+		<title lang="zh">13_鬼吹灯之黄皮子坟</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -73233,6 +73239,9 @@
 	<programme channel="newtv精品纪录" start="20240505181900 +0800" stop="20240505185700 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240505185700 +0800" stop="20240505192200 +0800">
+		<title lang="zh">01_家宴春色</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -73311,6 +73320,9 @@
 	<programme channel="newtv古装剧场" start="20240505181600 +0800" stop="20240505185900 +0800">
 		<title lang="zh">54_大唐荣耀</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240505185900 +0800" stop="20240505192900 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -73388,6 +73400,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240505180700 +0800" stop="20240505185300 +0800">
 		<title lang="zh">28_解放大西南</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240505185300 +0800" stop="20240505192300 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -73538,6 +73553,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240505175300 +0800" stop="20240505185000 +0800">
 		<title lang="zh">千古风流人物第4季</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240505185000 +0800" stop="20240505192300 +0800">
+		<title lang="zh">20_鬼吹灯之精绝古城</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -73811,6 +73829,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240505180400 +0800" stop="20240505184800 +0800">
 		<title lang="zh">01_永安梦</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240505184800 +0800" stop="20240505193200 +0800">
+		<title lang="zh">02_永安梦</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
