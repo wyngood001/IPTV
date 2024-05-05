@@ -72021,6 +72021,9 @@
 	<programme channel="黑莓动画" start="20240505113600 +0800" stop="20240505114900 +0800">
 		<title lang="zh">04_钶龙战记</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240505120000 +0800" stop="20240505121200 +0800">
+		<title lang="zh">百变布鲁可第4季第10集</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -72621,6 +72624,9 @@
 	<programme channel="newtv超级电影" start="20240505114500 +0800" stop="20240505120000 +0800">
 		<title lang="zh">音乐电影欣赏</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240505120000 +0800" stop="20240505131300 +0800">
+		<title lang="zh">电影《儿大不由爹》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -72723,6 +72729,9 @@
 	<programme channel="newtv精品大剧" start="20240505105900 +0800" stop="20240505115500 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240505115500 +0800" stop="20240505123900 +0800">
+		<title lang="zh">17_扫黑风暴</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -72779,6 +72788,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240505112200 +0800" stop="20240505115200 +0800">
 		<title lang="zh">10_风味实验室 第2季</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240505115200 +0800" stop="20240505122200 +0800">
+		<title lang="zh">原味乡间b7开平篇</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -72881,6 +72893,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240505111400 +0800" stop="20240505120000 +0800">
 		<title lang="zh">05_雪域天路</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240505120000 +0800" stop="20240505124500 +0800">
+		<title lang="zh">06_雪域天路</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -73149,6 +73164,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240505111700 +0800" stop="20240505120100 +0800">
 		<title lang="zh">46_因为爱情有多美（DVD版）</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240505120100 +0800" stop="20240505125400 +0800">
+		<title lang="zh">风味人间第4季</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -73211,6 +73229,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240505113000 +0800" stop="20240505115500 +0800">
 		<title lang="zh">大美边关的险峻巡逻路</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240505115500 +0800" stop="20240505122100 +0800">
+		<title lang="zh">大装备遭遇惊险挑战</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -73388,6 +73409,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240505111200 +0800" stop="20240505120100 +0800">
 		<title lang="zh">舞蹈世界（2023）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240505120100 +0800" stop="20240505140700 +0800">
+		<title lang="zh">登录圆鱼洲</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
