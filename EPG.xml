@@ -60405,6 +60405,9 @@
 	<programme channel="纯享4K" start="20240505145600 +0800" stop="20240505155600 +0800">
 		<title lang="zh">乐享汇4K “最美的时光”演唱会（五）</title>
 	</programme>
+	<programme channel="纯享4K" start="20240505155600 +0800" stop="20240505162400 +0800">
+		<title lang="zh">记住乡愁4K第八季 向阳村——胶东古村 向阳而生</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -64447,12 +64450,7 @@
 		<title lang="zh">重播:成长路上</title>
 	</programme>
 	<programme channel="赣州教育" start="20240505102500 +0800" stop="20240505105500 +0800">
-		<title lang="zh">快乐生活一点通</title>
-	</programme>
-	<programme channel="赣州教育" start="20240505105500 +0800" stop="20240505120000 +0800">
-		<title lang="zh">重播:电影进行时</title>
-	</programme>
-	<programme channel="赣州教育" start="20240505120000 +0800" stop="20240505123000 +0800">
+		<title lang="zh">快乐	<programme channel="赣州教育" start="20240505120000 +0800" stop="20240505123000 +0800">
 		<title lang="zh">重播:城乡直通车</title>
 	</programme>
 	<programme channel="赣州教育" start="20240505123000 +0800" stop="20240505133000 +0800">
