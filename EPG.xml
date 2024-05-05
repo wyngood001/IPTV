@@ -78,6 +78,9 @@
 	<programme channel="4K综艺" start="20240505083600 +0800" stop="20240505101000 +0800">
 		<title lang="zh">我最爱的女人们20190712</title>
 	</programme>
+	<programme channel="4K综艺" start="20240505101000 +0800" stop="20240505110100 +0800">
+		<title lang="zh">我最爱的女人们20190713</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -71985,6 +71988,9 @@
 	<programme channel="黑莓动画" start="20240505094800 +0800" stop="20240505100900 +0800">
 		<title lang="zh">07_小马宝莉：我的可爱标志上</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240505100900 +0800" stop="20240505102200 +0800">
+		<title lang="zh">03_百变校巴8</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -72519,6 +72525,9 @@
 	<programme channel="newtv超级综艺" start="20240505092600 +0800" stop="20240505101500 +0800">
 		<title lang="zh">回声嘹亮</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240505101500 +0800" stop="20240505112400 +0800">
+		<title lang="zh">非常6+1</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -72569,6 +72578,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240505083200 +0800" stop="20240505101200 +0800">
 		<title lang="zh">葫芦兄弟</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240505101700 +0800" stop="20240505114500 +0800">
+		<title lang="zh">永远的朋友爱丽丝b7米兰达</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -72657,6 +72669,9 @@
 	<programme channel="newtv精品大剧" start="20240505093300 +0800" stop="20240505101500 +0800">
 		<title lang="zh">15_扫黑风暴</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240505101500 +0800" stop="20240505105900 +0800">
+		<title lang="zh">16_扫黑风暴</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -72705,6 +72720,9 @@
 	<programme channel="newtv精品纪录" start="20240505094200 +0800" stop="20240505100700 +0800">
 		<title lang="zh">02_数学家的工作</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240505100700 +0800" stop="20240505105400 +0800">
+		<title lang="zh">守护蔚蓝</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -72746,6 +72764,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240505091400 +0800" stop="20240505100200 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240505100200 +0800" stop="20240505104700 +0800">
+		<title lang="zh">29_春光灿烂猪九妹</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -72905,6 +72926,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240505091900 +0800" stop="20240505100900 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240505100900 +0800" stop="20240505105600 +0800">
+		<title lang="zh">33_京城四少</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -73067,6 +73091,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240505094900 +0800" stop="20240505101400 +0800">
 		<title lang="zh">地震发生后的暖心瞬间</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240505101400 +0800" stop="20240505103900 +0800">
+		<title lang="zh">塞上争霸之“龙虎”斗</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
