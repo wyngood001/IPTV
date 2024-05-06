@@ -81,6 +81,9 @@
 	<programme channel="4K综艺" start="20240506084800 +0800" stop="20240506101300 +0800">
 		<title lang="zh">奇兵神犬20171201</title>
 	</programme>
+	<programme channel="4K综艺" start="20240506101300 +0800" stop="20240506113800 +0800">
+		<title lang="zh">奇兵神犬20171215</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -67941,6 +67944,9 @@
 	<programme channel="黑莓动画" start="20240506095200 +0800" stop="20240506100500 +0800">
 		<title lang="zh">05_百变校巴8</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240506100500 +0800" stop="20240506101800 +0800">
+		<title lang="zh">06_百变校巴8</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -68547,6 +68553,9 @@
 	<programme channel="newtv精品大剧" start="20240506092000 +0800" stop="20240506100500 +0800">
 		<title lang="zh">19_扫黑风暴</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240506100500 +0800" stop="20240506104900 +0800">
+		<title lang="zh">20_扫黑风暴</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -68678,6 +68687,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240506091600 +0800" stop="20240506100400 +0800">
 		<title lang="zh">07_最后的子弹</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240506100400 +0800" stop="20240506105100 +0800">
+		<title lang="zh">08_最后的子弹</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -68859,6 +68871,9 @@
 	<programme channel="newtv怡伴健康" start="20240506092100 +0800" stop="20240506100700 +0800">
 		<title lang="zh">02_天下正道</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240506100700 +0800" stop="20240506104900 +0800">
+		<title lang="zh">生活圈</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -68945,6 +68960,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240506094500 +0800" stop="20240506101100 +0800">
 		<title lang="zh">守卫在伊犁边防</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240506101100 +0800" stop="20240506103600 +0800">
+		<title lang="zh">守卫在高原小岛</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
