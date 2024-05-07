@@ -44622,6 +44622,9 @@
 	<programme channel="黑莓动画" start="20240508010000 +0800" stop="20240508012500 +0800">
 		<title lang="zh">12_一人之下第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240508012500 +0800" stop="20240508013400 +0800">
+		<title lang="zh">47_我靠充值当武帝</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -44895,6 +44898,9 @@
 	<programme channel="newtv超级综艺" start="20240508010000 +0800" stop="20240508014500 +0800">
 		<title lang="zh">14_大嫁风尚</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240508014500 +0800" stop="20240508030400 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -44940,6 +44946,9 @@
 	<programme channel="newtv超级电影" start="20240508001600 +0800" stop="20240508014700 +0800">
 		<title lang="zh">凿空者之西极神域</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240508014700 +0800" stop="20240508032500 +0800">
+		<title lang="zh">此心安处是故乡</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -44948,6 +44957,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240508005200 +0800" stop="20240508013800 +0800">
 		<title lang="zh">08_乡村爱情10（下）</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240508013800 +0800" stop="20240508022300 +0800">
+		<title lang="zh">09_乡村爱情10（下）</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -44963,6 +44975,9 @@
 	</channel>
 	<programme channel="newtv精品纪录" start="20240508003200 +0800" stop="20240508012100 +0800">
 		<title lang="zh">04_眼前春色梦中人</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240508012100 +0800" stop="20240508021000 +0800">
+		<title lang="zh">04_无声的功勋（第一季）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -45069,6 +45084,9 @@
 	<programme channel="newtv炫舞未来" start="20240508010800 +0800" stop="20240508012800 +0800">
 		<title lang="zh">风中的额吉-応子（完整）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240508012800 +0800" stop="20240508013100 +0800">
+		<title lang="zh">说出愿望吧-応子（展示）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -45086,6 +45104,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20240508001100 +0800" stop="20240508015100 +0800">
 		<title lang="zh">幸福账单（2022）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240508015100 +0800" stop="20240508033400 +0800">
+		<title lang="zh">你正常吗 第3季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
