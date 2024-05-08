@@ -32088,6 +32088,9 @@
 	<programme channel="咪咕综合体育" start="20240509012000 +0800" stop="20240509043600 +0800">
 		<title lang="zh">2024WTT沙特大满贯Day5二号桌全场回放（周冠达）</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240509043600 +0800" stop="20240509092300 +0800">
+		<title lang="zh">2024贵州省第二届“美丽乡村”篮球联赛总决赛Day2全场回放</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -32096,6 +32099,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20240509021500 +0800" stop="20240509044400 +0800">
 		<title lang="zh">2024赛季中甲第9轮全场回放：大连英博0:1广州队（官方解说）</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240509044400 +0800" stop="20240509064500 +0800">
+		<title lang="zh">23/24赛季德甲第32轮全场回放：柏林联3:4波鸿（王子睿）</title>
 	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
@@ -70863,6 +70869,9 @@
 	<programme channel="黑莓动画" start="20240509040300 +0800" stop="20240509042600 +0800">
 		<title lang="zh">11_马达加斯加企鹅第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240509042600 +0800" stop="20240509044800 +0800">
+		<title lang="zh">12_马达加斯加企鹅第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -70871,6 +70880,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240509024700 +0800" stop="20240509041700 +0800">
 		<title lang="zh">法医密码</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240509041700 +0800" stop="20240509055200 +0800">
+		<title lang="zh">常在你左右</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -71532,6 +71544,9 @@
 	<programme channel="newtv精品大剧" start="20240509034900 +0800" stop="20240509043100 +0800">
 		<title lang="zh">20_前夜</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240509043100 +0800" stop="20240509051600 +0800">
+		<title lang="zh">15_再造之恩</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -71588,6 +71603,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240509033800 +0800" stop="20240509042300 +0800">
 		<title lang="zh">05_秘密图纸</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240509042300 +0800" stop="20240509051000 +0800">
+		<title lang="zh">19_红色娘子军</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -71691,6 +71709,9 @@
 	<programme channel="newtv军事评论" start="20240509001800 +0800" stop="20240509004200 +0800">
 		<title lang="zh">国防军事早报</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240509042400 +0800" stop="20240509045000 +0800">
+		<title lang="zh">西方军火巨头目光瞄准日本 乌方称基辅遭到最大规模袭击</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -71720,6 +71741,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240509040800 +0800" stop="20240509041700 +0800">
 		<title lang="zh">青城山下白素贞-完整（无二维码）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240509041700 +0800" stop="20240509043500 +0800">
+		<title lang="zh">喜气洋洋-完整（无二维码）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
