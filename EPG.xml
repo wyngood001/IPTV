@@ -22794,6 +22794,9 @@
 	<programme channel="动作电影" start="20240511091500 +0800" stop="20240511110000 +0800">
 		<title lang="zh">叱咤风云</title>
 	</programme>
+	<programme channel="动作电影" start="20240511110000 +0800" stop="20240511121300 +0800">
+		<title lang="zh">湮没</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -65208,6 +65211,9 @@
 	<programme channel="纯享4K" start="20240511100900 +0800" stop="20240511104700 +0800">
 		<title lang="zh">探索b7发现4K 三江源（一）源头</title>
 	</programme>
+	<programme channel="纯享4K" start="20240511104700 +0800" stop="20240511112600 +0800">
+		<title lang="zh">探索b7发现4K 三江源（二）家园</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -80478,6 +80484,9 @@
 	<programme channel="newtv超级电视剧" start="20240511101500 +0800" stop="20240511105700 +0800">
 		<title lang="zh">36_破冰行动</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240511105700 +0800" stop="20240511113800 +0800">
+		<title lang="zh">37_破冰行动</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -80573,6 +80582,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240511100500 +0800" stop="20240511105100 +0800">
 		<title lang="zh">01_绿野仙踪之地</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240511105100 +0800" stop="20240511114200 +0800">
+		<title lang="zh">第1集：山语</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -80748,6 +80760,9 @@
 	<programme channel="newtv热播精选" start="20240511101200 +0800" stop="20240511105700 +0800">
 		<title lang="zh">28_灼灼风流</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240511105700 +0800" stop="20240511114700 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -80808,6 +80823,9 @@
 	<programme channel="newtv动作电影" start="20240511091500 +0800" stop="20240511110000 +0800">
 		<title lang="zh">叱咤风云</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240511110000 +0800" stop="20240511121300 +0800">
+		<title lang="zh">湮没</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -80855,6 +80873,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240511101200 +0800" stop="20240511105400 +0800">
 		<title lang="zh">生活圈</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240511105400 +0800" stop="20240511112200 +0800">
+		<title lang="zh">遗留的反光镜</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -80954,6 +80975,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240511102800 +0800" stop="20240511105300 +0800">
 		<title lang="zh">班公湖畔的婚礼 上集</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240511105300 +0800" stop="20240511111900 +0800">
+		<title lang="zh">班公湖畔的婚礼 下集</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
