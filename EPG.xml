@@ -63294,6 +63294,9 @@
 	<programme channel="黑莓动画" start="20240512033300 +0800" stop="20240512035100 +0800">
 		<title lang="zh">07_全职法师第2季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240512035100 +0800" stop="20240512041000 +0800">
+		<title lang="zh">08_全职法师第2季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -63302,6 +63305,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240512022700 +0800" stop="20240512035600 +0800">
 		<title lang="zh">京都太秦物語</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240512035600 +0800" stop="20240512052600 +0800">
+		<title lang="zh">亡命演说</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -63789,6 +63795,9 @@
 	<programme channel="newtv超级体育" start="20240512023600 +0800" stop="20240512040000 +0800">
 		<title lang="zh">实况录像-2023/2024欧洲冠军联赛 半决赛第二回合</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240512040000 +0800" stop="20240512060000 +0800">
+		<title lang="zh">2024年世界女子冰壶锦标赛-半决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -63821,6 +63830,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240512032500 +0800" stop="20240512040700 +0800">
 		<title lang="zh">05_鲜花盛开的山村</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240512040700 +0800" stop="20240512044100 +0800">
+		<title lang="zh">31_余生，请多指教</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -63858,6 +63870,9 @@
 	<programme channel="newtv精品纪录" start="20240512031000 +0800" stop="20240512035600 +0800">
 		<title lang="zh">02_英国北约克高沼地</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240512035600 +0800" stop="20240512043700 +0800">
+		<title lang="zh">第2集：斯巴达克斯</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -63891,6 +63906,9 @@
 	<programme channel="newtv军旅剧场" start="20240512030100 +0800" stop="20240512034600 +0800">
 		<title lang="zh">20_秘密图纸</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240512034600 +0800" stop="20240512043100 +0800">
+		<title lang="zh">12_致命追踪</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -63906,6 +63924,9 @@
 	<programme channel="newtv家庭剧场" start="20240512030100 +0800" stop="20240512034800 +0800">
 		<title lang="zh">53_安家</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240512034800 +0800" stop="20240512043300 +0800">
+		<title lang="zh">01_小棉袄</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -63917,6 +63938,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240512031300 +0800" stop="20240512035400 +0800">
 		<title lang="zh">01_爱恨之火</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240512035400 +0800" stop="20240512043400 +0800">
+		<title lang="zh">02_爱恨之火</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -63936,6 +63960,9 @@
 	<programme channel="newtv动作电影" start="20240512021700 +0800" stop="20240512034700 +0800">
 		<title lang="zh">困兽之斗</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240512034700 +0800" stop="20240512052700 +0800">
+		<title lang="zh">第一枪首杀</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -63953,6 +63980,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240512032700 +0800" stop="20240512035400 +0800">
 		<title lang="zh">保护山地生态——山高水长（下）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240512035400 +0800" stop="20240512042100 +0800">
+		<title lang="zh">捕食者家园</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -64005,6 +64035,9 @@
 	<programme channel="newtv炫舞未来" start="20240512034400 +0800" stop="20240512035500 +0800">
 		<title lang="zh">《广场舞》 赞赞赞（附教学）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240512035500 +0800" stop="20240512044500 +0800">
+		<title lang="zh">岁月留声（20240502）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -64013,6 +64046,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240512020300 +0800" stop="20240512035800 +0800">
 		<title lang="zh">五十公里桃花坞第2季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240512035800 +0800" stop="20240512044300 +0800">
+		<title lang="zh">12_铁腕行动</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
