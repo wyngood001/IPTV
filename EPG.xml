@@ -25785,6 +25785,9 @@
 	<programme channel="咪咕综合体育" start="20240512000000 +0800" stop="20240512015700 +0800">
 		<title lang="zh">UFC on ESPN53期主赛全场回放（王琰博 郝俊）（50帧原画）</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240512015700 +0800" stop="20240512045600 +0800">
+		<title lang="zh">2024WTT沙特大满贯Day6一号桌全场回放（周冠达）</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -51813,6 +51816,9 @@
 	<programme channel="纯享4K" start="20240512014600 +0800" stop="20240512020100 +0800">
 		<title lang="zh">跑马溜溜的云上4K 第2集</title>
 	</programme>
+	<programme channel="纯享4K" start="20240512020100 +0800" stop="20240512020800 +0800">
+		<title lang="zh">绿水青山行4K 生态扶贫系列：筇竹常青</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -63138,6 +63144,9 @@
 	<programme channel="黑莓动画" start="20240512014400 +0800" stop="20240512015300 +0800">
 		<title lang="zh">60_我靠充值当武帝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240512015300 +0800" stop="20240512021700 +0800">
+		<title lang="zh">07_骸骨骑士大人奇幻世界冒险中</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -63648,6 +63657,9 @@
 	<programme channel="newtv精品大剧" start="20240512011500 +0800" stop="20240512020000 +0800">
 		<title lang="zh">01_黎明前的抉择</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240512020000 +0800" stop="20240512024100 +0800">
+		<title lang="zh">02_黎明前的抉择</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -63656,6 +63668,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240512011100 +0800" stop="20240512020000 +0800">
 		<title lang="zh">03_无声的功勋（第二季）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240512020000 +0800" stop="20240512024000 +0800">
+		<title lang="zh">南极 世界尽头之旅</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -63711,6 +63726,9 @@
 	<programme channel="newtv怡伴健康" start="20240512010800 +0800" stop="20240512015300 +0800">
 		<title lang="zh">27_林深见鹿</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240512015300 +0800" stop="20240512024000 +0800">
+		<title lang="zh">28_林深见鹿</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -63737,6 +63755,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240512014200 +0800" stop="20240512020000 +0800">
 		<title lang="zh">喜气洋洋-完整（无二维码）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240512020000 +0800" stop="20240512020900 +0800">
+		<title lang="zh">青城山下白素贞-完整（无二维码）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
