@@ -60798,6 +60798,9 @@
 	<programme channel="newtv精品大剧" start="20240514020700 +0800" stop="20240514024800 +0800">
 		<title lang="zh">14_黎明前的抉择</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240514024800 +0800" stop="20240514032900 +0800">
+		<title lang="zh">15_黎明前的抉择</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -60840,6 +60843,9 @@
 	<programme channel="newtv军旅剧场" start="20240514021100 +0800" stop="20240514025700 +0800">
 		<title lang="zh">28_秘密图纸</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240514025700 +0800" stop="20240514034300 +0800">
+		<title lang="zh">29_秘密图纸</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -60860,6 +60866,9 @@
 	</channel>
 	<programme channel="newtv热播精选" start="20240514013600 +0800" stop="20240514024800 +0800">
 		<title lang="zh">夺命巨鳄</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240514024800 +0800" stop="20240514032800 +0800">
+		<title lang="zh">11_爱恨之火</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -60903,6 +60912,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240514021400 +0800" stop="20240514025900 +0800">
 		<title lang="zh">36_谁懂女儿心</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240514025900 +0800" stop="20240514034400 +0800">
+		<title lang="zh">37_谁懂女儿心</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -60923,6 +60935,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240514023700 +0800" stop="20240514025500 +0800">
 		<title lang="zh">送别-孙爱迪</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240514025500 +0800" stop="20240514032200 +0800">
+		<title lang="zh">系列片《一城一味》之寻味山水间（20210120）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
