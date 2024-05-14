@@ -49737,6 +49737,9 @@
 	<programme channel="纯享4K" start="20240515022800 +0800" stop="20240515025800 +0800">
 		<title lang="zh">美丽中国说4K 白头叶猴</title>
 	</programme>
+	<programme channel="纯享4K" start="20240515025800 +0800" stop="20240515032800 +0800">
+		<title lang="zh">美丽中国说4K 中国香港</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -61329,6 +61332,9 @@
 	<programme channel="黑莓动画" start="20240515022700 +0800" stop="20240515025300 +0800">
 		<title lang="zh">01_星辰变 第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240515025300 +0800" stop="20240515031700 +0800">
+		<title lang="zh">02_星辰变 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -61833,6 +61839,9 @@
 	<programme channel="newtv超级综艺" start="20240515014600 +0800" stop="20240515030300 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240515030300 +0800" stop="20240515042000 +0800">
+		<title lang="zh">向幸福出发</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -61871,6 +61880,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240515021500 +0800" stop="20240515025700 +0800">
 		<title lang="zh">14_鲜花盛开的山村</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240515025700 +0800" stop="20240515033800 +0800">
+		<title lang="zh">15_鲜花盛开的山村</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -61958,6 +61970,9 @@
 	</channel>
 	<programme channel="newtv热播精选" start="20240515012200 +0800" stop="20240515025400 +0800">
 		<title lang="zh">天刃</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240515025400 +0800" stop="20240515033500 +0800">
+		<title lang="zh">16_爱恨之火</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
