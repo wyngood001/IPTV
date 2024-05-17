@@ -6,6 +6,9 @@
 	<programme channel="4K综艺" start="20240518000000 +0800" stop="20240518010100 +0800">
 		<title lang="zh">小小的追球20191224</title>
 	</programme>
+	<programme channel="4K综艺" start="20240518010100 +0800" stop="20240518020000 +0800">
+		<title lang="zh">小小的追球20191225</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -62457,6 +62460,9 @@
 	<programme channel="newtv精品大剧" start="20240518001800 +0800" stop="20240518005900 +0800">
 		<title lang="zh">35_黎明前的抉择</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240518005900 +0800" stop="20240518014200 +0800">
+		<title lang="zh">36_黎明前的抉择</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -62475,11 +62481,17 @@
 	<programme channel="newtv军旅剧场" start="20240518000600 +0800" stop="20240518005100 +0800">
 		<title lang="zh">16_我的绝密生涯</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240518005100 +0800" stop="20240518013600 +0800">
+		<title lang="zh">17_我的绝密生涯</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
 	<programme channel="newtv家庭剧场" start="20240518001000 +0800" stop="20240518005600 +0800">
 		<title lang="zh">25_小棉袄</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240518005600 +0800" stop="20240518014100 +0800">
+		<title lang="zh">26_小棉袄</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -62541,41 +62553,8 @@
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
-	<programme channel="newtv潮妈辣婆" start="20240518000000 +0800" stop="20240518020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20240518020000 +0800" stop="20240518040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20240518060000 +0800" stop="20240518080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20240518080000 +0800" stop="20240518100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20240518100600 +0800" stop="20240518120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20240518120000 +0800" stop="20240518140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20240518140000 +0800" stop="20240518160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20240518160000 +0800" stop="20240518180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20240518180000 +0800" stop="20240518190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20240518190000 +0800" stop="20240518200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20240518200000 +0800" stop="20240518220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20240518220000 +0800" stop="20240518235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv潮妈辣婆" start="20240518005900 +0800" stop="20240518021400 +0800">
+		<title lang="zh">购物女王</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
