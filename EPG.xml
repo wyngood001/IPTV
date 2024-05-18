@@ -62379,6 +62379,9 @@
 	<programme channel="黑莓动画" start="20240519033400 +0800" stop="20240519035600 +0800">
 		<title lang="zh">31_马达加斯加企鹅第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240519035600 +0800" stop="20240519041800 +0800">
+		<title lang="zh">32_马达加斯加企鹅第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -62871,6 +62874,9 @@
 	<programme channel="newtv超级体育" start="20240519030500 +0800" stop="20240519040000 +0800">
 		<title lang="zh">实况录像-2024年举重世界杯 女子71公斤级决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240519040000 +0800" stop="20240519060000 +0800">
+		<title lang="zh">2024年世界男子冰壶锦标赛- 金牌赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -62900,6 +62906,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240519032000 +0800" stop="20240519040200 +0800">
 		<title lang="zh">04_热血青春</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240519040200 +0800" stop="20240519044300 +0800">
+		<title lang="zh">04_妈妈在等你</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -62940,6 +62949,9 @@
 	<programme channel="newtv精品纪录" start="20240519033100 +0800" stop="20240519035500 +0800">
 		<title lang="zh">02_闻声</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240519035500 +0800" stop="20240519043800 +0800">
+		<title lang="zh">第9集：军旅出身的皇帝</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -62975,6 +62987,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240519031500 +0800" stop="20240519040000 +0800">
 		<title lang="zh">25_我的绝密生涯</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240519040000 +0800" stop="20240519044800 +0800">
+		<title lang="zh">17_红色娘子军</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -63021,6 +63036,9 @@
 	<programme channel="newtv爱情喜剧" start="20240519031400 +0800" stop="20240519035500 +0800">
 		<title lang="zh">19_绝密隐私</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240519035500 +0800" stop="20240519044100 +0800">
+		<title lang="zh">20_绝密隐私</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -63051,6 +63069,9 @@
 	<programme channel="newtv怡伴健康" start="20240519031900 +0800" stop="20240519034600 +0800">
 		<title lang="zh">飞瀑下的生机（上）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240519034600 +0800" stop="20240519041300 +0800">
+		<title lang="zh">飞瀑下的生机（下）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -63062,6 +63083,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240519030200 +0800" stop="20240519034700 +0800">
 		<title lang="zh">26_我的三个母亲</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240519034700 +0800" stop="20240519043200 +0800">
+		<title lang="zh">27_我的三个母亲</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -63101,6 +63125,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240519032000 +0800" stop="20240519034600 +0800">
 		<title lang="zh">系列片《一城一味》之寻味山水间（20210120）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240519035400 +0800" stop="20240519040300 +0800">
+		<title lang="zh">《广场舞》 羊年吉祥（附教学）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
