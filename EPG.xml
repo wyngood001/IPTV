@@ -59418,6 +59418,9 @@
 	<programme channel="黑莓动画" start="20240520002300 +0800" stop="20240520005200 +0800">
 		<title lang="zh">60_西行纪</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240520005200 +0800" stop="20240520011400 +0800">
+		<title lang="zh">11_一人之下第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -59850,6 +59853,9 @@
 	<programme channel="newtv精品纪录" start="20240520000300 +0800" stop="20240520005300 +0800">
 		<title lang="zh">06_棹歌四海</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240520005300 +0800" stop="20240520011900 +0800">
+		<title lang="zh">铁血木兰 郭俊卿</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -60008,6 +60014,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240520002900 +0800" stop="20240520005400 +0800">
 		<title lang="zh">乌军登陆克里米亚与俄军激战 俄试射“末日武器” 可打击任何美国目标？</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240520005400 +0800" stop="20240520011900 +0800">
+		<title lang="zh">乌军称拦截俄6枚“匕首”导弹 普京：首批战术核武器运抵白俄罗斯</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
