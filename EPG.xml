@@ -64407,6 +64407,9 @@
 	<programme channel="newtv超级综艺" start="20240525020400 +0800" stop="20240525035300 +0800">
 		<title lang="zh">首届青年京剧演员大会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240525035300 +0800" stop="20240525051000 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -64421,6 +64424,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20240525023600 +0800" stop="20240525040000 +0800">
 		<title lang="zh">实况录像-2023/2024欧洲冠军联赛1/4决赛第二回合</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240525040000 +0800" stop="20240525060000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年汤姆斯杯羽毛球赛 决赛</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -64448,6 +64454,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240525031100 +0800" stop="20240525035300 +0800">
 		<title lang="zh">36_热血青春</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240525035300 +0800" stop="20240525043400 +0800">
+		<title lang="zh">34_妈妈在等你</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
