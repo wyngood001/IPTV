@@ -52686,6 +52686,9 @@
 	<programme channel="纯享4K" start="20240526010500 +0800" stop="20240526012900 +0800">
 		<title lang="zh">魅力塞尔维亚4K 第4集 时光的印记</title>
 	</programme>
+	<programme channel="纯享4K" start="20240526012900 +0800" stop="20240526015900 +0800">
+		<title lang="zh">味道4K 原味乡间b7英德篇（3）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -63882,6 +63885,9 @@
 	<programme channel="黑莓动画" start="20240526010800 +0800" stop="20240526013400 +0800">
 		<title lang="zh">24_一人之下第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240526014200 +0800" stop="20240526015100 +0800">
+		<title lang="zh">35_我靠充值当武帝</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -64254,11 +64260,17 @@
 	<programme channel="newtv超级综艺" start="20240526005800 +0800" stop="20240526014400 +0800">
 		<title lang="zh">08_遇见幸福</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240526014400 +0800" stop="20240526030100 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20240526000500 +0800" stop="20240526013500 +0800">
 		<title lang="zh">2024年ATP1000男子网球大师赛-罗马站-决赛</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240526013500 +0800" stop="20240526023600 +0800">
+		<title lang="zh">实况录像-2024年举重世界杯 女子87公斤以上级决赛</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -64293,6 +64305,9 @@
 	<programme channel="newtv精品纪录" start="20240526003400 +0800" stop="20240526012400 +0800">
 		<title lang="zh">02_爱因斯坦与霍金 解锁宇宙</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240526012400 +0800" stop="20240526015900 +0800">
+		<title lang="zh">共和国医者：张嘉庆 王泰龄</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -64311,6 +64326,9 @@
 	<programme channel="newtv军旅剧场" start="20240526005700 +0800" stop="20240526014400 +0800">
 		<title lang="zh">20_红色娘子军</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240526014400 +0800" stop="20240526023200 +0800">
+		<title lang="zh">21_红色娘子军</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -64319,6 +64337,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240526005100 +0800" stop="20240526013600 +0800">
 		<title lang="zh">27_返城年代</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240526013600 +0800" stop="20240526022200 +0800">
+		<title lang="zh">28_返城年代</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -64364,6 +64385,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240526010200 +0800" stop="20240526012700 +0800">
 		<title lang="zh">岛内继续炒作美对台军售 俄密切关注乌总统行踪 波罗的海三国欲大幅扩军</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240526012700 +0800" stop="20240526015300 +0800">
+		<title lang="zh">巴以冲突不断升级面临失控风险 中方正和各方密集沟通推动停火止战</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
