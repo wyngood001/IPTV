@@ -55854,6 +55854,9 @@
 	<programme channel="纯享4K" start="20240526051800 +0800" stop="20240526054800 +0800">
 		<title lang="zh">信仰的感召4K 青年楷模 恽代英</title>
 	</programme>
+	<programme channel="纯享4K" start="20240526054800 +0800" stop="20240526061800 +0800">
+		<title lang="zh">信仰的感召4K 政工楷模 刘伯坚</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -67611,6 +67614,9 @@
 	<programme channel="newtv超级体育" start="20240526040000 +0800" stop="20240526060000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年尤伯杯羽毛球赛 决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240526060000 +0800" stop="20240526063000 +0800">
+		<title lang="zh">实况录像-2024年国际篮联三人篮球亚洲杯 3</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -67712,6 +67718,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240526045700 +0800" stop="20240526054700 +0800">
 		<title lang="zh">04_落地生根</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240526054700 +0800" stop="20240526063600 +0800">
+		<title lang="zh">05_筑窑为家</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -67830,6 +67839,9 @@
 	<programme channel="newtv爱情喜剧" start="20240526050300 +0800" stop="20240526055000 +0800">
 		<title lang="zh">10_沧桑花楼街</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240526055000 +0800" stop="20240526063500 +0800">
+		<title lang="zh">11_沧桑花楼街</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -67878,6 +67890,9 @@
 	<programme channel="newtv怡伴健康" start="20240526053300 +0800" stop="20240526060000 +0800">
 		<title lang="zh">动物的海岸生活</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240526060000 +0800" stop="20240526062400 +0800">
+		<title lang="zh">新声乐游季</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -67898,6 +67913,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240526050500 +0800" stop="20240526055100 +0800">
 		<title lang="zh">06_钢的琴</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240526055100 +0800" stop="20240526063600 +0800">
+		<title lang="zh">07_钢的琴</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -67944,6 +67962,9 @@
 	<programme channel="newtv军事评论" start="20240526052900 +0800" stop="20240526055100 +0800">
 		<title lang="zh">俄军猎杀美制“海玛斯”与“爱国者”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240526055100 +0800" stop="20240526061200 +0800">
+		<title lang="zh">俄军陆战装备新力量</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -67983,6 +68004,9 @@
 	<programme channel="newtv炫舞未来" start="20240526054100 +0800" stop="20240526055600 +0800">
 		<title lang="zh">纸月亮-饶子龙（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240526055600 +0800" stop="20240526061700 +0800">
+		<title lang="zh">印度姑娘-尚岩</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -68003,6 +68027,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240526051000 +0800" stop="20240526055400 +0800">
 		<title lang="zh">12_狐影</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240526055400 +0800" stop="20240526063700 +0800">
+		<title lang="zh">13_狐影</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
