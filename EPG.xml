@@ -60,6 +60,9 @@
 	<programme channel="4K综艺" start="20240527044100 +0800" stop="20240527054800 +0800">
 		<title lang="zh">小小的追球20200211</title>
 	</programme>
+	<programme channel="4K综艺" start="20240527054800 +0800" stop="20240527061800 +0800">
+		<title lang="zh">小小的追球20200212</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -53535,6 +53538,9 @@
 	<programme channel="纯享4K" start="20240527053000 +0800" stop="20240527060000 +0800">
 		<title lang="zh">信仰的感召4K 红军骁将 王尔琢</title>
 	</programme>
+	<programme channel="纯享4K" start="20240527060000 +0800" stop="20240527063000 +0800">
+		<title lang="zh">信仰的感召4K 骁将传奇 寻淮洲</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -63642,6 +63648,9 @@
 	<programme channel="newtv古装剧场" start="20240527051200 +0800" stop="20240527055700 +0800">
 		<title lang="zh">07_大戏法</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240527055700 +0800" stop="20240527064200 +0800">
+		<title lang="zh">08_大戏法</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -63731,6 +63740,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240527050300 +0800" stop="20240527054800 +0800">
 		<title lang="zh">14_沧桑花楼街</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240527054800 +0800" stop="20240527063200 +0800">
+		<title lang="zh">15_沧桑花楼街</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -63873,6 +63885,9 @@
 	<programme channel="newtv炫舞未来" start="20240527054600 +0800" stop="20240527055400 +0800">
 		<title lang="zh">欢乐的歌儿唱起来-乌兰图雅（舞蹈展示+教学分解）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240527055400 +0800" stop="20240527061000 +0800">
+		<title lang="zh">太湖美-李莹</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -63935,6 +63950,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20240527041100 +0800" stop="20240527055200 +0800">
 		<title lang="zh">2023-24赛季英超联赛第36轮：切尔西VS西汉姆联</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240527055200 +0800" stop="20240527073600 +0800">
+		<title lang="zh">2023-24赛季英超联赛第35轮：热刺VS阿森纳</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
