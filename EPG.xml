@@ -55344,6 +55344,9 @@
 	<programme channel="纯享4K" start="20240528052400 +0800" stop="20240528055400 +0800">
 		<title lang="zh">信仰的感召4K 生死与共 周文雍 陈铁军</title>
 	</programme>
+	<programme channel="纯享4K" start="20240528055400 +0800" stop="20240528062400 +0800">
+		<title lang="zh">信仰的感召4K 铁肩道义 李大钊</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -66426,6 +66429,9 @@
 	<programme channel="黑莓动画" start="20240528052500 +0800" stop="20240528055100 +0800">
 		<title lang="zh">25_雷欧奥特曼 重制版 普通话版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240528055100 +0800" stop="20240528061700 +0800">
+		<title lang="zh">26_雷欧奥特曼 重制版 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -66437,6 +66443,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240528042100 +0800" stop="20240528055600 +0800">
 		<title lang="zh">打过长江去</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240528055600 +0800" stop="20240528072700 +0800">
+		<title lang="zh">北斗风云</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -66948,6 +66957,9 @@
 	<programme channel="newtv超级体育" start="20240528043500 +0800" stop="20240528060000 +0800">
 		<title lang="zh">实况录像-2024年全国体操锦标赛 单项决赛 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240528060000 +0800" stop="20240528063000 +0800">
+		<title lang="zh">赛事集锦-2024年三对三篮球奥运会资格赛-匈牙利站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -67017,6 +67029,9 @@
 	<programme channel="newtv精品大剧" start="20240528050900 +0800" stop="20240528055500 +0800">
 		<title lang="zh">13_菜刀班尖刀连</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240528055500 +0800" stop="20240528064100 +0800">
+		<title lang="zh">14_菜刀班尖刀连</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -67046,6 +67061,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240528050400 +0800" stop="20240528055300 +0800">
 		<title lang="zh">07_幕天席地</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240528055300 +0800" stop="20240528064300 +0800">
+		<title lang="zh">08_敬宗收族</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -67125,6 +67143,9 @@
 	<programme channel="newtv家庭剧场" start="20240528051500 +0800" stop="20240528060000 +0800">
 		<title lang="zh">16_一生只爱你</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240528060000 +0800" stop="20240528064600 +0800">
+		<title lang="zh">17_一生只爱你</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -67164,6 +67185,9 @@
 	<programme channel="newtv爱情喜剧" start="20240528051000 +0800" stop="20240528055500 +0800">
 		<title lang="zh">20_沧桑花楼街</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240528055500 +0800" stop="20240528063900 +0800">
+		<title lang="zh">21_沧桑花楼街</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -67175,6 +67199,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240528042900 +0800" stop="20240528055800 +0800">
 		<title lang="zh">终极审判</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240528055800 +0800" stop="20240528072300 +0800">
+		<title lang="zh">山寨大黄蜂</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -67278,6 +67305,9 @@
 	<programme channel="newtv军事评论" start="20240528053900 +0800" stop="20240528060000 +0800">
 		<title lang="zh">美B-21首飞“碰瓷”六代机</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240528060000 +0800" stop="20240528062200 +0800">
+		<title lang="zh">美F-35战机的核进化与事故史</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -67346,6 +67376,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240528042000 +0800" stop="20240528054900 +0800">
 		<title lang="zh">侠探锦毛鼠之血光再起</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240528054900 +0800" stop="20240528072100 +0800">
+		<title lang="zh">少女灵异日记</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
