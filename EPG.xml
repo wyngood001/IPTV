@@ -48,6 +48,9 @@
 	<programme channel="4K综艺" start="20240601010300 +0800" stop="20240601023200 +0800">
 		<title lang="zh">奇兵神犬20171222</title>
 	</programme>
+	<programme channel="4K综艺" start="20240601023200 +0800" stop="20240601040500 +0800">
+		<title lang="zh">妻子的浪漫旅行第三季20191204</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -51735,6 +51738,9 @@
 	<programme channel="纯享4K" start="20240601020800 +0800" stop="20240601023400 +0800">
 		<title lang="zh">国家记忆4K 解放之战 张垣智胜</title>
 	</programme>
+	<programme channel="纯享4K" start="20240601023400 +0800" stop="20240601031300 +0800">
+		<title lang="zh">探索b7发现4K 江口明末战场考古大揭秘（3）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -62994,6 +63000,9 @@
 	<programme channel="黑莓动画" start="20240601022000 +0800" stop="20240601024400 +0800">
 		<title lang="zh">12_骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240601024400 +0800" stop="20240601030600 +0800">
+		<title lang="zh">11_星辰变 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -63483,6 +63492,9 @@
 	<programme channel="newtv超级体育" start="20240601013500 +0800" stop="20240601023600 +0800">
 		<title lang="zh">实况录像-2024年举重世界杯 男子73公斤级决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240601023600 +0800" stop="20240601040000 +0800">
+		<title lang="zh">实况录像-2023/2024欧洲冠军联赛 半决赛第二回合</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -63548,6 +63560,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240601014900 +0800" stop="20240601023400 +0800">
 		<title lang="zh">02_凤游龙门</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240601023400 +0800" stop="20240601031900 +0800">
+		<title lang="zh">03_凤游龙门</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -63624,6 +63639,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240601012400 +0800" stop="20240601024300 +0800">
 		<title lang="zh">篮球美少女</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240601024300 +0800" stop="20240601032800 +0800">
+		<title lang="zh">35_钢的琴</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -63644,6 +63662,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240601020900 +0800" stop="20240601023500 +0800">
 		<title lang="zh">美连续军演唯恐亚太不乱 西方想让俄乌打到明年？</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240601023500 +0800" stop="20240601030000 +0800">
+		<title lang="zh">美韩对朝反潜演习 乌加大对俄本土袭击 俄警告或现“核武危机”</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
