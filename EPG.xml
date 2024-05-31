@@ -62991,6 +62991,9 @@
 	<programme channel="黑莓动画" start="20240601015600 +0800" stop="20240601022000 +0800">
 		<title lang="zh">11_骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240601022000 +0800" stop="20240601024400 +0800">
+		<title lang="zh">12_骸骨骑士大人奇幻世界冒险中</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -63486,6 +63489,9 @@
 	<programme channel="newtv超级电影" start="20240601003900 +0800" stop="20240601022200 +0800">
 		<title lang="zh">大闹天竺</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240601022200 +0800" stop="20240601034800 +0800">
+		<title lang="zh">刀锋行动</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -63510,6 +63516,9 @@
 	<programme channel="newtv精品大剧" start="20240601013200 +0800" stop="20240601021700 +0800">
 		<title lang="zh">14_我的三个母亲</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240601021700 +0800" stop="20240601030200 +0800">
+		<title lang="zh">15_我的三个母亲</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -63524,6 +63533,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240601014500 +0800" stop="20240601021900 +0800">
 		<title lang="zh">共和国医者：刘长江 王洁卿</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240601021900 +0800" stop="20240601030800 +0800">
+		<title lang="zh">黄石公园——火与冰</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -63549,6 +63561,9 @@
 	<programme channel="newtv军旅剧场" start="20240601014300 +0800" stop="20240601022900 +0800">
 		<title lang="zh">30_关中义事</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240601022900 +0800" stop="20240601031400 +0800">
+		<title lang="zh">01_小站风云</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -63561,11 +63576,17 @@
 	<programme channel="newtv家庭剧场" start="20240601014400 +0800" stop="20240601022900 +0800">
 		<title lang="zh">19_父亲的草原母亲的河</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240601022900 +0800" stop="20240601031400 +0800">
+		<title lang="zh">20_父亲的草原母亲的河</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
 	<programme channel="newtv热播精选" start="20240601003200 +0800" stop="20240601023000 +0800">
 		<title lang="zh">破冰船</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240601023000 +0800" stop="20240601031300 +0800">
+		<title lang="zh">21_搞怪女厨</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -63593,6 +63614,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240601014100 +0800" stop="20240601022700 +0800">
 		<title lang="zh">08_余生，请多指教（DVD版）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240601022700 +0800" stop="20240601031400 +0800">
+		<title lang="zh">09_余生，请多指教（DVD版）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -63659,6 +63683,9 @@
 	</channel>
 	<programme channel="newtv精品体育" start="20240601004600 +0800" stop="20240601022500 +0800">
 		<title lang="zh">2023-24赛季意甲第34轮：尤文图斯 VS AC米兰</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240601022500 +0800" stop="20240601034500 +0800">
+		<title lang="zh">2023-24赛季意甲第23轮：国际米兰VS尤文图斯</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
