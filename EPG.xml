@@ -51744,6 +51744,9 @@
 	<programme channel="纯享4K" start="20240601031300 +0800" stop="20240601035200 +0800">
 		<title lang="zh">探索b7发现4K 江口明末战场考古大揭秘（4）</title>
 	</programme>
+	<programme channel="纯享4K" start="20240601035200 +0800" stop="20240601043400 +0800">
+		<title lang="zh">远方的家4K 大运河（19） 航行在苏南运河</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -63012,6 +63015,9 @@
 	<programme channel="黑莓动画" start="20240601033200 +0800" stop="20240601035300 +0800">
 		<title lang="zh">11_全职法师第1季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240601035300 +0800" stop="20240601041000 +0800">
+		<title lang="zh">12_全职法师第1季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -63510,6 +63516,9 @@
 	<programme channel="newtv超级体育" start="20240601023600 +0800" stop="20240601040000 +0800">
 		<title lang="zh">实况录像-2023/2024欧洲冠军联赛 半决赛第二回合</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240601040000 +0800" stop="20240601060000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年尤伯杯羽毛球赛 决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -63558,6 +63567,9 @@
 	<programme channel="newtv精品大剧" start="20240601030200 +0800" stop="20240601034700 +0800">
 		<title lang="zh">16_我的三个母亲</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240601034700 +0800" stop="20240601043200 +0800">
+		<title lang="zh">17_我的三个母亲</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -63578,6 +63590,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240601030800 +0800" stop="20240601035800 +0800">
 		<title lang="zh">01_雨林天地</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240601035800 +0800" stop="20240601043800 +0800">
+		<title lang="zh">第五集 巨型建筑</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -63615,6 +63630,9 @@
 	<programme channel="newtv军旅剧场" start="20240601031400 +0800" stop="20240601040000 +0800">
 		<title lang="zh">02_小站风云</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240601040000 +0800" stop="20240601044500 +0800">
+		<title lang="zh">25_我的绝密生涯</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -63633,6 +63651,9 @@
 	<programme channel="newtv家庭剧场" start="20240601031400 +0800" stop="20240601040000 +0800">
 		<title lang="zh">04_林深见鹿</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240601040000 +0800" stop="20240601044500 +0800">
+		<title lang="zh">05_林深见鹿</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -63644,6 +63665,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240601031300 +0800" stop="20240601035900 +0800">
 		<title lang="zh">22_搞怪女厨</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240601035900 +0800" stop="20240601044200 +0800">
+		<title lang="zh">23_搞怪女厨</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -63728,6 +63752,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240601032600 +0800" stop="20240601035100 +0800">
 		<title lang="zh">航道危机蔓延至阿拉伯海 美伊对峙走向台前？</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240601035100 +0800" stop="20240601041700 +0800">
+		<title lang="zh">西方军火巨头目光瞄准日本 乌方称基辅遭到最大规模袭击</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
