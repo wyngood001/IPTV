@@ -54,6 +54,9 @@
 	<programme channel="4K综艺" start="20240601040500 +0800" stop="20240601054700 +0800">
 		<title lang="zh">妻子的浪漫旅行第三季20191211</title>
 	</programme>
+	<programme channel="4K综艺" start="20240601054700 +0800" stop="20240601065700 +0800">
+		<title lang="zh">儿行千里20171022</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -29334,6 +29337,9 @@
 	<programme channel="咪咕足球" start="20240601015000 +0800" stop="20240601060000 +0800">
 		<title lang="zh">沙王冠 利雅得胜利vs利雅得新月</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240601060000 +0800" stop="20240601080000 +0800">
+		<title lang="zh">23/24赛季西甲第38轮全场回放：塞尔塔维戈2:2瓦伦西亚（李霄）</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -55542,6 +55548,9 @@
 	<programme channel="纯享4K" start="20240601052600 +0800" stop="20240601055600 +0800">
 		<title lang="zh">信仰的感召4K 温婉骄杨 杨开慧</title>
 	</programme>
+	<programme channel="纯享4K" start="20240601055600 +0800" stop="20240601062600 +0800">
+		<title lang="zh">信仰的感召4K 无衔将帅 许继慎</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -67323,6 +67332,9 @@
 	<programme channel="newtv超级综艺" start="20240601045800 +0800" stop="20240601055700 +0800">
 		<title lang="zh">非常6+1</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240601055700 +0800" stop="20240601064700 +0800">
+		<title lang="zh">回声嘹亮</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -67337,6 +67349,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20240601040000 +0800" stop="20240601060000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年尤伯杯羽毛球赛 决赛</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240601060000 +0800" stop="20240601063000 +0800">
+		<title lang="zh">实况录像-2024年射箭世界杯 上海站 2</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -67376,6 +67391,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240601050800 +0800" stop="20240601055300 +0800">
 		<title lang="zh">23_在希望的田野上</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240601055300 +0800" stop="20240601063900 +0800">
+		<title lang="zh">24_在希望的田野上</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -67599,6 +67617,9 @@
 	<programme channel="newtv怡伴健康" start="20240601052900 +0800" stop="20240601055600 +0800">
 		<title lang="zh">我们的地球家园</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240601055600 +0800" stop="20240601075000 +0800">
+		<title lang="zh">豫剧《三打金枝》表演：金不换 徐福先</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -67616,6 +67637,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240601050000 +0800" stop="20240601054600 +0800">
 		<title lang="zh">02_婚姻那些事儿</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240601054600 +0800" stop="20240601063200 +0800">
+		<title lang="zh">03_婚姻那些事儿</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -67685,6 +67709,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240601053900 +0800" stop="20240601055400 +0800">
 		<title lang="zh">06_极限</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240601055400 +0800" stop="20240601061500 +0800">
+		<title lang="zh">健身舞《我家住在桃花山》（20231010）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
