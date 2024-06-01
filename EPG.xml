@@ -35811,6 +35811,9 @@
 	<programme channel="咪咕足球" start="20240602035100 +0800" stop="20240602055200 +0800">
 		<title lang="zh">23/24赛季德甲第31轮全场回放：弗赖堡1:2沃尔夫斯堡（刘洋）</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240602055200 +0800" stop="20240602075300 +0800">
+		<title lang="zh">23/24赛季德甲第31轮全场回放：RB莱比锡4:1多特蒙德（鲁靖明）</title>
+	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
@@ -62544,6 +62547,9 @@
 	<programme channel="纯享4K" start="20240602052500 +0800" stop="20240602055500 +0800">
 		<title lang="zh">信仰的感召4K 工运先驱 林祥谦</title>
 	</programme>
+	<programme channel="纯享4K" start="20240602055500 +0800" stop="20240602062500 +0800">
+		<title lang="zh">信仰的感召4K 丹心永照 夏明翰</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -75720,6 +75726,9 @@
 	<programme channel="黑莓动画" start="20240602052200 +0800" stop="20240602054600 +0800">
 		<title lang="zh">42_入间同学入魔了</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240602054600 +0800" stop="20240602061200 +0800">
+		<title lang="zh">35_雷欧奥特曼 重制版 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -76260,6 +76269,9 @@
 	<programme channel="newtv超级体育" start="20240602053000 +0800" stop="20240602060000 +0800">
 		<title lang="zh">实况录像-2024年世界田联钻石联赛 马拉喀什站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240602060000 +0800" stop="20240602063000 +0800">
+		<title lang="zh">实况录像-2024年射箭世界杯 上海站 3</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -76329,6 +76341,9 @@
 	<programme channel="newtv精品大剧" start="20240602051300 +0800" stop="20240602055800 +0800">
 		<title lang="zh">09_兰花香</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240602055800 +0800" stop="20240602064300 +0800">
+		<title lang="zh">10_兰花香</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -76359,6 +76374,9 @@
 	<programme channel="newtv精品纪录" start="20240602053500 +0800" stop="20240602060000 +0800">
 		<title lang="zh">05_从头越</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240602060000 +0800" stop="20240602064800 +0800">
+		<title lang="zh">01_强掳</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -76385,6 +76403,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240602051500 +0800" stop="20240602060000 +0800">
 		<title lang="zh">38_大戏法</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240602060000 +0800" stop="20240602064500 +0800">
+		<title lang="zh">39_大戏法</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -76527,6 +76548,9 @@
 	<programme channel="newtv怡伴健康" start="20240602052300 +0800" stop="20240602055000 +0800">
 		<title lang="zh">保护栖息地——貂熊的家园（下）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240602055000 +0800" stop="20240602071700 +0800">
+		<title lang="zh">京剧《香莲案》（1）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -76547,6 +76571,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240602050400 +0800" stop="20240602054900 +0800">
 		<title lang="zh">08_婚姻那些事儿</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240602054900 +0800" stop="20240602063300 +0800">
+		<title lang="zh">09_婚姻那些事儿</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -76739,6 +76766,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240602051800 +0800" stop="20240602055900 +0800">
 		<title lang="zh">女子二人器械对练</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240602055900 +0800" stop="20240602062400 +0800">
+		<title lang="zh">世界拳王争霸赛：艾斯帕扎VS阿拉尼兹</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
