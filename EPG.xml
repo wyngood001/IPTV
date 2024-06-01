@@ -48,6 +48,9 @@
 	<programme channel="4K综艺" start="20240602015500 +0800" stop="20240602032600 +0800">
 		<title lang="zh">妻子的浪漫旅行第三季20200129</title>
 	</programme>
+	<programme channel="4K综艺" start="20240602032600 +0800" stop="20240602050600 +0800">
+		<title lang="zh">妻子的浪漫旅行第三季20200205</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -58290,6 +58293,9 @@
 	<programme channel="纯享4K" start="20240602023200 +0800" stop="20240602031200 +0800">
 		<title lang="zh">探索b7发现4K 黑土地和她的朋友们（1）四季家园</title>
 	</programme>
+	<programme channel="纯享4K" start="20240602031200 +0800" stop="20240602035200 +0800">
+		<title lang="zh">探索b7发现4K 黑土地和她的朋友们（2）希望的田野</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -71256,11 +71262,17 @@
 	<programme channel="黑莓动画" start="20240602024600 +0800" stop="20240602031100 +0800">
 		<title lang="zh">01_星辰变第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240602031100 +0800" stop="20240602033600 +0800">
+		<title lang="zh">02_星辰变第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20240602015000 +0800" stop="20240602031700 +0800">
 		<title lang="zh">情系月亮湾</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240602031700 +0800" stop="20240602045400 +0800">
+		<title lang="zh">寂静之地2</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -71766,6 +71778,9 @@
 	<programme channel="newtv超级综艺" start="20240602015100 +0800" stop="20240602030800 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240602030800 +0800" stop="20240602045800 +0800">
+		<title lang="zh">首届青年京剧演员大会</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -71805,6 +71820,9 @@
 	<programme channel="newtv超级电视剧" start="20240602022000 +0800" stop="20240602030500 +0800">
 		<title lang="zh">35_下一站，别离</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240602030500 +0800" stop="20240602034900 +0800">
+		<title lang="zh">36_下一站，别离</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -71837,6 +71855,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240602022700 +0800" stop="20240602031700 +0800">
 		<title lang="zh">黄石公园——捕食者归来</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240602031700 +0800" stop="20240602040600 +0800">
+		<title lang="zh">02_水生世界</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -71871,6 +71892,9 @@
 	<programme channel="newtv军旅剧场" start="20240602022600 +0800" stop="20240602031200 +0800">
 		<title lang="zh">06_小站风云</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240602031200 +0800" stop="20240602035700 +0800">
+		<title lang="zh">07_小站风云</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -71885,6 +71909,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240602022200 +0800" stop="20240602030700 +0800">
 		<title lang="zh">24_父亲的草原母亲的河</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240602030700 +0800" stop="20240602035200 +0800">
+		<title lang="zh">25_父亲的草原母亲的河</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -71906,6 +71933,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240602014900 +0800" stop="20240602032100 +0800">
 		<title lang="zh">魅力四射</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240602032100 +0800" stop="20240602040600 +0800">
+		<title lang="zh">01_包青天之七侠五义</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -71930,6 +71960,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240602022100 +0800" stop="20240602030800 +0800">
 		<title lang="zh">12_余生，请多指教（DVD版）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240602030800 +0800" stop="20240602033500 +0800">
+		<title lang="zh">奇幻森林里的生命（上）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -71961,6 +71994,9 @@
 	<programme channel="newtv军事评论" start="20240602022900 +0800" stop="20240602032200 +0800">
 		<title lang="zh">东江上的救捞人——老兵赵喜昌和他的战旗救捞队</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240602032200 +0800" stop="20240602041400 +0800">
+		<title lang="zh">为国仗剑鹰击长空——飞行员老兵特辑</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -71988,6 +72024,12 @@
 	<programme channel="newtv炫舞未来" start="20240602024500 +0800" stop="20240602030300 +0800">
 		<title lang="zh">送别-孙爱迪</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240602030300 +0800" stop="20240602033000 +0800">
+		<title lang="zh">一城一味1（20211123）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240602033000 +0800" stop="20240602035600 +0800">
+		<title lang="zh">一城一味2（20211124）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -71997,6 +72039,9 @@
 	<programme channel="newtv精品综合" start="20240602021500 +0800" stop="20240602032600 +0800">
 		<title lang="zh">半熟恋人第2季</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240602032600 +0800" stop="20240602040900 +0800">
+		<title lang="zh">43_狐影</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -72005,6 +72050,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240602020100 +0800" stop="20240602031300 +0800">
 		<title lang="zh">张震讲故事之洗脸女生的传说</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240602031300 +0800" stop="20240602044800 +0800">
+		<title lang="zh">鲨卷风2</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
