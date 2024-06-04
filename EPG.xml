@@ -54,6 +54,9 @@
 	<programme channel="4K综艺" start="20240605021200 +0800" stop="20240605025500 +0800">
 		<title lang="zh">我最爱的女人们20190622</title>
 	</programme>
+	<programme channel="4K综艺" start="20240605025500 +0800" stop="20240605040800 +0800">
+		<title lang="zh">儿行千里20170827</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -62067,6 +62070,9 @@
 	<programme channel="纯享4K" start="20240605023400 +0800" stop="20240605030100 +0800">
 		<title lang="zh">国家记忆4K 解放之战 呼市玉帛</title>
 	</programme>
+	<programme channel="纯享4K" start="20240605030100 +0800" stop="20240605034100 +0800">
+		<title lang="zh">探索b7发现4K 探秘三星堆 第5集</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -74685,6 +74691,9 @@
 	<programme channel="黑莓动画" start="20240605022300 +0800" stop="20240605024700 +0800">
 		<title lang="zh">08_骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240605024700 +0800" stop="20240605031400 +0800">
+		<title lang="zh">07_星辰变第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -75303,6 +75312,9 @@
 	<programme channel="newtv家庭剧场" start="20240605020400 +0800" stop="20240605024900 +0800">
 		<title lang="zh">36_父亲的草原母亲的河</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240605024900 +0800" stop="20240605033400 +0800">
+		<title lang="zh">01_娘家的故事之爱的抉择</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -75311,6 +75323,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240605020100 +0800" stop="20240605024700 +0800">
 		<title lang="zh">18_如果蜗牛有爱情</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240605024700 +0800" stop="20240605033200 +0800">
+		<title lang="zh">19_如果蜗牛有爱情</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -75369,6 +75384,9 @@
 	<programme channel="newtv军事评论" start="20240605020000 +0800" stop="20240605025300 +0800">
 		<title lang="zh">气壮山河奏凯旋——抗美援朝战争胜利70周年特别节目（—）博弈</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240605025300 +0800" stop="20240605034600 +0800">
+		<title lang="zh">气壮山河奏凯旋——抗美援朝战争胜利70周年特别节目（二）信念</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -75380,6 +75398,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240605024400 +0800" stop="20240605024800 +0800">
 		<title lang="zh">相拥美丽—毕刚（舞蹈展示）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240605030000 +0800" stop="20240605030300 +0800">
+		<title lang="zh">新疆—毕刚（舞蹈展示）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
