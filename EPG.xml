@@ -29547,6 +29547,9 @@
 	<programme channel="咪咕综合体育" start="20240605022900 +0800" stop="20240605035700 +0800">
 		<title lang="zh">国际雪联跳台滑雪世界杯四山锦标赛比绍夫斯霍芬站资格赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240605035700 +0800" stop="20240605064600 +0800">
+		<title lang="zh">23/24赛季CBA季后赛1/4决赛G1全场回放：辽宁vs深圳（姜帆、刘铁、佳依）（50帧原画）</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -74706,6 +74709,9 @@
 	<programme channel="黑莓动画" start="20240605034000 +0800" stop="20240605035800 +0800">
 		<title lang="zh">07_全职法师第2季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240605035800 +0800" stop="20240605041600 +0800">
+		<title lang="zh">08_全职法师第2季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -75222,6 +75228,9 @@
 	<programme channel="newtv超级体育" start="20240605023600 +0800" stop="20240605040000 +0800">
 		<title lang="zh">实况录像-2023/2024欧洲冠军联赛1/4决赛第二回合</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240605040000 +0800" stop="20240605060000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年尤伯杯羽毛球赛 1/4决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -75276,6 +75285,9 @@
 	<programme channel="newtv精品大剧" start="20240605031200 +0800" stop="20240605035700 +0800">
 		<title lang="zh">07_香格里拉</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240605035700 +0800" stop="20240605044300 +0800">
+		<title lang="zh">08_香格里拉</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -75297,6 +75309,9 @@
 	<programme channel="newtv精品纪录" start="20240605030200 +0800" stop="20240605035100 +0800">
 		<title lang="zh">05_休戚与共</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240605035100 +0800" stop="20240605043000 +0800">
+		<title lang="zh">第十集 极限制造</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -75315,6 +75330,9 @@
 	<programme channel="newtv古装剧场" start="20240605031400 +0800" stop="20240605035900 +0800">
 		<title lang="zh">24_凤游龙门</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240605035900 +0800" stop="20240605044500 +0800">
+		<title lang="zh">11_天和局</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -75332,6 +75350,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240605031400 +0800" stop="20240605035900 +0800">
 		<title lang="zh">22_小站风云</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240605035900 +0800" stop="20240605044600 +0800">
+		<title lang="zh">07_红色娘子军</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -75408,6 +75429,9 @@
 	<programme channel="newtv怡伴健康" start="20240605032400 +0800" stop="20240605035100 +0800">
 		<title lang="zh">返璞归真——拯救珊瑚礁（下）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240605035100 +0800" stop="20240605041800 +0800">
+		<title lang="zh">保护栖息地——猞猁归山（上）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -75437,6 +75461,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240605025300 +0800" stop="20240605034600 +0800">
 		<title lang="zh">气壮山河奏凯旋——抗美援朝战争胜利70周年特别节目（二）信念</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240605034600 +0800" stop="20240605044000 +0800">
+		<title lang="zh">气壮山河奏凯旋——抗美援朝战争胜利70周年特别节目（三）丰碑</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
