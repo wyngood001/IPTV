@@ -54,6 +54,9 @@
 	<programme channel="4K综艺" start="20240606014400 +0800" stop="20240606025800 +0800">
 		<title lang="zh">小小的追球20191217</title>
 	</programme>
+	<programme channel="4K综艺" start="20240606025800 +0800" stop="20240606035000 +0800">
+		<title lang="zh">小小的追球20191218</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -29174,6 +29177,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20240606004500 +0800" stop="20240606025300 +0800">
 		<title lang="zh">2024赛季中乙第10轮全场回放：西安崇德荣海1:1北京理工（官方解说）</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240606025300 +0800" stop="20240606045100 +0800">
+		<title lang="zh">23/24赛季德甲第32轮全场回放：霍芬海姆1:1RB莱比锡（周楚雄）</title>
 	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
@@ -62688,6 +62694,9 @@
 	<programme channel="纯享4K" start="20240606022500 +0800" stop="20240606024900 +0800">
 		<title lang="zh">魅力葡萄牙4K 第1集 世界的尽头</title>
 	</programme>
+	<programme channel="纯享4K" start="20240606024900 +0800" stop="20240606031600 +0800">
+		<title lang="zh">国家记忆4K 解放之战 新疆义旗</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -75348,6 +75357,9 @@
 	<programme channel="黑莓电影" start="20240606012000 +0800" stop="20240606030000 +0800">
 		<title lang="zh">首映日</title>
 	</programme>
+	<programme channel="黑莓电影" start="20240606030000 +0800" stop="20240606044100 +0800">
+		<title lang="zh">古镇谜案之诛心劫</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -75885,6 +75897,9 @@
 	<programme channel="newtv精品大剧" start="20240606021300 +0800" stop="20240606025800 +0800">
 		<title lang="zh">11_香格里拉</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240606025800 +0800" stop="20240606034400 +0800">
+		<title lang="zh">12_香格里拉</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -75896,6 +75911,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240606020400 +0800" stop="20240606025100 +0800">
 		<title lang="zh">守护蔚蓝</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240606025100 +0800" stop="20240606032900 +0800">
+		<title lang="zh">06_走进幕后</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -75924,6 +75942,9 @@
 	<programme channel="newtv军旅剧场" start="20240606021400 +0800" stop="20240606030000 +0800">
 		<title lang="zh">25_小站风云</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240606030000 +0800" stop="20240606034500 +0800">
+		<title lang="zh">26_小站风云</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -75947,6 +75968,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240606021000 +0800" stop="20240606025600 +0800">
 		<title lang="zh">04_古董局中局之掠宝清单</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240606025600 +0800" stop="20240606034100 +0800">
+		<title lang="zh">05_古董局中局之掠宝清单</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -75990,6 +76014,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240606020700 +0800" stop="20240606025200 +0800">
 		<title lang="zh">28_婚姻那些事儿</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240606025200 +0800" stop="20240606033800 +0800">
+		<title lang="zh">01_幸福照相馆</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -76002,6 +76029,9 @@
 	<programme channel="newtv军事评论" start="20240606020200 +0800" stop="20240606025500 +0800">
 		<title lang="zh">钢铁战士英雄艇——“八六”海战一等功臣 彭德才 黄汝省</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240606025500 +0800" stop="20240606034900 +0800">
+		<title lang="zh">铁血军人 崇德向善——老兵王进才</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -76010,6 +76040,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240606013400 +0800" stop="20240606025100 +0800">
 		<title lang="zh">刘振宇演唱《繁花》热曲《偷心》 唱出了多少男女的回忆（20240408）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240606025600 +0800" stop="20240606031200 +0800">
+		<title lang="zh">海那边的桃花开—毕刚（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
