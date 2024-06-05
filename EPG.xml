@@ -75873,6 +75873,9 @@
 	<programme channel="newtv超级体育" start="20240606023600 +0800" stop="20240606040000 +0800">
 		<title lang="zh">实况录像-2023/2024欧洲冠军联赛1/4决赛第二回合</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240606040000 +0800" stop="20240606060000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年汤姆斯杯羽毛球赛 半决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -75905,6 +75908,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240606031200 +0800" stop="20240606035800 +0800">
 		<title lang="zh">23_承欢记</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240606035800 +0800" stop="20240606044300 +0800">
+		<title lang="zh">24_承欢记</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
