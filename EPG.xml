@@ -60,6 +60,9 @@
 	<programme channel="4K综艺" start="20240608042400 +0800" stop="20240608054900 +0800">
 		<title lang="zh">奇兵神犬20180105</title>
 	</programme>
+	<programme channel="4K综艺" start="20240608054900 +0800" stop="20240608064100 +0800">
+		<title lang="zh">小小的追球20200115</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -28772,6 +28775,9 @@
 	</programme>
 	<programme channel="咪咕综合体育" start="20240608050100 +0800" stop="20240608055800 +0800">
 		<title lang="zh">2024WTT常规挑战赛门多萨站男单决赛回放：贝内迪克特b7杜达4-3阿尔瓦罗b7罗伯勒斯</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20240608055800 +0800" stop="20240608073500 +0800">
+		<title lang="zh">2024斯诺克威尔士公开赛Day3回放：马克b7艾伦4-1斯佳辉（李照）</title>
 	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
@@ -70722,6 +70728,9 @@
 	<programme channel="newtv超级综艺" start="20240608045000 +0800" stop="20240608055000 +0800">
 		<title lang="zh">选对健康</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240608060000 +0800" stop="20240608065000 +0800">
+		<title lang="zh">回声嘹亮</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -70736,6 +70745,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20240608040000 +0800" stop="20240608060000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年汤姆斯杯羽毛球赛 决赛</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240608060000 +0800" stop="20240608063000 +0800">
+		<title lang="zh">赛事集锦-2024年三对三篮球奥运会资格赛-匈牙利站</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -70860,6 +70872,9 @@
 	<programme channel="newtv古装剧场" start="20240608050100 +0800" stop="20240608054700 +0800">
 		<title lang="zh">27_天和局</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240608054700 +0800" stop="20240608063300 +0800">
+		<title lang="zh">28_天和局</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -70934,6 +70949,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240608051400 +0800" stop="20240608060000 +0800">
 		<title lang="zh">20_古董局中局之掠宝清单</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240608060000 +0800" stop="20240608064700 +0800">
+		<title lang="zh">21_古董局中局之掠宝清单</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -71081,6 +71099,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240608054500 +0800" stop="20240608054800 +0800">
 		<title lang="zh">欢乐中国年-孙爱迪（舞蹈展示）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240608055100 +0800" stop="20240608060600 +0800">
+		<title lang="zh">03_希望</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
