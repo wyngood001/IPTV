@@ -71274,6 +71274,9 @@
 	<programme channel="newtv超级综艺" start="20240609010400 +0800" stop="20240609015000 +0800">
 		<title lang="zh">22_余生，请多指教</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240609015000 +0800" stop="20240609031400 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -71313,6 +71316,9 @@
 	<programme channel="newtv精品大剧" start="20240609010500 +0800" stop="20240609015100 +0800">
 		<title lang="zh">28_香格里拉</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240609015100 +0800" stop="20240609023600 +0800">
+		<title lang="zh">29_香格里拉</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -71328,6 +71334,9 @@
 	<programme channel="newtv精品纪录" start="20240609013400 +0800" stop="20240609020000 +0800">
 		<title lang="zh">周光召</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240609020000 +0800" stop="20240609024400 +0800">
+		<title lang="zh">03_绿洲之泽</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -71337,6 +71346,9 @@
 	<programme channel="newtv古装剧场" start="20240609010600 +0800" stop="20240609015100 +0800">
 		<title lang="zh">11_少林寺传奇藏经阁</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240609015100 +0800" stop="20240609023600 +0800">
+		<title lang="zh">12_少林寺传奇藏经阁</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -71345,6 +71357,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240609011900 +0800" stop="20240609020100 +0800">
 		<title lang="zh">04_喋血长江</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240609020100 +0800" stop="20240609024200 +0800">
+		<title lang="zh">05_喋血长江</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -71400,6 +71415,9 @@
 	<programme channel="newtv军事评论" start="20240609005800 +0800" stop="20240609015000 +0800">
 		<title lang="zh">天山雄鹰长空劲旅 国防知识挑战赛</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240609015000 +0800" stop="20240609024200 +0800">
+		<title lang="zh">奋进强军新征程 陆军第71集团军学习贯彻党的二十大精神知识竞赛 上集</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -71426,6 +71444,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20240609000300 +0800" stop="20240609020000 +0800">
 		<title lang="zh">越战越勇（2024）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240609020000 +0800" stop="20240609034200 +0800">
+		<title lang="zh">艺览天下（2022）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
