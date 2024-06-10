@@ -54051,6 +54051,9 @@
 	<programme channel="纯享4K" start="20240611030800 +0800" stop="20240611034900 +0800">
 		<title lang="zh">远方的家4K 长江行（96） 多元文化 活力上海</title>
 	</programme>
+	<programme channel="纯享4K" start="20240611034900 +0800" stop="20240611043100 +0800">
+		<title lang="zh">远方的家4K 长江行 生态之城——上海</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -65022,6 +65025,9 @@
 	<programme channel="黑莓动画" start="20240611032900 +0800" stop="20240611034700 +0800">
 		<title lang="zh">07_全职法师第1季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240611034700 +0800" stop="20240611040400 +0800">
+		<title lang="zh">08_全职法师第1季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -65604,6 +65610,9 @@
 	<programme channel="newtv精品纪录" start="20240611030700 +0800" stop="20240611035700 +0800">
 		<title lang="zh">10_幕后的故事</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240611035700 +0800" stop="20240611041900 +0800">
+		<title lang="zh">01_刘铭传在台湾</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -65691,6 +65700,9 @@
 	<programme channel="newtv爱情喜剧" start="20240611031200 +0800" stop="20240611035500 +0800">
 		<title lang="zh">07_女村长</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240611035500 +0800" stop="20240611043900 +0800">
+		<title lang="zh">08_女村长</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -65699,6 +65711,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240611022200 +0800" stop="20240611034700 +0800">
 		<title lang="zh">公证人之大卫之死</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240611034700 +0800" stop="20240611050500 +0800">
+		<title lang="zh">限时营救</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -65765,6 +65780,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240611033600 +0800" stop="20240611035100 +0800">
 		<title lang="zh">唱响新时代—毕刚（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240611035100 +0800" stop="20240611040700 +0800">
+		<title lang="zh">海那边的桃花开—毕刚（纯净版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
