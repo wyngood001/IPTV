@@ -54507,6 +54507,12 @@
 	<programme channel="纯享4K" start="20240613024500 +0800" stop="20240613030000 +0800">
 		<title lang="zh">跑马溜溜的云上4K 第3集</title>
 	</programme>
+	<programme channel="纯享4K" start="20240613030000 +0800" stop="20240613031500 +0800">
+		<title lang="zh">跑马溜溜的云上4K 第4集</title>
+	</programme>
+	<programme channel="纯享4K" start="20240613031500 +0800" stop="20240613035600 +0800">
+		<title lang="zh">远方的家4K 长江行 海派文化 历久弥新</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -65673,6 +65679,9 @@
 	<programme channel="黑莓动画" start="20240613023000 +0800" stop="20240613025500 +0800">
 		<title lang="zh">03_星辰变 第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240613025500 +0800" stop="20240613032200 +0800">
+		<title lang="zh">04_星辰变 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -65681,6 +65690,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240613013500 +0800" stop="20240613030800 +0800">
 		<title lang="zh">追爱总动员</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240613030800 +0800" stop="20240613045500 +0800">
+		<title lang="zh">冒牌上帝</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -66171,6 +66183,9 @@
 	<programme channel="newtv超级综艺" start="20240613020300 +0800" stop="20240613032000 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240613032000 +0800" stop="20240613054200 +0800">
+		<title lang="zh">首届青年京剧演员大会</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -66192,6 +66207,9 @@
 	<programme channel="newtv超级电影" start="20240613015100 +0800" stop="20240613032100 +0800">
 		<title lang="zh">笑里藏刀</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240613032100 +0800" stop="20240613045300 +0800">
+		<title lang="zh">特警云豹</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -66207,6 +66225,9 @@
 	<programme channel="newtv超级电视剧" start="20240613021000 +0800" stop="20240613025100 +0800">
 		<title lang="zh">29_岁岁年年柿柿红</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240613025100 +0800" stop="20240613033300 +0800">
+		<title lang="zh">30_岁岁年年柿柿红</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -66221,6 +66242,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240613022100 +0800" stop="20240613030700 +0800">
 		<title lang="zh">15_大秦帝国之裂变</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240613030700 +0800" stop="20240613035300 +0800">
+		<title lang="zh">16_大秦帝国之裂变</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -66294,6 +66318,9 @@
 	<programme channel="newtv热播精选" start="20240613002100 +0800" stop="20240613025600 +0800">
 		<title lang="zh">变形金刚3</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240613025600 +0800" stop="20240613034100 +0800">
+		<title lang="zh">01_新居之约</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -66363,6 +66390,12 @@
 	<programme channel="newtv军事评论" start="20240613023000 +0800" stop="20240613025200 +0800">
 		<title lang="zh">走向一战b7欧洲火药桶（下）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240613025200 +0800" stop="20240613031400 +0800">
+		<title lang="zh">走向一战b7点燃导火索（上）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240613031400 +0800" stop="20240613033600 +0800">
+		<title lang="zh">走向一战b7点燃导火索（下）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -66374,6 +66407,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240613024600 +0800" stop="20240613025000 +0800">
 		<title lang="zh">不惜时光-毕刚（舞蹈展示）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240613030100 +0800" stop="20240613030500 +0800">
+		<title lang="zh">在灿烂阳光下—毕刚（舞蹈展示）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240613031200 +0800" stop="20240613033000 +0800">
+		<title lang="zh">美丽中国—毕刚（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -66452,6 +66491,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240613015100 +0800" stop="20240613030300 +0800">
 		<title lang="zh">楚留香之盗帅觉醒</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240613030300 +0800" stop="20240613044200 +0800">
+		<title lang="zh">龙形侠影黄澄可</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
