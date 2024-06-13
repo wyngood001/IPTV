@@ -54822,6 +54822,9 @@
 	<programme channel="纯享4K" start="20240614031900 +0800" stop="20240614040000 +0800">
 		<title lang="zh">远方的家4K 长江行 共创家园 筑梦上海</title>
 	</programme>
+	<programme channel="纯享4K" start="20240614040000 +0800" stop="20240614044200 +0800">
+		<title lang="zh">远方的家4K 长江行 开放城市 创新生活</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -65967,6 +65970,9 @@
 	<programme channel="黑莓动画" start="20240614033200 +0800" stop="20240614035000 +0800">
 		<title lang="zh">05_全职法师第1季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240614035000 +0800" stop="20240614040800 +0800">
+		<title lang="zh">06_全职法师第1季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -66477,6 +66483,9 @@
 	<programme channel="newtv超级体育" start="20240614023600 +0800" stop="20240614040000 +0800">
 		<title lang="zh">实况录像-2023/2024欧洲冠军联赛 决赛 多特蒙德-皇家马德里</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240614040000 +0800" stop="20240614060000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年汤姆斯杯羽毛球赛 半决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -66585,6 +66594,9 @@
 	<programme channel="newtv军旅剧场" start="20240614030500 +0800" stop="20240614034700 +0800">
 		<title lang="zh">32_喋血长江</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240614034700 +0800" stop="20240614043200 +0800">
+		<title lang="zh">08_黄河在咆哮</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -66602,6 +66614,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240614031200 +0800" stop="20240614035600 +0800">
 		<title lang="zh">04_淑女涩男</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240614035600 +0800" stop="20240614043300 +0800">
+		<title lang="zh">29_闪耀的她</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -66701,6 +66716,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240614033000 +0800" stop="20240614035200 +0800">
 		<title lang="zh">战地现场Ⅱb7栋派尔坦克战（上）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240614035200 +0800" stop="20240614041400 +0800">
+		<title lang="zh">战地现场Ⅱb7栋派尔坦克战（下）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -66809,6 +66827,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240614015700 +0800" stop="20240614035000 +0800">
 		<title lang="zh">长安伏妖</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240614035000 +0800" stop="20240614051800 +0800">
+		<title lang="zh">侠探锦毛鼠之血弥东京</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
