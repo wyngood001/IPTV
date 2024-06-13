@@ -54717,6 +54717,9 @@
 	<programme channel="纯享4K" start="20240614002400 +0800" stop="20240614005400 +0800">
 		<title lang="zh">记住乡愁4K第六季 第十八集 凤凰古城——神秘湘西的铁血柔情（上）</title>
 	</programme>
+	<programme channel="纯享4K" start="20240614005400 +0800" stop="20240614012400 +0800">
+		<title lang="zh">记住乡愁4K第六季 第十九集 凤凰古城——神秘湘西的铁血柔情（下）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -65721,6 +65724,12 @@
 	<programme channel="黑莓动画" start="20240614003500 +0800" stop="20240614010400 +0800">
 		<title lang="zh">05_一人之下第二季</title>
 	</programme>
+	<channel id="黑莓电影">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel>
+	<programme channel="黑莓电影" start="20240614005700 +0800" stop="20240614022700 +0800">
+		<title lang="zh">御前侍卫</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -66255,6 +66264,9 @@
 	<programme channel="newtv家庭剧场" start="20240614001200 +0800" stop="20240614005800 +0800">
 		<title lang="zh">40_娘家的故事之爱的抉择</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240614005800 +0800" stop="20240614014200 +0800">
+		<title lang="zh">01_淑女涩男</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -66293,6 +66305,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240614003700 +0800" stop="20240614005900 +0800">
 		<title lang="zh">战地现场Ⅱb7激战维耶阿芒（上）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240614005900 +0800" stop="20240614012000 +0800">
+		<title lang="zh">战地现场Ⅱb7激战维耶阿芒（下）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
