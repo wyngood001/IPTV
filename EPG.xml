@@ -51,6 +51,9 @@
 	<programme channel="4K综艺" start="20240615013200 +0800" stop="20240615030100 +0800">
 		<title lang="zh">亲爱的客栈第三季20191129</title>
 	</programme>
+	<programme channel="4K综艺" start="20240615030100 +0800" stop="20240615042100 +0800">
+		<title lang="zh">亲爱的客栈第三季20191206</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -66420,6 +66423,9 @@
 	<programme channel="newtv精品纪录" start="20240615020400 +0800" stop="20240615024900 +0800">
 		<title lang="zh">03_世上最蓝的海</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240615024900 +0800" stop="20240615032900 +0800">
+		<title lang="zh">南极 世界尽头之旅</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -66449,6 +66455,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240615020900 +0800" stop="20240615025000 +0800">
 		<title lang="zh">36_喋血长江</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240615025000 +0800" stop="20240615033100 +0800">
+		<title lang="zh">37_喋血长江</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -66491,6 +66500,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240615012500 +0800" stop="20240615025100 +0800">
 		<title lang="zh">血战狙击岭</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240615025100 +0800" stop="20240615042600 +0800">
+		<title lang="zh">陆小凤传奇之幽灵山庄</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -66543,6 +66555,9 @@
 	<programme channel="newtv军事评论" start="20240615023200 +0800" stop="20240615025400 +0800">
 		<title lang="zh">诺曼底水下探秘（二）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240615025400 +0800" stop="20240615031500 +0800">
+		<title lang="zh">诺曼底水下探秘（三）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -66560,6 +66575,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240615024300 +0800" stop="20240615025900 +0800">
 		<title lang="zh">海那边的桃花开—毕刚（纯净版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240615025900 +0800" stop="20240615031800 +0800">
+		<title lang="zh">01_美丽新疆-李萍（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -66588,11 +66606,17 @@
 	<programme channel="newtv金牌综艺" start="20240615001600 +0800" stop="20240615024900 +0800">
 		<title lang="zh">新游记</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20240615024900 +0800" stop="20240615041000 +0800">
+		<title lang="zh">艺览天下（2022）</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
 	<programme channel="newtv精品体育" start="20240615011000 +0800" stop="20240615025100 +0800">
 		<title lang="zh">【2016欧洲杯】E组：比利时VS意大利</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240615025100 +0800" stop="20240615043600 +0800">
+		<title lang="zh">【2016欧洲杯】D组：克罗地亚VS西班牙</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
