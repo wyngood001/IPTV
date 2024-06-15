@@ -73182,6 +73182,9 @@
 	<programme channel="newtv超级综艺" start="20240616014700 +0800" stop="20240616030300 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240616030300 +0800" stop="20240616054300 +0800">
+		<title lang="zh">首届青年京剧演员大会</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -73211,6 +73214,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240616021900 +0800" stop="20240616030000 +0800">
 		<title lang="zh">05_灵与肉</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240616030000 +0800" stop="20240616034200 +0800">
+		<title lang="zh">06_灵与肉</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
