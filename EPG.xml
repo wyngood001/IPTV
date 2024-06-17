@@ -68490,6 +68490,9 @@
 	<programme channel="newtv超级综艺" start="20240618000200 +0800" stop="20240618004800 +0800">
 		<title lang="zh">29_清平乐</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240618004800 +0800" stop="20240618013300 +0800">
+		<title lang="zh">30_清平乐</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -68543,6 +68546,9 @@
 	</channel>
 	<programme channel="newtv超级电视剧" start="20240618000600 +0800" stop="20240618004800 +0800">
 		<title lang="zh">12_灵与肉</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240618004800 +0800" stop="20240618012900 +0800">
+		<title lang="zh">13_灵与肉</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
