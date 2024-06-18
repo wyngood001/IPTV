@@ -56457,6 +56457,9 @@
 	<programme channel="纯享4K" start="20240619031200 +0800" stop="20240619035400 +0800">
 		<title lang="zh">远方的家4K 长江行 金沙江：探秘香格里拉</title>
 	</programme>
+	<programme channel="纯享4K" start="20240619035400 +0800" stop="20240619043600 +0800">
+		<title lang="zh">远方的家4K 长江行 金沙江水润丽江</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -67827,6 +67830,9 @@
 	<programme channel="newtv古装剧场" start="20240619030600 +0800" stop="20240619034800 +0800">
 		<title lang="zh">01_祈今朝</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240619034800 +0800" stop="20240619043300 +0800">
+		<title lang="zh">19_天地民心</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -67845,6 +67851,9 @@
 	<programme channel="newtv军旅剧场" start="20240619031300 +0800" stop="20240619035900 +0800">
 		<title lang="zh">05_爱在战火纷飞时</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240619035900 +0800" stop="20240619044500 +0800">
+		<title lang="zh">33_黄河在咆哮</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -67862,6 +67871,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240619030300 +0800" stop="20240619034700 +0800">
 		<title lang="zh">25_淑女涩男</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240619034700 +0800" stop="20240619042700 +0800">
+		<title lang="zh">02_头号前妻</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -67920,6 +67932,9 @@
 	<programme channel="newtv怡伴健康" start="20240619033200 +0800" stop="20240619035900 +0800">
 		<title lang="zh">沸腾的半岛——从草原到河口（下）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240619035900 +0800" stop="20240619042600 +0800">
+		<title lang="zh">生活在海边的日子（上）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -67968,6 +67983,9 @@
 	<programme channel="newtv军事评论" start="20240619032900 +0800" stop="20240619035100 +0800">
 		<title lang="zh">海战纪事b7海上营救</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240619035100 +0800" stop="20240619041600 +0800">
+		<title lang="zh">国防军事早报</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -67989,6 +68007,9 @@
 	<programme channel="newtv炫舞未来" start="20240619034500 +0800" stop="20240619035300 +0800">
 		<title lang="zh">小跳蛙-金洋（完整教学）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240619035300 +0800" stop="20240619041100 +0800">
+		<title lang="zh">探清水河-完整（无二维码）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -68003,6 +68024,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240619030500 +0800" stop="20240619034800 +0800">
 		<title lang="zh">42_雪豹坚强岁月</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240619034800 +0800" stop="20240619043000 +0800">
+		<title lang="zh">43_雪豹坚强岁月</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
