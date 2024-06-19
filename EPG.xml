@@ -55059,6 +55059,9 @@
 	<programme channel="纯享4K" start="20240620031200 +0800" stop="20240620035400 +0800">
 		<title lang="zh">远方的家4K 长江行 古韵夔州 精诚奉节</title>
 	</programme>
+	<programme channel="纯享4K" start="20240620040000 +0800" stop="20240620040500 +0800">
+		<title lang="zh">美丽中国自然4K 江苏盐城系列 风之鹤舞</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -65574,6 +65577,9 @@
 	<programme channel="黑莓动画" start="20240620034100 +0800" stop="20240620035900 +0800">
 		<title lang="zh">06_全职法师第2季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240620035900 +0800" stop="20240620042200 +0800">
+		<title lang="zh">17_马达加斯加企鹅第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -66129,6 +66135,9 @@
 	<programme channel="newtv精品大剧" start="20240620030300 +0800" stop="20240620034700 +0800">
 		<title lang="zh">05_北国英雄</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240620034700 +0800" stop="20240620043200 +0800">
+		<title lang="zh">19_大浪淘沙</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -66149,6 +66158,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240620032900 +0800" stop="20240620035400 +0800">
 		<title lang="zh">02_野性</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240620035400 +0800" stop="20240620043400 +0800">
+		<title lang="zh">第三集 超级武器</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -66185,6 +66197,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240620030600 +0800" stop="20240620035300 +0800">
 		<title lang="zh">10_爱在战火纷飞时</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240620035300 +0800" stop="20240620043900 +0800">
+		<title lang="zh">38_黄河在咆哮</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -66309,6 +66324,9 @@
 	<programme channel="newtv军事评论" start="20240620033400 +0800" stop="20240620035400 +0800">
 		<title lang="zh">突袭迪耶普之谜（下）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240620035400 +0800" stop="20240620041900 +0800">
+		<title lang="zh">国防军事早报</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -66335,6 +66353,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240620034100 +0800" stop="20240620035000 +0800">
 		<title lang="zh">小跳蛙-金洋（完整教学）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240620035900 +0800" stop="20240620040700 +0800">
+		<title lang="zh">第七期：开心发光 快乐发电</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
