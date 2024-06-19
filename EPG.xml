@@ -65823,6 +65823,9 @@
 	<programme channel="newtv超级综艺" start="20240620001700 +0800" stop="20240620010200 +0800">
 		<title lang="zh">37_清平乐</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240620010200 +0800" stop="20240620014800 +0800">
+		<title lang="zh">38_清平乐</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -65906,6 +65909,9 @@
 	</channel>
 	<programme channel="newtv超级电视剧" start="20240620001900 +0800" stop="20240620010100 +0800">
 		<title lang="zh">22_灵与肉</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240620010100 +0800" stop="20240620014200 +0800">
+		<title lang="zh">23_灵与肉</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -66030,41 +66036,8 @@
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
-	<programme channel="newtv金牌综艺" start="20240620000000 +0800" stop="20240620020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20240620020000 +0800" stop="20240620040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20240620060000 +0800" stop="20240620080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20240620080000 +0800" stop="20240620100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20240620100600 +0800" stop="20240620120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20240620120000 +0800" stop="20240620140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20240620140000 +0800" stop="20240620160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20240620160000 +0800" stop="20240620180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20240620180000 +0800" stop="20240620190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20240620190000 +0800" stop="20240620200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20240620200000 +0800" stop="20240620220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20240620220000 +0800" stop="20240620235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv金牌综艺" start="20240620010500 +0800" stop="20240620034400 +0800">
+		<title lang="zh">新游记</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
