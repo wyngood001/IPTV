@@ -7227,6 +7227,84 @@
 	<programme channel="CGTN阿语" start="20240620233000 +0800" stop="20240620001500 +0800">
 		<title lang="zh">剧场</title>
 	</programme>
+	<channel id="CHANNELNEWSASIA">
+		<display-name lang="zh">CHANNELNEWSASIA</display-name>
+	</channel>
+	<programme channel="CHANNELNEWSASIA" start="20240620000000 +0800" stop="20240620000300 +0800">
+		<title lang="zh">Headline News</title>
+	</programme>
+	<programme channel="CHANNELNEWSASIA" start="20240620000300 +0800" stop="20240620010000 +0800">
+		<title lang="zh">East Asia Tonight</title>
+	</programme>
+	<programme channel="CHANNELNEWSASIA" start="20240620010000 +0800" stop="20240620020000 +0800">
+		<title lang="zh">The Negotiators S2 第2集 -Vs. Rogue Cop [English Subtitles]</title>
+	</programme>
+	<programme channel="CHANNELNEWSASIA" start="20240620020000 +0800" stop="20240620030000 +0800">
+		<title lang="zh">Singapore Tonight</title>
+	</programme>
+	<programme channel="CHANNELNEWSASIA" start="20240620030000 +0800" stop="20240620040000 +0800">
+		<title lang="zh">The Negotiators S2 第1集 -Vs. Armed Security Guard [English Subtitles]</title>
+	</programme>
+	<programme channel="CHANNELNEWSASIA" start="20240620040000 +0800" stop="20240620050000 +0800">
+		<title lang="zh">Asia Tonight</title>
+	</programme>
+	<programme channel="CHANNELNEWSASIA" start="20240620050000 +0800" stop="20240620053000 +0800">
+		<title lang="zh">3D Nation 第7集 -Transforming The Human Body [English Subtitles]</title>
+	</programme>
+	<programme channel="CHANNELNEWSASIA" start="20240620053000 +0800" stop="20240620060000 +0800">
+		<title lang="zh">Cna Correspondent 第12集</title>
+	</programme>
+	<programme channel="CHANNELNEWSASIA" start="20240620060000 +0800" stop="20240620070000 +0800">
+		<title lang="zh">Singapore Tonight</title>
+	</programme>
+	<programme channel="CHANNELNEWSASIA" start="20240620070000 +0800" stop="20240620100000 +0800">
+		<title lang="zh">Asia First</title>
+	</programme>
+	<programme channel="CHANNELNEWSASIA" start="20240620100000 +0800" stop="20240620103000 +0800">
+		<title lang="zh">3D Nation 第7集 -Transforming The Human Body [English Subtitles]</title>
+	</programme>
+	<programme channel="CHANNELNEWSASIA" start="20240620103000 +0800" stop="20240620110000 +0800">
+		<title lang="zh">Cna Correspondent 第12集</title>
+	</programme>
+	<programme channel="CHANNELNEWSASIA" start="20240620110000 +0800" stop="20240620130000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="CHANNELNEWSASIA" start="20240620130000 +0800" stop="20240620140000 +0800">
+		<title lang="zh">The Negotiators S2 第4集 -Vs. Mexican Kidnappers [English Subtitles]</title>
+	</programme>
+	<programme channel="CHANNELNEWSASIA" start="20240620140000 +0800" stop="20240620160000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="CHANNELNEWSASIA" start="20240620160000 +0800" stop="20240620170000 +0800">
+		<title lang="zh">Power To The People 第2集 -Geothermal Energy</title>
+	</programme>
+	<programme channel="CHANNELNEWSASIA" start="20240620170000 +0800" stop="20240620170200 +0800">
+		<title lang="zh">Headline News</title>
+	</programme>
+	<programme channel="CHANNELNEWSASIA" start="20240620170200 +0800" stop="20240620180000 +0800">
+		<title lang="zh">The Negotiators S2 第2集 -Vs. Rogue Cop [English Subtitles]</title>
+	</programme>
+	<programme channel="CHANNELNEWSASIA" start="20240620180000 +0800" stop="20240620190000 +0800">
+		<title lang="zh">East Asia Tonight</title>
+	</programme>
+	<programme channel="CHANNELNEWSASIA" start="20240620190000 +0800" stop="20240620193000 +0800">
+		<title lang="zh">3D Nation 第7集 -Transforming The Human Body [English Subtitles]</title>
+	</programme>
+	<programme channel="CHANNELNEWSASIA" start="20240620193000 +0800" stop="20240620200000 +0800">
+		<title lang="zh">Cna Correspondent 第12集</title>
+	</programme>
+	<programme channel="CHANNELNEWSASIA" start="20240620200000 +0800" stop="20240620210000 +0800">
+		<title lang="zh">Asia Tonight</title>
+	</programme>
+	<programme channel="CHANNELNEWSASIA" start="20240620210000 +0800" stop="20240620220000 +0800">
+		<title lang="zh">Insight 第10集</title>
+	</programme>
+	<programme channel="CHANNELNEWSASIA" start="20240620220000 +0800" stop="20240620230000 +0800">
+		<title lang="zh">Singapore Tonight</title>
+	</programme>
+	<programme channel="CHANNELNEWSASIA" start="20240620230000 +0800" stop="20240620233000 +0800">
+		<title lang="zh">3D Nation 第7集 -Transforming The Human Body [English Subtitles]</title>
+	</programme>
 	<channel id="CHC动作电影">
 		<display-name lang="zh">CHC动作电影</display-name>
 	</channel>
@@ -11057,6 +11135,90 @@
 	</programme>
 	<programme channel="MEZZOLIVEHD" start="20240620043500 +0800" stop="20240620053500 +0800">
 		<title lang="zh">Yom  The Wonder Rabbis - Jazz à Vienne-Yom  The Wonder Rabbis - Jazz à Vienne</title>
+	</programme>
+	<channel id="MTV">
+		<display-name lang="zh">MTV</display-name>
+	</channel>
+	<programme channel="MTV" start="20240620000000 +0800" stop="20240620010000 +0800">
+		<title lang="zh">全球節奏(普)</title>
+	</programme>
+	<programme channel="MTV" start="20240620010000 +0800" stop="20240620020000 +0800">
+		<title lang="zh">熱門搖滾曲(普)</title>
+	</programme>
+	<programme channel="MTV" start="20240620020000 +0800" stop="20240620024500 +0800">
+		<title lang="zh">MTV不插電演出：連恩蓋勒格(普)</title>
+	</programme>
+	<programme channel="MTV" start="20240620024500 +0800" stop="20240620033000 +0800">
+		<title lang="zh">MTV不插電演出：Biffy Clyro(普)</title>
+	</programme>
+	<programme channel="MTV" start="20240620033000 +0800" stop="20240620050000 +0800">
+		<title lang="zh">熱門HD(普)</title>
+	</programme>
+	<programme channel="MTV" start="20240620050000 +0800" stop="20240620060000 +0800">
+		<title lang="zh">MTV精彩回顧：2020(普)</title>
+	</programme>
+	<programme channel="MTV" start="20240620060000 +0800" stop="20240620073000 +0800">
+		<title lang="zh">MTV Top 20(普)</title>
+	</programme>
+	<programme channel="MTV" start="20240620073000 +0800" stop="20240620080000 +0800">
+		<title lang="zh">MTV現場直擊房屋(普)</title>
+	</programme>
+	<programme channel="MTV" start="20240620080000 +0800" stop="20240620090000 +0800">
+		<title lang="zh">熱門搖滾曲(普)</title>
+	</programme>
+	<programme channel="MTV" start="20240620090000 +0800" stop="20240620092000 +0800">
+		<title lang="zh">最愛MTV私藏精選：麥狄森碧兒(普)</title>
+	</programme>
+	<programme channel="MTV" start="20240620092000 +0800" stop="20240620094500 +0800">
+		<title lang="zh">最愛MTV私藏精選：薇洛・史密斯(普)</title>
+	</programme>
+	<programme channel="MTV" start="20240620094500 +0800" stop="20240620100500 +0800">
+		<title lang="zh">MTV強力主打星：芮妮瑞普(普)</title>
+	</programme>
+	<programme channel="MTV" start="20240620100500 +0800" stop="20240620103000 +0800">
+		<title lang="zh">MTV強力主打星：佛羅(普)</title>
+	</programme>
+	<programme channel="MTV" start="20240620103000 +0800" stop="20240620120000 +0800">
+		<title lang="zh">熱門HD(普)</title>
+	</programme>
+	<programme channel="MTV" start="20240620120000 +0800" stop="20240620130000 +0800">
+		<title lang="zh">全球節奏(普)</title>
+	</programme>
+	<programme channel="MTV" start="20240620130000 +0800" stop="20240620140000 +0800">
+		<title lang="zh">MTV精彩回顧：2021(普)</title>
+	</programme>
+	<programme channel="MTV" start="20240620140000 +0800" stop="20240620153000 +0800">
+		<title lang="zh">里約熱內盧搖滾音樂節(普)</title>
+	</programme>
+	<programme channel="MTV" start="20240620153000 +0800" stop="20240620160000 +0800">
+		<title lang="zh">熱門HD(普)</title>
+	</programme>
+	<programme channel="MTV" start="20240620160000 +0800" stop="20240620170000 +0800">
+		<title lang="zh">吃喝舞動嗨翻天(普)</title>
+	</programme>
+	<programme channel="MTV" start="20240620170000 +0800" stop="20240620180000 +0800">
+		<title lang="zh">熱門搖滾曲(普)</title>
+	</programme>
+	<programme channel="MTV" start="20240620180000 +0800" stop="20240620182000 +0800">
+		<title lang="zh">最愛MTV私藏精選：麥狄森碧兒(普)</title>
+	</programme>
+	<programme channel="MTV" start="20240620182000 +0800" stop="20240620184500 +0800">
+		<title lang="zh">最愛MTV私藏精選：薇洛・史密斯(普)</title>
+	</programme>
+	<programme channel="MTV" start="20240620184500 +0800" stop="20240620190500 +0800">
+		<title lang="zh">MTV強力主打星：芮妮瑞普(普)</title>
+	</programme>
+	<programme channel="MTV" start="20240620190500 +0800" stop="20240620193000 +0800">
+		<title lang="zh">MTV強力主打星：佛羅(普)</title>
+	</programme>
+	<programme channel="MTV" start="20240620193000 +0800" stop="20240620210000 +0800">
+		<title lang="zh">熱門HD(普)</title>
+	</programme>
+	<programme channel="MTV" start="20240620210000 +0800" stop="20240620220000 +0800">
+		<title lang="zh">MTV精彩回顧：2021(普)</title>
+	</programme>
+	<programme channel="MTV" start="20240620220000 +0800" stop="20240620233000 +0800">
+		<title lang="zh">里約熱內盧搖滾音樂節(普)</title>
 	</programme>
 	<channel id="MYCINEMAEUROPE">
 		<display-name lang="zh">MYCINEMAEUROPE</display-name>
@@ -52776,6 +52938,75 @@
 	<programme channel="生活时尚" start="20240620235700 +0800" stop="20240620000000 +0800">
 		<title lang="zh">自然之旅欣赏</title>
 	</programme>
+	<channel id="电竞天堂">
+		<display-name lang="zh">电竞天堂</display-name>
+	</channel>
+	<programme channel="电竞天堂" start="20240620004900 +0800" stop="20240620012400 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240620012400 +0800" stop="20240620021400 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240620021400 +0800" stop="20240620025400 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－4重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240620025400 +0800" stop="20240620033800 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛6－1四川�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240620033800 +0800" stop="20240620041300 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240620041300 +0800" stop="20240620050300 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240620050300 +0800" stop="20240620054300 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－4重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240620054300 +0800" stop="20240620062700 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛6－1四川�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240620062700 +0800" stop="20240620070200 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240620070200 +0800" stop="20240620075100 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240620075100 +0800" stop="20240620083200 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－4重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240620083200 +0800" stop="20240620091600 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛6－1四川�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240620091600 +0800" stop="20240620095100 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240620095100 +0800" stop="20240620104000 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240620104000 +0800" stop="20240620112100 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－4重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240620112100 +0800" stop="20240620120500 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛6－1四川�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240620120500 +0800" stop="20240620124000 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240620124000 +0800" stop="20240620132900 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240620132900 +0800" stop="20240620141000 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－4重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240620141000 +0800" stop="20240620145400 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛6－1四川�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240620145400 +0800" stop="20240620152900 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20240620152900 +0800" stop="20240620161800 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
 	<channel id="电视指南">
 		<display-name lang="zh">电视指南</display-name>
 	</channel>
@@ -55421,6 +55652,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20240620041000 +0800" stop="20240620043900 +0800">
 		<title lang="zh">味道4K 原味乡间b7英德篇（2）</title>
+	</programme>
+	<programme channel="纯享4K" start="20240620043900 +0800" stop="20240620050900 +0800">
+		<title lang="zh">味道4K 原味乡间b7英德篇（3）</title>
 	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
@@ -65943,6 +66177,9 @@
 	<programme channel="黑莓动画" start="20240620042200 +0800" stop="20240620044400 +0800">
 		<title lang="zh">18_马达加斯加企鹅第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240620044400 +0800" stop="20240620050800 +0800">
+		<title lang="zh">17_入间同学入魔了</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -66510,6 +66747,9 @@
 	<programme channel="newtv精品大剧" start="20240620034700 +0800" stop="20240620043200 +0800">
 		<title lang="zh">19_大浪淘沙</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240620043200 +0800" stop="20240620051800 +0800">
+		<title lang="zh">20_大浪淘沙</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -66534,6 +66774,9 @@
 	<programme channel="newtv精品纪录" start="20240620035400 +0800" stop="20240620043400 +0800">
 		<title lang="zh">第三集 超级武器</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240620043400 +0800" stop="20240620051300 +0800">
+		<title lang="zh">第四集 科学天才</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -66555,6 +66798,9 @@
 	<programme channel="newtv古装剧场" start="20240620040800 +0800" stop="20240620045300 +0800">
 		<title lang="zh">24_天地民心</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240620045300 +0800" stop="20240620053800 +0800">
+		<title lang="zh">25_天地民心</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -66575,6 +66821,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240620035300 +0800" stop="20240620043900 +0800">
 		<title lang="zh">38_黄河在咆哮</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240620043900 +0800" stop="20240620052700 +0800">
+		<title lang="zh">01_最后的子弹</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -66600,6 +66849,9 @@
 	<programme channel="newtv家庭剧场" start="20240620041800 +0800" stop="20240620045800 +0800">
 		<title lang="zh">07_头号前妻</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240620045800 +0800" stop="20240620053800 +0800">
+		<title lang="zh">08_头号前妻</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -66614,6 +66866,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240620041000 +0800" stop="20240620045600 +0800">
 		<title lang="zh">37_新居之约</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240620045600 +0800" stop="20240620054100 +0800">
+		<title lang="zh">38_新居之约</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -66642,6 +66897,9 @@
 	<programme channel="newtv动作电影" start="20240620030700 +0800" stop="20240620043600 +0800">
 		<title lang="zh">侠探锦毛鼠之血光再起</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240620043600 +0800" stop="20240620060600 +0800">
+		<title lang="zh">蒸发太平洋</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -66665,6 +66923,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240620041300 +0800" stop="20240620044000 +0800">
 		<title lang="zh">生活在海边的日子（下）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240620044000 +0800" stop="20240620050700 +0800">
+		<title lang="zh">保护栖息地——貂熊的家园（上）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -66756,6 +67017,9 @@
 	<programme channel="newtv炫舞未来" start="20240620043000 +0800" stop="20240620044300 +0800">
 		<title lang="zh">最真的梦-饶子龙（纯净版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240620045600 +0800" stop="20240620050500 +0800">
+		<title lang="zh">女儿情-完整（无二维码）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -66771,6 +67035,9 @@
 	<programme channel="newtv精品综合" start="20240620040400 +0800" stop="20240620044900 +0800">
 		<title lang="zh">02_光荣时代</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240620044900 +0800" stop="20240620053500 +0800">
+		<title lang="zh">03_光荣时代</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -66785,6 +67052,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240620032100 +0800" stop="20240620043200 +0800">
 		<title lang="zh">竖锯惊魂1夜魔归来</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240620043200 +0800" stop="20240620055500 +0800">
+		<title lang="zh">时空英雄</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -66854,6 +67124,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240620032800 +0800" stop="20240620050100 +0800">
 		<title lang="zh">永春白鹤拳之擎天画卷</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240620050100 +0800" stop="20240620060300 +0800">
+		<title lang="zh">女子刀术</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
